@@ -1,57 +1,70 @@
 const isMobile = /Mobi|Android/i.test(navigator.userAgent);
 
-function showInfo(properties, layer) {
-    const info = properties.address || properties.name || 'No info';
+function buildInfoParts(properties, keys) {
+    let infoParts = [];
+
+    keys.forEach(key => {
+        if (properties[key] !== undefined && properties[key] !== null && properties[key] !== '') {
+            const label = key.replace(/([A-Z])/g, ' $1')
+                .replace(/^./, str => str.toUpperCase());
+            infoParts.push(`<strong>${label}:</strong> ${properties[key]}`);
+        }
+    });
+
+    return infoParts;
+}
+
+function showFeatureInfo(layer, properties, keys, label, geoAddress = null) {
+    const infoParts = () => buildInfoParts(properties, keys).join('<br/>');
+    const htmlTemplate = () => `
+        <div>
+            <strong>${label}</strong><br/>
+            ${infoParts()} <br/>
+            <button onclick="copyToClipboard('${infoParts()}')">Copy</button>
+            ${geoAddress ? `<br/><button onclick="copyToClipboard('${geoAddress}')">Copy Address</button>` : ''}
+        </div>
+    `;
 
     if (isMobile) {
-        // Mobile: show popup with copy button
-        layer.bindPopup(`
-           <div>
-               ${info} <br/>
-               <button onclick="copyToClipboard('${info}')">Copy</button>
-           </div>
-       `).openPopup();
-    } else {
-        // Desktop: show tooltip
-        const latlng = layer.getBounds().getCenter(); // polygon centroid
-        layer.bindTooltip(info, { permanent: false, direction: 'top' })
-            .setLatLng(latlng)
-            .openTooltip();
-
-        layer.bindTooltip(info, { permanent: false, direction: 'top' }).openTooltip();
-    }
-
-    // Update side info box for both
-    results.innerHTML = info;
-}
-
-
-function showFeatureInfo(layer, info) {
-    // Update side info box
-    results.innerHTML = info;
-
-    if (isMobile || layer instanceof L.Polygon) {
-        // Mobile or polygons: show popup
-        layer.bindPopup(`
-           <div>
-               ${info} <br/>
-               <button onclick="copyToClipboard('${info}')">Copy</button>
-           </div>
-       `).openPopup();
-    } else {
-        // Desktop: tooltip on hover, popup on click
-        layer.bindTooltip(info, { direction: 'top', className: 'custom-tooltip' });
-
-        // Also show popup when clicked
         layer.on('click', () => {
-            layer.bindPopup(`
-               <div>
-                   ${info} <br/>
-                   <button onclick="copyToClipboard('${info}')">Copy</button>
-               </div>
-           `).openPopup();
+            const html = htmlTemplate();
+            layer.bindPopup(html).openPopup();
+            results.innerHTML = html; // update sidebar or results div dynamically
         });
+    } else {
+        const center = layer.getBounds().getCenter(); //
+        // Desktop: tooltip on hover
+        layer.bindTooltip(infoParts(), { direction: 'center', permanent: false})
+        layer.openTooltip(center);
+
+        // if (layer instanceof L.Polygon) {
+        //     layer.on('click', () => {
+        //         layer.closeTooltip();
+        //     });
+        // }
+    //     layer.on('click', () => {
+    //             layer.closeTooltip();
+    //             layer.setStyle({
+    //     color: layer.options.color,       // outline
+    //     fillColor: layer.options.fillColor, // fill
+    //     weight: layer.options.weight,
+    //     opacity: layer.options.opacity,
+    //     fillOpacity: layer.options.fillOpacity
+    // });
+    //         });
+
+
+        // on click
+        if (!(layer instanceof L.Polygon)) {
+            layer.on('click', () => {
+                const html = htmlTemplate();
+                layer.bindPopup(html).openPopup();
+                results.innerHTML = html;
+            });
+        }
+
     }
 }
+
 
 

@@ -79,22 +79,16 @@ const LayerConfig = {
            interactive: true
        }),
        onEachFeature: (feature, layer) => {
+        console.log(Object.keys(feature.properties));
+           showFeatureInfo(layer, feature.properties, ['name'], 'Neighborhood Info');
 
-           // layer.bindTooltip(feature.properties.nhood, {
-           //   permanent: false,
-           //   direction: "top"
-           // });
-
-           // hover effect for desktop
            layer.on('mouseover', () => {
                layer.setStyle({ weight: 3 })
            });
            layer.on('mouseout', () => layer.setStyle({ weight: 1 }));
 
-           // tap/click effect for mobile
            layer.on('click', () => {
-               selectedNeighborhood = feature.properties.nhood;
-               results.innerHTML = `Neighborhood: ${feature.properties.nhood}`
+               selectedNeighborhood = feature.properties.name;
 
                subCheckboxes.forEach(cb => cb.disabled = false);
                map.removeLayer(layers[LayerTypes.TIMELIMITEDPARKING.name]);
@@ -105,9 +99,6 @@ const LayerConfig = {
 
                addLayerToMap(LayerTypes.STREETCLEANINGMAP.name);
                map.addLayer(layers[LayerTypes.STREETCLEANINGMAP.name]);
-               // layer.openTooltip(); // show the tooltip on tap
-               // // optionally close it after 2 seconds
-               // setTimeout(() => layer.closeTooltip(), 2000);
            });
        }
    },
@@ -258,9 +249,12 @@ const LayerConfig = {
 
        onEachFeature: (feature, layer) => {
            const props = feature.properties;
-           const name = props.FACILITY_NAME || 'Parking Garage/Lot';
-           const address = props.STREET_ADDRESS || '';
+           const name = props.facility_name;
+           const address = props.street_address || '';
+           const location = props.location || '';
            const service = props.SERVICES || '';
+           const owner = props.owner || '';
+           const phone = props.phone || '';
            const info = address ? `${name}<br>${address}<br>${service}` : name;
            layer.bindTooltip(info, { permanent: false, direction: "top" });
            layer.on('click', () => {

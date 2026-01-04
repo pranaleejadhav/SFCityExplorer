@@ -234,3 +234,18 @@ border: 1px solid #ccc;
 .modal.show {
  display: block;
 }
+
+.custom-tooltip {
+    max-width: 200px;      /* maximum width */
+    min-width: 100px;      /* minimum width */
+    font-size: 14px;       /* adjust font size */
+    padding: 8px 12px;     /* padding inside the tooltip */
+    background-color: rgba(0,0,0,0.8);  /* background color */
+    color: white;          /* text color */
+    text-align: center;    /* optional: center text */
+    border-radius: 6px;    /* rounded corners */
+}
+
+.leaflet-interactive {
+    outline: none !important;
+}
