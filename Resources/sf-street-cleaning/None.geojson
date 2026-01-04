@@ -1,0 +1,379 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "corridor": "Collingwood St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "20th St  -  21st St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "None",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "corridor": "07th St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "0",
+        "tohour": "6",
+        "limits": "Channel St  -  Hooper St",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "None",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 AM - 6 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "corridor": "Richland Ave",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Arlington St  -  Mission St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "None",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "corridor": "Capitol Ave",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Start: 01-99 Block  -  Sagamore St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "None",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "corridor": "Vermont St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "20th St  -  21st St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "None",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "corridor": "West Point Rd",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Middle Point Rd  -  Middle Point Rd",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "None",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "corridor": "Naples St",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Geneva Ave  -  Rolph St",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "None",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "corridor": "Madison St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Athens St  -  Pioche St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "None",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "corridor": "Richland Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Arlington St  -  Mission St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "None",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "corridor": "Naples St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Geneva Ave  -  Rolph St",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "None",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "corridor": "Madison St",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Pioche St  -  Valmar Ter",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "None",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "corridor": "Pioche St",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Gambier St  -  Madison St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "None",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "corridor": "Naples St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Geneva Ave  -  Rolph St",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "None",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "corridor": "Madison St",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Athens St  -  Pioche St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "None",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "corridor": "Collingwood St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "20th St  -  21st St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "None",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "corridor": "Pioche St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Gambier St  -  Madison St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "None",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "corridor": "Naples St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Geneva Ave  -  Rolph St",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "None",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "corridor": "07th St",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "0",
+        "tohour": "6",
+        "limits": "Channel St  -  Hooper St",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "None",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 AM - 6 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "corridor": "Alemany Blvd",
+        "weekday": "Fri",
+        "fullname": "Fri 1st & 3rd",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Palmetto Ave  -  Orizaba Ave",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "None",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "corridor": "Capitol Ave",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Start: 01-99 Block  -  Sagamore St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "None",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "corridor": "Naples St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Geneva Ave  -  Rolph St",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "None",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "corridor": "Naples St",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Geneva Ave  -  Rolph St",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "None",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    }
+  ]
+}

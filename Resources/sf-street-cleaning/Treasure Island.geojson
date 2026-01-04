@@ -1,0 +1,405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.374467870815,
+            37.823860624294
+          ],
+          [
+            -122.373642165584,
+            37.824204913588
+          ],
+          [
+            -122.373584076641,
+            37.82424666206
+          ],
+          [
+            -122.373570346231,
+            37.824307363166
+          ],
+          [
+            -122.373620981199,
+            37.824561115584
+          ],
+          [
+            -122.373719320651,
+            37.824614895609
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Chinook Ct",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "lock Of  1438  -  1442",
+        "blockside": null,
+        "holidays": "0",
+        "nhood": "Treasure Island",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.374467870815,
+            37.823860624294
+          ],
+          [
+            -122.374707085485,
+            37.824208441605
+          ],
+          [
+            -122.374821392816,
+            37.824304394364
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Croaker Ct",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "lock Of  1444  -  1444",
+        "blockside": null,
+        "holidays": "0",
+        "nhood": "Treasure Island",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.374467870815,
+            37.823860624294
+          ],
+          [
+            -122.374707085485,
+            37.824208441605
+          ],
+          [
+            -122.374821392816,
+            37.824304394364
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Croaker Ct",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "lock Of  1444  -  1444",
+        "blockside": null,
+        "holidays": "0",
+        "nhood": "Treasure Island",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.375038495237,
+            37.823622689212
+          ],
+          [
+            -122.37511934433,
+            37.823787643824
+          ],
+          [
+            -122.375337767516,
+            37.824110747427
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Avenue B",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "lock Of  751  -  799",
+        "blockside": null,
+        "holidays": "0",
+        "nhood": "Treasure Island",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.375593112581,
+            37.82452429883
+          ],
+          [
+            -122.37460854845,
+            37.824931643924
+          ],
+          [
+            -122.374377577827,
+            37.824935314043
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Halibut Ct",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "lock Of  1430  -  1434",
+        "blockside": null,
+        "holidays": "0",
+        "nhood": "Treasure Island",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.375038495237,
+            37.823622689212
+          ],
+          [
+            -122.374467870815,
+            37.823860624294
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Chinook Ct",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "lock Of  1436  -  1436",
+        "blockside": null,
+        "holidays": "0",
+        "nhood": "Treasure Island",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.375593112581,
+            37.82452429883
+          ],
+          [
+            -122.376191278968,
+            37.82544447527
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Avenue B",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "lock Of  901  -  999",
+        "blockside": null,
+        "holidays": "0",
+        "nhood": "Treasure Island",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.375038495237,
+            37.823622689212
+          ],
+          [
+            -122.374467870815,
+            37.823860624294
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Chinook Ct",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "lock Of  1436  -  1436",
+        "blockside": null,
+        "holidays": "0",
+        "nhood": "Treasure Island",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.374906700956,
+            37.82317492261
+          ],
+          [
+            -122.375038495237,
+            37.823622689212
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Avenue B",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "lock Of  701  -  749",
+        "blockside": null,
+        "holidays": "0",
+        "nhood": "Treasure Island",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.375593112581,
+            37.82452429883
+          ],
+          [
+            -122.37460854845,
+            37.824931643924
+          ],
+          [
+            -122.374377577827,
+            37.824935314043
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Halibut Ct",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "lock Of  1430  -  1434",
+        "blockside": null,
+        "holidays": "0",
+        "nhood": "Treasure Island",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.374467870815,
+            37.823860624294
+          ],
+          [
+            -122.373642165584,
+            37.824204913588
+          ],
+          [
+            -122.373584076641,
+            37.82424666206
+          ],
+          [
+            -122.373570346231,
+            37.824307363166
+          ],
+          [
+            -122.373620981199,
+            37.824561115584
+          ],
+          [
+            -122.373719320651,
+            37.824614895609
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Chinook Ct",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "lock Of  1438  -  1442",
+        "blockside": null,
+        "holidays": "0",
+        "nhood": "Treasure Island",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.375337767516,
+            37.824110747427
+          ],
+          [
+            -122.375593112581,
+            37.82452429883
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Avenue B",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "lock Of  801  -  899",
+        "blockside": null,
+        "holidays": "0",
+        "nhood": "Treasure Island",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    }
+  ]
+}

@@ -1,0 +1,7090 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430190176,
+          37.766688679
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435008602,
+          37.762085299
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435477201,
+          37.760807601
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434141283,
+          37.763215038
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436001701,
+          37.761211698
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434177402,
+          37.760993802
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429570703,
+          37.766829601
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433227397,
+          37.7647643
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434923,
+          37.761165899
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429664798,
+          37.766755198
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428944301,
+          37.766306001
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43139565,
+          37.765386478
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436045902,
+          37.760672697
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4348156,
+          37.760011398
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432015761,
+          37.76489608
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434619237,
+          37.761691238
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433929398,
+          37.763731499
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434934299,
+          37.761287498
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430493701,
+          37.7664487
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435200746,
+          37.761969815
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4348261,
+          37.760124101
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430124199,
+          37.766391999
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434916999,
+          37.761101202
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434978108,
+          37.761757927
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434974102,
+          37.7617145
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4274945,
+          37.768471499
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434076898,
+          37.763265901
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437151402,
+          37.760966298
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43520981,
+          37.762067219
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.426926503,
+          37.769269501
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434327399,
+          37.763416798
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428751003,
+          37.766554301
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.426981002,
+          37.769226401
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434784465,
+          37.759676703
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435007702,
+          37.762076598
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428742598,
+          37.766465598
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434449099,
+          37.761859999
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436040297,
+          37.760614498
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431924643,
+          37.765317033
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436446199,
+          37.760747597
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435175402,
+          37.761697602
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431576101,
+          37.7655926
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4371462,
+          37.760911503
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433966597,
+          37.761125303
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435623102,
+          37.761184602
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428961299,
+          37.766485697
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430124199,
+          37.766391999
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4293948,
+          37.7669761
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435012899,
+          37.759950998
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434578499,
+          37.759352698
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427032198,
+          37.7691859
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43497555,
+          37.761730431
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430577697,
+          37.766382246
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4371166,
+          37.760599299
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428977599,
+          37.766656599
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434103697,
+          37.7632447
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435802597,
+          37.760787501
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432633975,
+          37.764756036
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4322413,
+          37.765066602
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431820669,
+          37.765050369
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435197603,
+          37.759315398
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434183242,
+          37.763530753
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434961999,
+          37.761584698
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429493399,
+          37.7672397
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435175,
+          37.759223102
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436588999,
+          37.760738701
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432194761,
+          37.764754516
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427408401,
+          37.768888398
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430072002,
+          37.766433299
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429976202,
+          37.766857899
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433960601,
+          37.761063198
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435175402,
+          37.761697602
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434427427,
+          37.76097864
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430395202,
+          37.766526501
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4357369,
+          37.760901702
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431440035,
+          37.765351375
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4330649,
+          37.764679598
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427456502,
+          37.7688504
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4351923,
+          37.761879702
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435022501,
+          37.760054153
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433828536,
+          37.763462373
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434995599,
+          37.761945997
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433052746,
+          37.764552877
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434977335,
+          37.761749614
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434097607,
+          37.760888432
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434644202,
+          37.759348703
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429011797,
+          37.767017501
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435066297,
+          37.760525002
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428110698,
+          37.767844197
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429604398,
+          37.767151902
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4350169,
+          37.762174801
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434978843,
+          37.76176582
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4360361,
+          37.760569901
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432620911,
+          37.764766368
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431509303,
+          37.765296602
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4360667,
+          37.7609772
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432288677,
+          37.765029134
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433130997,
+          37.760945868
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435659099,
+          37.760906502
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435931399,
+          37.761217699
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433285142,
+          37.760936539
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434440203,
+          37.7617269
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433051663,
+          37.764541598
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435009999,
+          37.762100599
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427167929,
+          37.769081595
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436028601,
+          37.761211301
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4289499,
+          37.766365199
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4316152,
+          37.765212799
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434565948,
+          37.76322807
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434232499,
+          37.763142799
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4371559,
+          37.761012901
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434617122,
+          37.763187575
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436839098,
+          37.7608334
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43475905,
+          37.759403542
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435010602,
+          37.762107701
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4350093,
+          37.762093301
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4316727,
+          37.765167397
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428187202,
+          37.768272602
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4358894,
+          37.761218303
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428236399,
+          37.768233699
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434442002,
+          37.761793402
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434462778,
+          37.763309649
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427642206,
+          37.768354699
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429431798,
+          37.766939499
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435628298,
+          37.761209602
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430536537,
+          37.766414796
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.426894618,
+          37.768586006
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4370495,
+          37.760820403
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431429099,
+          37.765360025
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435970202,
+          37.761213402
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435595302,
+          37.760800297
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433966597,
+          37.761125303
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434871603,
+          37.760613303
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435014745,
+          37.762151682
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431417532,
+          37.765369172
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433929398,
+          37.763731499
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433930298,
+          37.760746899
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432119062,
+          37.765163275
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4287304,
+          37.767494202
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433408332,
+          37.760929089
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434494998,
+          37.760974501
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430087,
+          37.766770202
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434776024,
+          37.759585978
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434955701,
+          37.761517201
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433972303,
+          37.761184703
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434928398,
+          37.7612235
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436515098,
+          37.7607433
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428028701,
+          37.767849198
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435054999,
+          37.760403101
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428953184,
+          37.766399696
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435549101,
+          37.760803197
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434630902,
+          37.760966298
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431864917,
+          37.765015375
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427106217,
+          37.767904702
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43305668,
+          37.764593893
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430615741,
+          37.76635216
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435608802,
+          37.760799498
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433082698,
+          37.764865302
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435404333,
+          37.759303112
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427940126,
+          37.768119101
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.426862119,
+          37.768247807
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434753401,
+          37.761601702
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434038201,
+          37.763645501
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4367503,
+          37.760728699
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434976488,
+          37.761740511
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434793641,
+          37.759775322
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4356285,
+          37.760798202
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436971102,
+          37.760825203
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433054,
+          37.764573
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435881298,
+          37.7608928
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435792299,
+          37.761230702
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434416175,
+          37.763346507
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4298607,
+          37.7669492
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4287562,
+          37.766609398
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430395202,
+          37.766526501
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427945301,
+          37.768463899
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43513,
+          37.7612092
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435156202,
+          37.761491799
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431627398,
+          37.765552099
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435553401,
+          37.761156698
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4350274,
+          37.7601067
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431961516,
+          37.765287871
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434842702,
+          37.760302602
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434699802,
+          37.760962101
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430349001,
+          37.766563102
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435001097,
+          37.762004799
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436072299,
+          37.7610337
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4349738,
+          37.759530702
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435142802,
+          37.761347602
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433976449,
+          37.76334539
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434989201,
+          37.761876802
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434363503,
+          37.760982497
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434439298,
+          37.761705101
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.426868316,
+          37.768312007
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433077099,
+          37.764806702
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434379501,
+          37.763375497
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436515098,
+          37.7607433
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427757999,
+          37.767865498
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434959501,
+          37.761557999
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434979671,
+          37.761774721
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434152899,
+          37.760995299
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434940697,
+          37.761356101
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4341905,
+          37.760992997
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434263099,
+          37.7609886
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435935199,
+          37.760779197
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435186801,
+          37.761819799
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431481502,
+          37.765667493
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433054729,
+          37.764573545
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435952818,
+          37.760888306
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434795702,
+          37.759797201
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437151402,
+          37.760966298
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428284801,
+          37.7681955
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432425702,
+          37.764571902
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429001499,
+          37.766908497
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4282146,
+          37.767716798
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436902297,
+          37.7607193
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42759567,
+          37.768391517
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428135497,
+          37.7683135
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436773099,
+          37.760837502
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433216098,
+          37.764646602
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434962843,
+          37.759412975
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432337999,
+          37.764990098
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434124471,
+          37.760996978
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4348529,
+          37.760412399
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43363782,
+          37.763613214
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434138102,
+          37.763566498
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.426899619,
+          37.768638806
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434961199,
+          37.761576199
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429006399,
+          37.766960203
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428087402,
+          37.768351498
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435181001,
+          37.761757399
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434934299,
+          37.761287498
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432369068,
+          37.764616664
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434989597,
+          37.759700502
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435692102,
+          37.761240599
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434968304,
+          37.759471665
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434659797,
+          37.761782701
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435242099,
+          37.759219101
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427233202,
+          37.767775901
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427380417,
+          37.768561704
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435006601,
+          37.762064098
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43319858,
+          37.760941778
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4280429,
+          37.768386702
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427506899,
+          37.768810502
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434861701,
+          37.760507501
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434994311,
+          37.759751175
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434983803,
+          37.761819403
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435033401,
+          37.760171699
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430141164,
+          37.766727443
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434264671,
+          37.760878319
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436040297,
+          37.760614498
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4347791,
+          37.760957301
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432152525,
+          37.764787919
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434448601,
+          37.761842201
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435810102,
+          37.760897198
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434147035,
+          37.76088544
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.426845115,
+          37.768070502
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431627398,
+          37.765552099
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429725298,
+          37.767056298
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435175502,
+          37.760826298
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434344303,
+          37.763054498
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433594441,
+          37.763647524
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434662301,
+          37.761811099
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427788615,
+          37.768238907
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428938601,
+          37.766245997
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43206269,
+          37.764858965
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432531822,
+          37.764836821
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434327399,
+          37.763416798
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434030696,
+          37.763302485
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435097998,
+          37.759227701
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428097365,
+          37.767994764
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433194199,
+          37.764418698
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427992698,
+          37.768426399
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42983,
+          37.766624602
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427690899,
+          37.767869499
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4351252,
+          37.759319701
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431868998,
+          37.765361098
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4350438,
+          37.760283799
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435137102,
+          37.761286498
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428989798,
+          37.766785501
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434981401,
+          37.761793315
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436962999,
+          37.7607155
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434804698,
+          37.759894498
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427351918,
+          37.767889905
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4332059,
+          37.764539799
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434764181,
+          37.759458689
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432579342,
+          37.764799236
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4281858,
+          37.767839699
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428634003,
+          37.7675704
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43372417,
+          37.763544918
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436699701,
+          37.760842101
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427456502,
+          37.7688504
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.426856816,
+          37.768192302
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435304997,
+          37.759215402
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4349585,
+          37.761547801
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4287256,
+          37.766286499
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427567098,
+          37.768766503
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.426913002,
+          37.767795202
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435659099,
+          37.760906502
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434651902,
+          37.761683498
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428768499,
+          37.766738401
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435011502,
+          37.762116999
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436072299,
+          37.7610337
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431561198,
+          37.765255502
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42684022,
+          37.768018903
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427693883,
+          37.768313819
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435572497,
+          37.7608017
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433930298,
+          37.760746899
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429017503,
+          37.7670777
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437015,
+          37.760712298
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429517098,
+          37.766872098
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427738636,
+          37.76827843
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433233103,
+          37.764823298
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4330649,
+          37.764679599
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434959817,
+          37.759380443
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.426878916,
+          37.768423207
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430019403,
+          37.766474801
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429480402,
+          37.766901099
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434275087,
+          37.763458112
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4350082,
+          37.759900902
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435706999,
+          37.760793402
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429749097,
+          37.766688601
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428954901,
+          37.766418
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434095002,
+          37.763251602
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435613401,
+          37.761096698
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4345145,
+          37.759356498
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435859399,
+          37.7612188
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427327119,
+          37.768603904
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429570703,
+          37.766829601
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434653997,
+          37.7617317
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434514953,
+          37.763268398
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434776024,
+          37.759585978
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434950499,
+          37.761461702
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433285142,
+          37.760936539
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427589198,
+          37.767754399
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4363179,
+          37.760755499
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432482201,
+          37.764876065
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434200899,
+          37.760992299
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429869802,
+          37.766942003
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435049802,
+          37.760347999
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432425702,
+          37.764571902
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435175,
+          37.759223102
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430214546,
+          37.766340147
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434824502,
+          37.761596097
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434663698,
+          37.761865
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428995,
+          37.766840397
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434354926,
+          37.760872856
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434394197,
+          37.760980652
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435214247,
+          37.762114905
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427962702,
+          37.767731902
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43372417,
+          37.763544918
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428762402,
+          37.766674698
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427992804,
+          37.768077449
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434560299,
+          37.760970601
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436078099,
+          37.761093099
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429806201,
+          37.7669923
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4356544,
+          37.761235301
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435619598,
+          37.761164502
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435165098,
+          37.7615869
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434989201,
+          37.761876802
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433926727,
+          37.763384717
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428392403,
+          37.768110401
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435118003,
+          37.7610808
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435205779,
+          37.762023906
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434837399,
+          37.760246198
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4272175,
+          37.769039401
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431966822,
+          37.764934784
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434847401,
+          37.760353503
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428028701,
+          37.767849198
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430174023,
+          37.766373644
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435002902,
+          37.759844
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428042369,
+          37.768038255
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434945,
+          37.761402101
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434832202,
+          37.760189899
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430243429,
+          37.766646569
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428581599,
+          37.767613399
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4283325,
+          37.768157703
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435113203,
+          37.761028799
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434403734,
+          37.760980074
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433211019,
+          37.764593605
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4346535,
+          37.7617097
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435150603,
+          37.761431102
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427241819,
+          37.767896605
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433778574,
+          37.763501891
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429837901,
+          37.766967199
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435866998,
+          37.7607835
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434699802,
+          37.760962101
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433070902,
+          37.7647421
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431446639,
+          37.765695064
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434354926,
+          37.760872856
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4349786,
+          37.759582401
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428683501,
+          37.767531301
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436687402,
+          37.760732599
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435583401,
+          37.761126698
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427546641,
+          37.768430249
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436502201,
+          37.760854299
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432324151,
+          37.764652187
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434980449,
+          37.76178308
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432235657,
+          37.764722174
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4357234,
+          37.761235402
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434957701,
+          37.761538402
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4349604,
+          37.761568203
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428039402,
+          37.767727298
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427233202,
+          37.767775901
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435196393,
+          37.761923028
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434984199,
+          37.759642902
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434621902,
+          37.761713498
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434086796,
+          37.760999259
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434659797,
+          37.761607698
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.426833402,
+          37.769343099
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.426873418,
+          37.768365305
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434089303,
+          37.7636051
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437121998,
+          37.760656302
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435611401,
+          37.761137199
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431961516,
+          37.765287871
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433756597,
+          37.760908006
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433762286,
+          37.76386367
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435754899,
+          37.761234798
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431721002,
+          37.765129198
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434837399,
+          37.760246198
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4355605,
+          37.760802499
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436383899,
+          37.760751397
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431406596,
+          37.765377822
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428740799,
+          37.766447001
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434791162,
+          37.75974868
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434809699,
+          37.759947997
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433199597,
+          37.764474599
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434101601,
+          37.760998362
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429877698,
+          37.7669358
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434780904,
+          37.759638429
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4350274,
+          37.7601067
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433984199,
+          37.763688198
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43219064,
+          37.765106645
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432645168,
+          37.764747179
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428087402,
+          37.768351498
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429548602,
+          37.767196097
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434821797,
+          37.760078001
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427887968,
+          37.768160346
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435374794,
+          37.759304869
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434867501,
+          37.7605688
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432532398,
+          37.764487502
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434654601,
+          37.761752303
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435124798,
+          37.761153298
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4339364,
+          37.760810601
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43305371,
+          37.764562924
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433811929,
+          37.76382441
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.426918216,
+          37.768832802
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429769002,
+          37.767021698
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428966501,
+          37.766540001
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435197603,
+          37.759315398
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4298502,
+          37.766957498
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434982244,
+          37.761802372
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4340322,
+          37.760892398
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434998398,
+          37.759795
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432148561,
+          37.765139946
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433060402,
+          37.764633001
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436392002,
+          37.7608611
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428983601,
+          37.76672
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434799553,
+          37.759838863
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433879493,
+          37.763422073
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433216098,
+          37.764646602
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4340869,
+          37.7632581
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432608779,
+          37.764775957
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.426911818,
+          37.768766004
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4274945,
+          37.768471499
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434288898,
+          37.763098302
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427923301,
+          37.767855502
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428971899,
+          37.766597199
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434222794,
+          37.76349947
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433676701,
+          37.763582458
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434441902,
+          37.761757198
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432281916,
+          37.764685589
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434182001,
+          37.763182797
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428731099,
+          37.766344602
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434857499,
+          37.7604614
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432108277,
+          37.764822912
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435344039,
+          37.759306704
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434122601,
+          37.763229797
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434583198,
+          37.761614901
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436839098,
+          37.7608334
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434661999,
+          37.761832998
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433051016,
+          37.760950714
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436905399,
+          37.760829299
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.426850317,
+          37.768124403
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434911903,
+          37.761046401
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434182001,
+          37.763182797
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434447897,
+          37.7618132
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427265216,
+          37.768652804
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.426905615,
+          37.768701005
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433865439,
+          37.763782087
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432596648,
+          37.764785551
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429617999,
+          37.766792302
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431721002,
+          37.765129198
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4353189,
+          37.760817402
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427837398,
+          37.767860698
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4353189,
+          37.760817402
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4352412,
+          37.760822202
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43501775,
+          37.760003087
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435018018,
+          37.759232405
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4371166,
+          37.760599299
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435038497,
+          37.760226299
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431912517,
+          37.764977731
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433621941,
+          37.760916156
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434112267,
+          37.760997717
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427940126,
+          37.768119101
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434137702,
+          37.760996177
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427525099,
+          37.767879502
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432478603,
+          37.764529998
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435270497,
+          37.759311101
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432382501,
+          37.764954899
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433222603,
+          37.7647143
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436245301,
+          37.760760003
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427355902,
+          37.76893
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435170898,
+          37.7616492
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435396902,
+          37.760812602
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431457408,
+          37.765337634
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4317744,
+          37.765086998
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431477183,
+          37.765321999
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434203856,
+          37.760882
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432382501,
+          37.764954899
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4368309,
+          37.760723698
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427880201,
+          37.768515398
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427839929,
+          37.768198333
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428683501,
+          37.767531301
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433055755,
+          37.764584246
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427241819,
+          37.767896605
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430296877,
+          37.766604301
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428039401,
+          37.767727298
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4304465,
+          37.766485999
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434130558,
+          37.763223521
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435060899,
+          37.760466999
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435823697,
+          37.761227802
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434448664,
+          37.760867182
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427816398,
+          37.768565801
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436902297,
+          37.7607193
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434165002,
+          37.7609945
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434578499,
+          37.759352698
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435583701,
+          37.760801001
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4349786,
+          37.759582401
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434982952,
+          37.761809986
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429806201,
+          37.7669923
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434113901,
+          37.763236699
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434770254,
+          37.759523966
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428732174,
+          37.76635571
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.426862119,
+          37.768247807
+        ]
+      },
+      "properties": {
+        "nhood": "Castro/Upper Market"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2540 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3903594,
+          37.735319502
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3914898,
+          37.732953799
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391520997,
+          37.732036098
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390837598,
+          37.732904698
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401157047,
+          37.724779514
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.400969873,
+          37.724328107
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391219601,
+          37.732905698
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390938701,
+          37.732962102
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391450802,
+          37.733066899
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390408038,
+          37.75068456
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401722525,
+          37.726615353
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391486101,
+          37.732136697
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391160799,
+          37.732312002
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391382575,
+          37.752583882
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391239002,
+          37.732849399
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401384478,
+          37.725465159
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390414917,
+          37.750755435
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401739942,
+          37.726821131
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391879899,
+          37.731827902
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391025599,
+          37.733431802
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390411898,
+          37.735168801
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391016602,
+          37.733006202
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3911983,
+          37.733752399
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391509101,
+          37.732897802
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391176602,
+          37.733812899
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390987098,
+          37.734340501
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390455291,
+          37.751171423
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401425178,
+          37.72560981
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3902012,
+          37.735792397
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390455291,
+          37.751171423
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391065201,
+          37.733033701
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3918493,
+          37.732374
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390612701,
+          37.735416698
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391806401,
+          37.731211302
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390452997,
+          37.735050599
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391494902,
+          37.7332599
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390399051,
+          37.750591959
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391612766,
+          37.752571472
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3904313,
+          37.7351131
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390734099,
+          37.735067799
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391762798,
+          37.731337299
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3912367,
+          37.733645401
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.392207,
+          37.730882798
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390931498,
+          37.733694301
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401365267,
+          37.725396882
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3912253,
+          37.732348503
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391283901,
+          37.732213001
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391468202,
+          37.7330164
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391900301,
+          37.731769
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.392313301,
+          37.752531925
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391776802,
+          37.732363601
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401496908,
+          37.725864743
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401229184,
+          37.724953483
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391502797,
+          37.732088401
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390377599,
+          37.7352674
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401609056,
+          37.726263321
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390444021,
+          37.751055302
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.392427312,
+          37.752525567
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3920038,
+          37.732396302
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391465245,
+          37.752579955
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391624598,
+          37.731736501
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3906308,
+          37.735364602
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3906845,
+          37.735210302
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391293999,
+          37.733485401
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3915407,
+          37.731979
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390962902,
+          37.732975798
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40118529,
+          37.724847627
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391009098,
+          37.733477902
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390991401,
+          37.733160603
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401445528,
+          37.725682136
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390385482,
+          37.75045216
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401049405,
+          37.724519914
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390429886,
+          37.750909669
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.386510004,
+          37.752845306
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390665099,
+          37.735265902
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3910459,
+          37.733375202
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391565902,
+          37.732732902
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391218601,
+          37.733695899
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3912923,
+          37.732694798
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.392046,
+          37.731347899
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390374904,
+          37.750343172
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3903662,
+          37.736143102
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391823098,
+          37.731992098
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391444717,
+          37.733447402
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401009235,
+          37.724423037
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401555274,
+          37.726072176
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390953799,
+          37.7344363
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391161101,
+          37.733855999
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390395201,
+          37.735216902
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391546501,
+          37.732789301
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390185302,
+          37.735838202
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3904401,
+          37.735930699
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390401102,
+          37.736042698
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3920843,
+          37.731237302
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3918609,
+          37.731882698
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390090698,
+          37.736109898
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391255498,
+          37.733592902
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3909252,
+          37.733123102
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3915636,
+          37.733298301
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391823997,
+          37.731160502
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401315708,
+          37.725227198
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390648402,
+          37.735314098
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391566002,
+          37.731905899
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401403184,
+          37.725531642
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390219802,
+          37.735738899
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.392047763,
+          37.75254677
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391527602,
+          37.732844203
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391823798,
+          37.752559494
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3914659,
+          37.732195197
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391605397,
+          37.731792101
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391851999,
+          37.731079499
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391509501,
+          37.752577835
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401093845,
+          37.724627089
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391308902,
+          37.732646602
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391422329,
+          37.752582076
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3901485,
+          37.735943803
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.392359761,
+          37.752529058
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391275502,
+          37.732743597
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391509501,
+          37.752577835
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390986601,
+          37.732989198
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390127768,
+          37.7360035
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391259398,
+          37.732367798
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390915002,
+          37.733740401
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3909347,
+          37.734491303
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391802998,
+          37.732050202
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390701599,
+          37.735161201
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390348402,
+          37.736194097
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3917237,
+          37.731450398
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401128467,
+          37.724710588
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390437143,
+          37.750984432
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391256302,
+          37.732799197
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39250642,
+          37.752522381
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3903815,
+          37.736099002
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390862202,
+          37.732918701
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.392066201,
+          37.7312896
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391126601,
+          37.7322925
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401584883,
+          37.726177407
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391513415,
+          37.733485702
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390408038,
+          37.75068456
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390861101,
+          37.733086797
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391841599,
+          37.7319387
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391744101,
+          37.731391501
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401703715,
+          37.72655064
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390420699,
+          37.735986399
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390382413,
+          37.750420535
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.392103998,
+          37.7311804
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.386166553,
+          37.752865125
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401025629,
+          37.724462573
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401537453,
+          37.726008839
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390109602,
+          37.736055701
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.392144298,
+          37.731063998
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401253183,
+          37.725018659
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401746681,
+          37.72670552
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391891299,
+          37.730966003
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39193329,
+          37.752553446
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390989199,
+          37.733533402
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390949798,
+          37.7336433
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401694344,
+          37.726809463
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3921235,
+          37.731124001
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390914701,
+          37.732948401
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.392175168,
+          37.752538287
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391326999,
+          37.732594035
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391007002,
+          37.734283498
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401470239,
+          37.725769961
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391677139,
+          37.752567231
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391588103,
+          37.732668602
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401675569,
+          37.726454117
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3918724,
+          37.731020602
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390969703,
+          37.734390697
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390378384,
+          37.750379019
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390889102,
+          37.7329339
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401068467,
+          37.724565886
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390810698,
+          37.732889498
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390165202,
+          37.735895802
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401647389,
+          37.7263491
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390394329,
+          37.750543305
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.392226301,
+          37.730827198
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391202401,
+          37.732955498
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390468599,
+          37.735005901
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401340685,
+          37.725310501
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390969502,
+          37.733588398
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391586197,
+          37.731847399
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.392275784,
+          37.752532994
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39155644,
+          37.752574654
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390744202,
+          37.733020502
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390456401,
+          37.735883799
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.392359761,
+          37.752529058
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391192902,
+          37.732330101
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.400989157,
+          37.724374614
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390422834,
+          37.750837009
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391043503,
+          37.733021402
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391272602,
+          37.733545198
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401769463,
+          37.726822196
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401519029,
+          37.725943361
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390367885,
+          37.750270845
+        ]
+      },
+      "properties": {
+        "nhood": "Bayview Hunters Point"
+      }
+    }
+  ]
+}

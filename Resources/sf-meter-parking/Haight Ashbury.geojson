@@ -1,0 +1,4932 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449808608,
+          37.765395433
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45338635,
+          37.768877989
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4475419,
+          37.769867801
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4371933,
+          37.772552798
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.448688701,
+          37.770005002
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447870202,
+          37.769950402
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446820698,
+          37.7697843
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446125101,
+          37.770172997
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449857998,
+          37.7649674
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452775297,
+          37.769324899
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453214287,
+          37.768028534
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437238028,
+          37.772772742
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4479273,
+          37.7698187
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446175102,
+          37.7700421
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446080498,
+          37.770054198
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44694527,
+          37.769728812
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452144,
+          37.769405399
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444712577,
+          37.770228572
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.448900098,
+          37.769819102
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450056901,
+          37.765953201
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44645,
+          37.770131501
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444982964,
+          37.77031857
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446934776,
+          37.769676872
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452560899,
+          37.769227798
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.448134417,
+          37.769916806
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437418097,
+          37.772581397
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450731672,
+          37.76929587
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.448862959,
+          37.769699385
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4484738,
+          37.769614902
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451453889,
+          37.769368959
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437309032,
+          37.772045023
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4491171,
+          37.769666998
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449938699,
+          37.7653673
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452902401,
+          37.769184201
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453679007,
+          37.770322842
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446803102,
+          37.769697402
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4503367,
+          37.769841901
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449505299,
+          37.764846298
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.445081605,
+          37.770306001
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453538707,
+          37.769630227
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447615202,
+          37.769858503
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453172422,
+          37.767821687
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447868498,
+          37.769826199
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437228298,
+          37.772725102
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4533864,
+          37.769246898
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437268,
+          37.772920401
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449915101,
+          37.765250702
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453503741,
+          37.76945761
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444950961,
+          37.770322649
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453140664,
+          37.767665058
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451955455,
+          37.769485901
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449872298,
+          37.765711299
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449902702,
+          37.765189101
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452491101,
+          37.769361098
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4454874,
+          37.7704342
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446901399,
+          37.770182698
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447472799,
+          37.769876602
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450452801,
+          37.769621099
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453227702,
+          37.769267198
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450223097,
+          37.769950502
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444239898,
+          37.770413297
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447464797,
+          37.770002101
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.445815898,
+          37.770087899
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.443787695,
+          37.770346477
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449554618,
+          37.769551316
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437257299,
+          37.7728675
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4494,
+          37.7697554
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444561484,
+          37.770247827
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453108906,
+          37.767508272
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450326401,
+          37.769791498
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.448167598,
+          37.769788
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44695615,
+          37.769782551
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453749777,
+          37.770672206
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446374798,
+          37.770141101
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437167518,
+          37.772426303
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452060997,
+          37.769416
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4494432,
+          37.764962002
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452037098,
+          37.769294602
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449541783,
+          37.769488608
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451539609,
+          37.769358026
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449959302,
+          37.769684003
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449960101,
+          37.7654737
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449827002,
+          37.765486798
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447405901,
+          37.769885202
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437015408,
+          37.771678292
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446162501,
+          37.770168197
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447953898,
+          37.769939801
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453354965,
+          37.768723047
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437665598,
+          37.773038301
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44430715,
+          37.770404723
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.445948098,
+          37.770071001
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437408799,
+          37.772535498
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.448679,
+          37.769956901
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451155098,
+          37.769531502
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452133601,
+          37.769282303
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.448081717,
+          37.769923506
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.445033689,
+          37.770312103
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451352402,
+          37.769506401
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451670655,
+          37.769341312
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437439298,
+          37.7726854
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4492562,
+          37.769649201
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447779901,
+          37.769837498
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437429201,
+          37.772636098
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447185401,
+          37.770037803
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452352699,
+          37.769378801
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452009499,
+          37.7692981
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451422402,
+          37.769497399
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450994131,
+          37.769427597
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452479198,
+          37.769238203
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437094086,
+          37.772065139
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.448593002,
+          37.769533
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449801496,
+          37.765360193
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447032397,
+          37.7701591
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453290105,
+          37.768402842
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450711371,
+          37.769195768
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.448772221,
+          37.769710957
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444570511,
+          37.77037115
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452025201,
+          37.769420598
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437257299,
+          37.7728675
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4466723,
+          37.770103198
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449838798,
+          37.765545298
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449899003,
+          37.769691697
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449780701,
+          37.765876501
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4371223,
+          37.773103802
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4526319,
+          37.769218701
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45160627,
+          37.769349524
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451567001,
+          37.769478998
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.443929815,
+          37.770328353
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453099216,
+          37.767460434
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450721072,
+          37.769243372
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451038279,
+          37.76954644
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4501018,
+          37.769541398
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450038399,
+          37.769549501
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4460098,
+          37.7700632
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.445050681,
+          37.770309937
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4520711,
+          37.769290198
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.448266063,
+          37.769899974
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449774699,
+          37.765227602
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446830399,
+          37.7698322
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451213131,
+          37.769399666
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.445882199,
+          37.770079399
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.445146244,
+          37.770297761
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45070167,
+          37.769147371
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444785252,
+          37.770219301
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44463464,
+          37.770238501
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450593197,
+          37.769283001
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453705104,
+          37.770451671
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449032101,
+          37.769802299
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452702302,
+          37.769209699
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452835697,
+          37.7691927
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450196398,
+          37.769819901
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450315902,
+          37.7697402
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451953435,
+          37.769475972
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453405947,
+          37.768974738
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451965033,
+          37.769532992
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450617701,
+          37.769404097
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.448935229,
+          37.769690169
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452209301,
+          37.769272602
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450033102,
+          37.769674598
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4459821,
+          37.770191203
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452623999,
+          37.7693442
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437005842,
+          37.771631281
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451749699,
+          37.769142001
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446502398,
+          37.770000403
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446242202,
+          37.770157999
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4518572,
+          37.769670402
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451963348,
+          37.769524708
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437216999,
+          37.772669597
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4489628,
+          37.7698111
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444420443,
+          37.770265807
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.443860176,
+          37.770337237
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446592901,
+          37.770113301
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446162501,
+          37.770043698
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451284979,
+          37.769390502
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449425498,
+          37.764856501
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449751498,
+          37.765112798
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453333964,
+          37.76861937
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453306202,
+          37.769257202
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45332306,
+          37.768565537
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447256898,
+          37.7700287
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447139703,
+          37.769919098
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444354709,
+          37.770274187
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450305201,
+          37.769687897
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.448310001,
+          37.7697699
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451879702,
+          37.769113402
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447185602,
+          37.769913298
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444141608,
+          37.770301353
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452048899,
+          37.769293099
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452424001,
+          37.769369698
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446355402,
+          37.7700191
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4376017,
+          37.773046498
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451094597,
+          37.769539203
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452024799,
+          37.769296099
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449655598,
+          37.7649349
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451971395,
+          37.769564272
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4462822,
+          37.770028499
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.448605401,
+          37.769594199
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.443999471,
+          37.770319473
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453301469,
+          37.768458948
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4518669,
+          37.769718503
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451891498,
+          37.7691715
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449890202,
+          37.765127198
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451967611,
+          37.769545671
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453202261,
+          37.767969161
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449951602,
+          37.765431098
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4497624,
+          37.765166699
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437204582,
+          37.772608306
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450524002,
+          37.769612002
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.443841315,
+          37.770464108
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451761098,
+          37.769197903
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450044999,
+          37.765894298
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450935185,
+          37.769435116
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447073603,
+          37.769927502
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449573701,
+          37.764945299
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449691601,
+          37.769718201
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450604697,
+          37.769339803
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453129508,
+          37.767609985
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453416323,
+          37.769025887
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437373098,
+          37.772359897
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447126219,
+          37.770045306
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4522819,
+          37.769387797
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4466694,
+          37.769979101
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449538,
+          37.769737798
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447395798,
+          37.770010902
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4503473,
+          37.7698936
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451960296,
+          37.769509706
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437185002,
+          37.7730957
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449878702,
+          37.765070301
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453511899,
+          37.76949788
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.448340947,
+          37.769890426
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451867901,
+          37.7690556
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449174901,
+          37.769784099
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4517383,
+          37.769085898
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452210597,
+          37.7693969
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4467366,
+          37.769970502
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437282098,
+          37.772989401
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447885999,
+          37.769948401
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452704202,
+          37.769334002
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453180452,
+          37.767861573
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4516367,
+          37.769470102
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444378535,
+          37.770395623
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.448997336,
+          37.769682249
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4496722,
+          37.769462402
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447592599,
+          37.769985801
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.445749502,
+          37.770096398
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450494403,
+          37.769491303
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453161685,
+          37.767768838
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437065102,
+          37.7731111
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.448198516,
+          37.769908587
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449648998,
+          37.7693489
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449384002,
+          37.769632901
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447847599,
+          37.769953302
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452074101,
+          37.769414301
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449054202,
+          37.769675
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449784998,
+          37.765278502
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446200801,
+          37.770038797
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449928703,
+          37.765318098
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449181802,
+          37.7696587
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450740367,
+          37.769339467
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4460539,
+          37.770181999
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447696501,
+          37.769848098
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.445589302,
+          37.770116799
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451956941,
+          37.769493208
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4471594,
+          37.7699166
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447774101,
+          37.769962701
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446524298,
+          37.770122102
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452274602,
+          37.769264298
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449473202,
+          37.769746001
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4504172,
+          37.769501199
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.448240498,
+          37.769778802
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449817598,
+          37.7654402
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449971098,
+          37.769558101
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444633884,
+          37.770363071
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4463128,
+          37.770149003
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44488392,
+          37.770331196
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450595198,
+          37.769602899
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446745703,
+          37.770093799
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450175902,
+          37.769531899
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446153102,
+          37.770169399
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449866498,
+          37.7650096
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4477059,
+          37.769971401
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447521202,
+          37.769994899
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446818502,
+          37.770084501
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451958615,
+          37.769501439
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449523935,
+          37.769401549
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.448667601,
+          37.769900999
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451771101,
+          37.769247199
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449321601,
+          37.769765402
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444286571,
+          37.770282873
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4520385,
+          37.7694189
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4512868,
+          37.769514699
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446840999,
+          37.769884699
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437177799,
+          37.772476601
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4517087,
+          37.769460899
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446582099,
+          37.769990199
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.448616298,
+          37.769647597
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453579879,
+          37.76983348
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452048899,
+          37.769417497
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449320998,
+          37.769640998
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452764501,
+          37.769201797
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451961903,
+          37.769517604
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4456753,
+          37.770105802
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437359899,
+          37.772294898
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449661499,
+          37.769409898
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447327401,
+          37.769895199
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449820699,
+          37.7695772
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451711849,
+          37.769336058
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453478641,
+          37.769333697
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.443972152,
+          37.770447429
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451493302,
+          37.769488402
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.445001728,
+          37.770316178
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.448816502,
+          37.769829797
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45315161,
+          37.767719098
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444443637,
+          37.770387324
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437081542,
+          37.772003454
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444037001,
+          37.770439162
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44410535,
+          37.770430449
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452557301,
+          37.769352699
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453190234,
+          37.767909788
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449247902,
+          37.769774801
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452011902,
+          37.769422297
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437456403,
+          37.772769398
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446149599,
+          37.770045302
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453396383,
+          37.768927522
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449513502,
+          37.764952999
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449830198,
+          37.769700498
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444757258,
+          37.770347343
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444216704,
+          37.77029178
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.448007598,
+          37.769808502
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451121297,
+          37.769411378
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451058979,
+          37.769419326
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449568901,
+          37.764838201
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451845202,
+          37.7696116
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449861401,
+          37.765657202
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451993199,
+          37.769300201
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451833702,
+          37.769555201
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451694773,
+          37.769338236
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4459092,
+          37.770200501
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44469633,
+          37.77035511
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.447322501,
+          37.770020301
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446811501,
+          37.769738602
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.443910971,
+          37.770455229
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449707202,
+          37.7658859
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453344572,
+          37.768671738
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450096,
+          37.769666602
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446423301,
+          37.7700105
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.448083399,
+          37.769798801
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444511269,
+          37.770378702
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4480175,
+          37.769931699
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449962599,
+          37.766158401
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449756197,
+          37.769585498
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450210999,
+          37.769891298
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451375675,
+          37.769378934
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4472544,
+          37.769904503
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.445479298,
+          37.770394101
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452349502,
+          37.769254698
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449638001,
+          37.769295401
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449098419,
+          37.769793804
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453717867,
+          37.77051468
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449739501,
+          37.765053297
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437296202,
+          37.771981946
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449354302,
+          37.764865498
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451229702,
+          37.769522003
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.448484702,
+          37.769668697
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453312106,
+          37.768511457
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45369249,
+          37.770389405
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.445065439,
+          37.770308056
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4499523,
+          37.766107299
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.445016317,
+          37.770314318
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449849499,
+          37.765597897
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444822966,
+          37.770338973
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453546931,
+          37.769670828
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450343702,
+          37.769510497
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444490732,
+          37.770256847
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450067099,
+          37.766003598
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449678,
+          37.765781903
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437725199,
+          37.773030701
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45311919,
+          37.767559046
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444073049,
+          37.770310093
+        ]
+      },
+      "properties": {
+        "nhood": "Haight Ashbury"
+      }
+    }
+  ]
+}

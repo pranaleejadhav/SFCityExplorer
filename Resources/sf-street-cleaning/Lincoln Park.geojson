@@ -1,0 +1,295 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.496659884918,
+            37.781477294218
+          ],
+          [
+            -122.498801334377,
+            37.781377192367
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clement St",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "36th Ave  -  38th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Lincoln Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.494519751744,
+            37.781577295078
+          ],
+          [
+            -122.495590623441,
+            37.781527261978
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clement St",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "34th Ave  -  35th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Lincoln Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.496659884918,
+            37.781477294218
+          ],
+          [
+            -122.498801334377,
+            37.781377192367
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clement St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "36th Ave  -  38th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Lincoln Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.498801334377,
+            37.781377192367
+          ],
+          [
+            -122.49987057073,
+            37.781327196194
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clement St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "38th Ave  -  39th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Lincoln Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.495590623441,
+            37.781527261978
+          ],
+          [
+            -122.496659884918,
+            37.781477294218
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clement St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "35th Ave  -  36th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Lincoln Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.493446345523,
+            37.78162723857
+          ],
+          [
+            -122.494519751744,
+            37.781577295078
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clement St",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "33rd Ave  -  34th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Lincoln Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.498801334377,
+            37.781377192367
+          ],
+          [
+            -122.49987057073,
+            37.781327196194
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clement St",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "38th Ave  -  39th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Lincoln Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.493446345523,
+            37.78162723857
+          ],
+          [
+            -122.494519751744,
+            37.781577295078
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clement St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "33rd Ave  -  34th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Lincoln Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.494519751744,
+            37.781577295078
+          ],
+          [
+            -122.495590623441,
+            37.781527261978
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clement St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "34th Ave  -  35th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Lincoln Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.495590623441,
+            37.781527261978
+          ],
+          [
+            -122.496659884918,
+            37.781477294218
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clement St",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "35th Ave  -  36th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Lincoln Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    }
+  ]
+}
