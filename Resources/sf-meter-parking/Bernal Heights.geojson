@@ -1,0 +1,5205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418772202,
+          37.747486102
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.423114,
+          37.740414
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4205973,
+          37.7446593
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421570601,
+          37.744065397
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420123298,
+          37.747636502
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419440502,
+          37.746451703
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4201669,
+          37.745827201
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.417934498,
+          37.739142901
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421181502,
+          37.743978902
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419794302,
+          37.745904001
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419447,
+          37.746089
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418540202,
+          37.747493199
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422882503,
+          37.7407678
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420135703,
+          37.745500798
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4195149,
+          37.746336502
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4199617,
+          37.745291502
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422363501,
+          37.741571697
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416222914,
+          37.738977746
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422439798,
+          37.744012602
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415490944,
+          37.738907123
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418842699,
+          37.747376998
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422572601,
+          37.7416
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424276698,
+          37.736272898
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415635699,
+          37.738921099
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421797203,
+          37.742800998
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422606498,
+          37.741547502
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422913298,
+          37.740720102
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416050707,
+          37.738961131
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419689802,
+          37.746065699
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420320797,
+          37.747434
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.414215799,
+          37.738854301
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422134019,
+          37.743920983
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419929201,
+          37.745341799
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418600401,
+          37.747751999
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415021702,
+          37.7388618
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421500198,
+          37.7440697
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416185999,
+          37.739084798
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422049101,
+          37.743926101
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420024698,
+          37.745193998
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418257,
+          37.7392846
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418718697,
+          37.747216898
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420259498,
+          37.744830302
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418770799,
+          37.746786202
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420181602,
+          37.744951001
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.417614398,
+          37.739222602
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420629302,
+          37.744609701
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420198802,
+          37.746160202
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420457601,
+          37.744523502
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.414289498,
+          37.738848601
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421733098,
+          37.742900201
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420440502,
+          37.744902202
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42148,
+          37.742941
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419328101,
+          37.746273598
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420087501,
+          37.747261702
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421167303,
+          37.743040698
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422834301,
+          37.7408425
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421061,
+          37.74359
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418344401,
+          37.747796199
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424522098,
+          37.736169499
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421764301,
+          37.742851798
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424255402,
+          37.736334701
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420629,
+          37.7465298
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419254401,
+          37.746387699
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.423113798,
+          37.740414402
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419202098,
+          37.746468601
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4182801,
+          37.747895698
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420111602,
+          37.7475136
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4173491,
+          37.739197099
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420371899,
+          37.7450084
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420141497,
+          37.745561198
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422032198,
+          37.742084899
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422081399,
+          37.741675801
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418643998,
+          37.7473324
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416693702,
+          37.739133798
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421458501,
+          37.743325599
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.413880897,
+          37.738990702
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418641399,
+          37.747688598
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420823499,
+          37.743956801
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420952698,
+          37.743756697
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420052001,
+          37.746891602
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420062897,
+          37.7469977
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418795101,
+          37.747098601
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4233259,
+          37.740438799
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420188302,
+          37.746050198
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4191094,
+          37.746612099
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.414358202,
+          37.738843298
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.417979503,
+          37.739257901
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416843101,
+          37.739037602
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419966339,
+          37.745996101
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418573,
+          37.747442
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418504098,
+          37.747549101
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418806199,
+          37.747433402
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416846102,
+          37.7391485
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421242198,
+          37.743308299
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4201401,
+          37.7478117
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420788301,
+          37.744011401
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424735149,
+          37.735551898
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.423081903,
+          37.7404629
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419283598,
+          37.746342498
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4244131,
+          37.736485598
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421206301,
+          37.743364
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.417677302,
+          37.739228799
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.414262699,
+          37.738961098
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416911699,
+          37.739044201
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421320602,
+          37.743539198
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416781399,
+          37.739142298
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420128902,
+          37.747694398
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416625797,
+          37.739016603
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420122202,
+          37.745043001
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4234545,
+          37.740242802
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421355398,
+          37.743485101
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418311599,
+          37.747846899
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420294,
+          37.747151
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.423359198,
+          37.740387899
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419962705,
+          37.745958142
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421060601,
+          37.743589601
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415561271,
+          37.738913909
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424498902,
+          37.7362367
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419166003,
+          37.746876518
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421105003,
+          37.743015597
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420988198,
+          37.743701801
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.414516698,
+          37.7389413
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422834,
+          37.740842
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418737702,
+          37.747539501
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418440999,
+          37.7476467
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4244314,
+          37.736432602
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4213279,
+          37.74397
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416759399,
+          37.7390295
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421872802,
+          37.742331701
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420071201,
+          37.747091801
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.417633302,
+          37.739113799
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4200873,
+          37.745096902
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422429299,
+          37.741469701
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421255,
+          37.742984
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4242339,
+          37.736397001
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420754399,
+          37.746522301
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4200049,
+          37.746399098
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422208,
+          37.743916501
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4148707,
+          37.738847299
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419727297,
+          37.746007702
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422394402,
+          37.741523898
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.417901099,
+          37.739250301
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422285499,
+          37.743911802
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415566202,
+          37.739025001
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421266801,
+          37.744083899
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4189128,
+          37.746798501
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.413742702,
+          37.739001498
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420307599,
+          37.747296397
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422332002,
+          37.741620502
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419986102,
+          37.746203001
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.423167297,
+          37.740332802
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419983224,
+          37.74617249
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420311399,
+          37.747336401
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4150529,
+          37.738975498
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.423259001,
+          37.740540701
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420754002,
+          37.7444167
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422386,
+          37.74189
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421111798,
+          37.742926
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424514901,
+          37.735582202
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418406298,
+          37.747700299
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420025302,
+          37.746612401
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41473088,
+          37.738833785
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422638399,
+          37.741498099
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420858301,
+          37.744255002
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421557201,
+          37.743956097
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4170587,
+          37.7390584
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420926099,
+          37.744150099
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420054398,
+          37.745147998
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419958947,
+          37.745918889
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418882999,
+          37.747314597
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416975999,
+          37.739050398
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416256401,
+          37.739091598
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419441,
+          37.746452
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.417556798,
+          37.739106401
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420659002,
+          37.744563701
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4194804,
+          37.746037899
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420106003,
+          37.747455302
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420183117,
+          37.745996402
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422541599,
+          37.741648
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420046799,
+          37.746836298
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4152859,
+          37.738887298
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420019898,
+          37.746555297
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419971,
+          37.746044
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420302597,
+          37.7472441
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421488698,
+          37.7432788
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416909799,
+          37.739154697
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420946199,
+          37.7465107
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421417899,
+          37.744074701
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4180452,
+          37.739264198
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.413712701,
+          37.7388934
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420117402,
+          37.747574699
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4137816,
+          37.738888103
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418974088,
+          37.747173577
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.417126398,
+          37.739064899
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421426499,
+          37.743375002
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419305302,
+          37.746660798
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420112,
+          37.747514
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415194303,
+          37.738989199
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416988197,
+          37.739162202
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422214,
+          37.74173
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420823499,
+          37.746518099
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421255301,
+          37.742983702
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418771,
+          37.746786
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418573098,
+          37.747442198
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421479702,
+          37.742940501
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418526998,
+          37.747865501
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4226759,
+          37.7414399
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422208,
+          37.743917
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418102901,
+          37.739269798
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.423194298,
+          37.740291602
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420211201,
+          37.746289502
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415633497,
+          37.7390315
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415122302,
+          37.738982198
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421190398,
+          37.744088498
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421328,
+          37.74397
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421021798,
+          37.746506101
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422165606,
+          37.743919061
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420693,
+          37.744511
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421640997,
+          37.7440611
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4217353,
+          37.743945201
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4195111,
+          37.745990301
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418754399,
+          37.7471617
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424239399,
+          37.736990702
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4188447,
+          37.7467926
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424567399,
+          37.736038401
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420067603,
+          37.747048399
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421908799,
+          37.7422759
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415799102,
+          37.739047498
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419572299,
+          37.746247598
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420194102,
+          37.746111202
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4241524,
+          37.736633398
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.414968902,
+          37.738967401
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424538102,
+          37.735515202
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4208869,
+          37.746514198
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419177073,
+          37.746859384
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421707,
+          37.74294
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421089602,
+          37.743544702
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420692702,
+          37.744511499
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419081801,
+          37.746654902
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4201487,
+          37.7456363
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419955672,
+          37.745884669
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422353102,
+          37.7439076
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416329799,
+          37.739098701
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.423229798,
+          37.740237399
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416288309,
+          37.738984055
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422190599,
+          37.741839499
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4204852,
+          37.744480799
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422363803,
+          37.741923301
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420394,
+          37.744622
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419990902,
+          37.746252901
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415900701,
+          37.738946698
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.423038602,
+          37.7408781
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419829702,
+          37.7458492
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424049102,
+          37.736934203
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424466001,
+          37.736332198
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420293701,
+          37.7471511
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4221525,
+          37.741704601
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421626201,
+          37.743951901
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.423326,
+          37.740439
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4242119,
+          37.736460899
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419599501,
+          37.746205398
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420719201,
+          37.7444705
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4202877,
+          37.744786699
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.413954401,
+          37.738985098
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419929,
+          37.745342
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.417499801,
+          37.739211599
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.414133098,
+          37.7388608
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4191429,
+          37.746560299
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419760199,
+          37.745956802
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420394301,
+          37.744621598
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418703498,
+          37.747592402
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424031399,
+          37.7369864
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421675699,
+          37.7429892
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4223855,
+          37.741889701
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420519499,
+          37.744427702
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415493302,
+          37.739018
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419210247,
+          37.746808034
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.413819201,
+          37.738995503
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420916002,
+          37.743813499
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420145901,
+          37.747871999
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420821102,
+          37.744312703
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422455098,
+          37.741429797
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419355699,
+          37.746230901
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4204056,
+          37.744956198
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.417062198,
+          37.739169701
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.417479003,
+          37.739098902
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422158697,
+          37.741888902
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422127098,
+          37.741937903
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421285202,
+          37.743593898
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419995702,
+          37.746302801
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424328901,
+          37.7367267
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4208927,
+          37.744201799
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4216155,
+          37.742730199
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421024799,
+          37.743645101
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4205562,
+          37.744370901
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.414941901,
+          37.7388541
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418671401,
+          37.747642
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422175903,
+          37.744028601
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420281101,
+          37.747019599
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421099202,
+          37.746501402
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421337098,
+          37.744079602
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4174259,
+          37.739204502
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4223624,
+          37.744017302
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416095402,
+          37.739076097
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4214448,
+          37.742994598
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415424101,
+          37.738900698
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415726598,
+          37.739040502
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.423293898,
+          37.740487498
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422095253,
+          37.74392334
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419154269,
+          37.746894681
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.423485899,
+          37.740194903
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419544399,
+          37.746290798
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420152098,
+          37.747937099
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420316701,
+          37.747391398
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421711316,
+          37.744056902
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421122297,
+          37.743494098
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4172532,
+          37.739077098
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.414816502,
+          37.738952699
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421707198,
+          37.742940401
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4198937,
+          37.745396902
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.414445201,
+          37.738946899
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420318501,
+          37.744739001
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420134401,
+          37.747752099
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422303201,
+          37.744020901
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4186991,
+          37.74678
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419970896,
+          37.746043709
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420347402,
+          37.744694202
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420427298,
+          37.744570502
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422275999,
+          37.742059301
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419217001,
+          37.746797602
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421394,
+          37.743425
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420093301,
+          37.7473227
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424448399,
+          37.736383199
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419993501,
+          37.7452422
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4159752,
+          37.7389538
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4223039,
+          37.741663999
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422445001,
+          37.741797601
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.414892699,
+          37.738960097
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424296401,
+          37.736215801
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418122001,
+          37.7391609
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420178317,
+          37.745945502
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4202982,
+          37.747197899
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420286901,
+          37.747080603
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419171102,
+          37.7465165
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422127,
+          37.741938
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420204797,
+          37.746223
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422303,
+          37.744021
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.423264002,
+          37.740185398
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4212617,
+          37.743974001
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418919399,
+          37.747258198
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41997588,
+          37.746095775
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421394301,
+          37.743424903
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416684499,
+          37.739022302
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424069101,
+          37.736875099
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422187302,
+          37.742196797
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415421502,
+          37.739011098
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420068,
+          37.747048
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420057902,
+          37.746946699
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4186,
+          37.747752
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419861908,
+          37.745446106
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424275402,
+          37.736884397
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415353497,
+          37.738893903
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.417402001,
+          37.739091498
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416029202,
+          37.739069699
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420787401,
+          37.744364799
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420163,
+          37.745786101
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.423003599,
+          37.740932298
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422101198,
+          37.741977901
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420823,
+          37.746518
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4172829,
+          37.7391907
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418806,
+          37.747433
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422214202,
+          37.741729601
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.417326899,
+          37.7390842
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421387998,
+          37.743966401
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4218207,
+          37.743939998
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420697,
+          37.746525698
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419191813,
+          37.746836568
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41997994,
+          37.74613819
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424189202,
+          37.736526501
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421187302,
+          37.742956298
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4144278,
+          37.7388379
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.414804558,
+          37.738840894
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418474298,
+          37.747595201
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422416402,
+          37.741841801
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419654498,
+          37.746120299
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421514498,
+          37.7428866
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421418,
+          37.744075
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4202752,
+          37.746958299
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422796001,
+          37.740901698
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422489101,
+          37.741377097
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422394,
+          37.741524
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424299799,
+          37.736812598
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416401101,
+          37.739105602
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419447101,
+          37.746089297
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419336701,
+          37.746612401
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421105,
+          37.743016
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418007699,
+          37.739149897
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420441,
+          37.744902
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419654,
+          37.74612
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422606,
+          37.741548
+        ]
+      },
+      "properties": {
+        "nhood": "Bernal Heights"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3335 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.461619755469,
+            37.773895253488
+          ],
+          [
+            -122.462683796394,
+            37.773759751656
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "04th Ave  -  05th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.477766947096,
+            37.772863655267
+          ],
+          [
+            -122.478836951316,
+            37.77281456851
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st, 3rd, 5th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "19th Ave  -  20th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.493832478955,
+            37.772129661789
+          ],
+          [
+            -122.494903299241,
+            37.772080795145
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st, 3rd, 5th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "34th Ave  -  35th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.468023916581,
+            37.773303833536
+          ],
+          [
+            -122.469092496323,
+            37.773256712546
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "10th Ave  -  11th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.454285117083,
+            37.772895177828
+          ],
+          [
+            -122.454083217588,
+            37.771930404305
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Stanyan St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Hayes St  -  Fell St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.453902454747,
+            37.771053837798
+          ],
+          [
+            -122.453726227208,
+            37.770098080068
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Stanyan St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Oak St  -  Page St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.459588500206,
+            37.775566459723
+          ],
+          [
+            -122.459486118713,
+            37.774166934033
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "02nd Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 1st & 3rd",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Cabrillo St  -  Fulton St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.454285117083,
+            37.772895177828
+          ],
+          [
+            -122.454083217588,
+            37.771930404305
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Stanyan St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Hayes St  -  Fell St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.478836951316,
+            37.77281456851
+          ],
+          [
+            -122.479904580543,
+            37.772765580823
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "20th Ave  -  21st Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.459486118713,
+            37.774166934033
+          ],
+          [
+            -122.460552661793,
+            37.774031133966
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "02nd Ave  -  03rd Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.464811670142,
+            37.773488744246
+          ],
+          [
+            -122.465331676733,
+            37.773422509762
+          ],
+          [
+            -122.465883163471,
+            37.77339820477
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "07th Ave  -  08th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.476694205543,
+            37.772912858005
+          ],
+          [
+            -122.477766947096,
+            37.772863655267
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st, 3rd, 5th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "18th Ave  -  19th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.458371099376,
+            37.77430889561
+          ],
+          [
+            -122.459486118713,
+            37.774166934033
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "Arguello Blvd  -  02nd Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.455252545029,
+            37.774686906349
+          ],
+          [
+            -122.456283639802,
+            37.774554711935
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Parsons St  -  Willard North St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.456283639802,
+            37.774554711935
+          ],
+          [
+            -122.458371099376,
+            37.77430889561
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Willard North St  -  Arguello Blvd",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.463749209964,
+            37.773624065039
+          ],
+          [
+            -122.464811670142,
+            37.773488744246
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "06th Ave  -  07th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.476694205543,
+            37.772912858005
+          ],
+          [
+            -122.477766947096,
+            37.772863655267
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "18th Ave  -  19th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.470162692283,
+            37.773209510535
+          ],
+          [
+            -122.47124006817,
+            37.773161981821
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "12th Ave  -  Funston Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.464942090252,
+            37.775320946975
+          ],
+          [
+            -122.464811670142,
+            37.773488744246
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "07th Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 1st & 3rd",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Cabrillo St  -  Fulton St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.466951710535,
+            37.773351104829
+          ],
+          [
+            -122.468023916581,
+            37.773303833536
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "09th Ave  -  10th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.458637161229,
+            37.767200000362
+          ],
+          [
+            -122.458755094518,
+            37.767197172184
+          ],
+          [
+            -122.458825258069,
+            37.767174292968
+          ],
+          [
+            -122.459069140453,
+            37.767062526944
+          ],
+          [
+            -122.459855447776,
+            37.766453748313
+          ],
+          [
+            -122.459931488046,
+            37.766348840554
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Kezar Dr",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "6",
+        "tohour": "7",
+        "limits": "Martin Luther King Jr Dr  -  Lincoln Way",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 7 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.477766947096,
+            37.772863655267
+          ],
+          [
+            -122.478836951316,
+            37.77281456851
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "19th Ave  -  20th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.469092496323,
+            37.773256712546
+          ],
+          [
+            -122.470162692283,
+            37.773209510535
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st, 3rd, 5th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "11th Ave  -  12th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.478836951316,
+            37.77281456851
+          ],
+          [
+            -122.479904580543,
+            37.772765580823
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "20th Ave  -  21st Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.462683796394,
+            37.773759751656
+          ],
+          [
+            -122.463749209964,
+            37.773624065039
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "05th Ave  -  06th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.462683796394,
+            37.773759751656
+          ],
+          [
+            -122.463749209964,
+            37.773624065039
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st, 3rd, 5th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "05th Ave  -  06th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.470162692283,
+            37.773209510535
+          ],
+          [
+            -122.47124006817,
+            37.773161981821
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "12th Ave  -  Funston Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.453902454747,
+            37.771053837798
+          ],
+          [
+            -122.453726227208,
+            37.770098080068
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Stanyan St",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Oak St  -  Page St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.464312455638,
+            37.766071829647
+          ],
+          [
+            -122.465268098438,
+            37.766022342057
+          ],
+          [
+            -122.465376632267,
+            37.765969941802
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lincoln Way",
+        "weekday": "Fri",
+        "fullname": "Fri 1st & 3rd",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "07th Ave  -  08th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.477766947096,
+            37.772863655267
+          ],
+          [
+            -122.478836951316,
+            37.77281456851
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "19th Ave  -  20th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.468158437752,
+            37.775174011121
+          ],
+          [
+            -122.468023916581,
+            37.773303833536
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "10th Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 1st & 3rd",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Cabrillo St  -  Fulton St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.468023916581,
+            37.773303833536
+          ],
+          [
+            -122.469092496323,
+            37.773256712546
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "10th Ave  -  11th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.47124006817,
+            37.773161981821
+          ],
+          [
+            -122.471762122849,
+            37.773138947668
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "Funston Ave  -  Park Presidio Blvd",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.468023916581,
+            37.773303833536
+          ],
+          [
+            -122.469092496323,
+            37.773256712546
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "10th Ave  -  11th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.470162692283,
+            37.773209510535
+          ],
+          [
+            -122.47124006817,
+            37.773161981821
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "12th Ave  -  Funston Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.468023916581,
+            37.773303833536
+          ],
+          [
+            -122.469092496323,
+            37.773256712546
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st, 3rd, 5th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "10th Ave  -  11th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.459931488046,
+            37.766348840554
+          ],
+          [
+            -122.460105100763,
+            37.766297825409
+          ],
+          [
+            -122.460390831383,
+            37.766231903472
+          ],
+          [
+            -122.46095556228,
+            37.766208005483
+          ],
+          [
+            -122.461089543843,
+            37.766161082
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lincoln Way",
+        "weekday": "Fri",
+        "fullname": "Fri 1st & 3rd",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "03rd Ave  -  04th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.464942090252,
+            37.775320946975
+          ],
+          [
+            -122.464811670142,
+            37.773488744246
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "07th Ave",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Cabrillo St  -  Fulton St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.454018233506,
+            37.771616239174
+          ],
+          [
+            -122.453979522254,
+            37.771428395344
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Stanyan St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Ggp Access Road  -  Fell St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.47124006817,
+            37.773161981821
+          ],
+          [
+            -122.471762122849,
+            37.773138947668
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "Funston Ave  -  Park Presidio Blvd",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.453902454747,
+            37.771053837798
+          ],
+          [
+            -122.453801116427,
+            37.771113681562
+          ],
+          [
+            -122.453375325462,
+            37.771163650485
+          ],
+          [
+            -122.453306950968,
+            37.771199702754
+          ],
+          [
+            -122.453277081829,
+            37.77124769608
+          ],
+          [
+            -122.453271399037,
+            37.771304788378
+          ],
+          [
+            -122.453295131446,
+            37.771390190313
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Oak Access Rd",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "7",
+        "tohour": "9",
+        "limits": "Stanyan St  -  Oak St",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 9 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.458276582483,
+            37.767279942791
+          ],
+          [
+            -122.458545438754,
+            37.76720141333
+          ],
+          [
+            -122.458637161229,
+            37.767200000362
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Kezar Dr",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Arguello Blvd  -  Martin Luther King Jr Dr",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.492761384729,
+            37.77217853105
+          ],
+          [
+            -122.493832478955,
+            37.772129661789
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st, 3rd, 5th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "33rd Ave  -  34th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.470297902847,
+            37.775076565102
+          ],
+          [
+            -122.470162692283,
+            37.773209510535
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "12th Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Cabrillo St  -  Fulton St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.492761384729,
+            37.77217853105
+          ],
+          [
+            -122.493832478955,
+            37.772129661789
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "33rd Ave  -  34th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.466951710535,
+            37.773351104829
+          ],
+          [
+            -122.468023916581,
+            37.773303833536
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st, 3rd, 5th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "09th Ave  -  10th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.455252545029,
+            37.774686906349
+          ],
+          [
+            -122.456283639802,
+            37.774554711935
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Parsons St  -  Willard North St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.492761384729,
+            37.77217853105
+          ],
+          [
+            -122.493832478955,
+            37.772129661789
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "33rd Ave  -  34th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.453902454747,
+            37.771053837798
+          ],
+          [
+            -122.453801116427,
+            37.771113681562
+          ],
+          [
+            -122.453375325462,
+            37.771163650485
+          ],
+          [
+            -122.453306950968,
+            37.771199702754
+          ],
+          [
+            -122.453277081829,
+            37.77124769608
+          ],
+          [
+            -122.453271399037,
+            37.771304788378
+          ],
+          [
+            -122.453295131446,
+            37.771390190313
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Oak Access Rd",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "7",
+        "tohour": "9",
+        "limits": "Stanyan St  -  Oak St",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 9 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.464811670142,
+            37.773488744246
+          ],
+          [
+            -122.465331676733,
+            37.773422509762
+          ],
+          [
+            -122.465883163471,
+            37.77339820477
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st, 3rd, 5th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "07th Ave  -  08th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444024306745,
+            37.772295289678
+          ],
+          [
+            -122.445716665627,
+            37.772080394208
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Oak St",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Central Ave  -  Masonic Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.455282599772,
+            37.768175358503
+          ],
+          [
+            -122.455356540762,
+            37.768126768189
+          ],
+          [
+            -122.455541410811,
+            37.768090197961
+          ],
+          [
+            -122.456699309413,
+            37.767743180077
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Kezar Dr",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Waller St  -  Unnamed #139",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.478836951316,
+            37.77281456851
+          ],
+          [
+            -122.479904580543,
+            37.772765580823
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st, 3rd, 5th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "20th Ave  -  21st Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.463749209964,
+            37.773624065039
+          ],
+          [
+            -122.464811670142,
+            37.773488744246
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "06th Ave  -  07th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.47124006817,
+            37.773161981821
+          ],
+          [
+            -122.471762122849,
+            37.773138947668
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st, 3rd, 5th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Funston Ave  -  Park Presidio Blvd",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.464811670142,
+            37.773488744246
+          ],
+          [
+            -122.465331676733,
+            37.773422509762
+          ],
+          [
+            -122.465883163471,
+            37.77339820477
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "07th Ave  -  08th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.458371099376,
+            37.77430889561
+          ],
+          [
+            -122.459486118713,
+            37.774166934033
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Arguello Blvd  -  02nd Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.449143173788,
+            37.772578916912
+          ],
+          [
+            -122.450786707808,
+            37.772367663987
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fell St",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Clayton St  -  Cole St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.449143173788,
+            37.772578916912
+          ],
+          [
+            -122.450786707808,
+            37.772367663987
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fell St",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Clayton St  -  Cole St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.463749209964,
+            37.773624065039
+          ],
+          [
+            -122.464811670142,
+            37.773488744246
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "06th Ave  -  07th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.462804751925,
+            37.775417907846
+          ],
+          [
+            -122.462683796394,
+            37.773759751656
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "05th Ave",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Cabrillo St  -  Fulton St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.469226881734,
+            37.775125351596
+          ],
+          [
+            -122.469092496323,
+            37.773256712546
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "11th Ave",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Cabrillo St  -  Fulton St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.476694205543,
+            37.772912858005
+          ],
+          [
+            -122.477766947096,
+            37.772863655267
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "18th Ave  -  19th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.442377976937,
+            37.772504315906
+          ],
+          [
+            -122.444024306745,
+            37.772295289678
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Oak St",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Lyon St  -  Central Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.454018233506,
+            37.771616239174
+          ],
+          [
+            -122.453979522254,
+            37.771428395344
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Stanyan St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Ggp Access Road  -  Fell St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.468158437752,
+            37.775174011121
+          ],
+          [
+            -122.468023916581,
+            37.773303833536
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "10th Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Cabrillo St  -  Fulton St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.459486118713,
+            37.774166934033
+          ],
+          [
+            -122.460552661793,
+            37.774031133966
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st, 3rd, 5th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "02nd Ave  -  03rd Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.478836951316,
+            37.77281456851
+          ],
+          [
+            -122.479904580543,
+            37.772765580823
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "20th Ave  -  21st Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.469092496323,
+            37.773256712546
+          ],
+          [
+            -122.470162692283,
+            37.773209510535
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "11th Ave  -  12th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.462683796394,
+            37.773759751656
+          ],
+          [
+            -122.463749209964,
+            37.773624065039
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "05th Ave  -  06th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.462683796394,
+            37.773759751656
+          ],
+          [
+            -122.463749209964,
+            37.773624065039
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "05th Ave  -  06th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.458371099376,
+            37.77430889561
+          ],
+          [
+            -122.459486118713,
+            37.774166934033
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "Arguello Blvd  -  02nd Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.459588500206,
+            37.775566459723
+          ],
+          [
+            -122.459486118713,
+            37.774166934033
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "02nd Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Cabrillo St  -  Fulton St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.493832478955,
+            37.772129661789
+          ],
+          [
+            -122.494903299241,
+            37.772080795145
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "34th Ave  -  35th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.493832478955,
+            37.772129661789
+          ],
+          [
+            -122.494903299241,
+            37.772080795145
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "34th Ave  -  35th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.469092496323,
+            37.773256712546
+          ],
+          [
+            -122.470162692283,
+            37.773209510535
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "11th Ave  -  12th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.463749209964,
+            37.773624065039
+          ],
+          [
+            -122.464811670142,
+            37.773488744246
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st, 3rd, 5th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "06th Ave  -  07th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.458435272334,
+            37.77523976338
+          ],
+          [
+            -122.458371099376,
+            37.77430889561
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Arguello Blvd",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "McAllister St  -  Fulton St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.470162692283,
+            37.773209510535
+          ],
+          [
+            -122.47124006817,
+            37.773161981821
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st, 3rd, 5th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "12th Ave  -  Funston Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.471373050046,
+            37.77502758066
+          ],
+          [
+            -122.47124006817,
+            37.773161981821
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Funston Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Cabrillo St  -  Fulton St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.476694205543,
+            37.772912858005
+          ],
+          [
+            -122.477766947096,
+            37.772863655267
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "18th Ave  -  19th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.462804751925,
+            37.775417907846
+          ],
+          [
+            -122.462683796394,
+            37.773759751656
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "05th Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 1st & 3rd",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Cabrillo St  -  Fulton St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.453979522254,
+            37.771428395344
+          ],
+          [
+            -122.453902454747,
+            37.771053837798
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Stanyan St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Fell St  -  Oak St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.466951710535,
+            37.773351104829
+          ],
+          [
+            -122.468023916581,
+            37.773303833536
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "09th Ave  -  10th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.442377976937,
+            37.772504315906
+          ],
+          [
+            -122.444024306745,
+            37.772295289678
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Oak St",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Lyon St  -  Central Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.464811670142,
+            37.773488744246
+          ],
+          [
+            -122.465331676733,
+            37.773422509762
+          ],
+          [
+            -122.465883163471,
+            37.77339820477
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "07th Ave  -  08th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.459486118713,
+            37.774166934033
+          ],
+          [
+            -122.460552661793,
+            37.774031133966
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "02nd Ave  -  03rd Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.454083217588,
+            37.771930404305
+          ],
+          [
+            -122.454018233506,
+            37.771616239174
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Stanyan St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Fell St  -  Ggp Access Road",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444024306745,
+            37.772295289678
+          ],
+          [
+            -122.445716665627,
+            37.772080394208
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Oak St",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Central Ave  -  Masonic Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.458435272334,
+            37.77523976338
+          ],
+          [
+            -122.458371099376,
+            37.77430889561
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Arguello Blvd",
+        "weekday": "Tues",
+        "fullname": "Tue 1st & 3rd",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "McAllister St  -  Fulton St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.456283639802,
+            37.774554711935
+          ],
+          [
+            -122.458371099376,
+            37.77430889561
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Willard North St  -  Arguello Blvd",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.470297902847,
+            37.775076565102
+          ],
+          [
+            -122.470162692283,
+            37.773209510535
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "12th Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 1st & 3rd",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Cabrillo St  -  Fulton St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.453979522254,
+            37.771428395344
+          ],
+          [
+            -122.453902454747,
+            37.771053837798
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Stanyan St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Fell St  -  Oak St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.47124006817,
+            37.773161981821
+          ],
+          [
+            -122.471762122849,
+            37.773138947668
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Funston Ave  -  Park Presidio Blvd",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.455282599772,
+            37.768175358503
+          ],
+          [
+            -122.455401089156,
+            37.76818570312
+          ],
+          [
+            -122.455570737267,
+            37.768151862093
+          ],
+          [
+            -122.456714893513,
+            37.767808962612
+          ],
+          [
+            -122.457062360295,
+            37.767704824223
+          ],
+          [
+            -122.458574360838,
+            37.767263197752
+          ],
+          [
+            -122.458637161229,
+            37.767200000362
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Kezar Dr",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "6",
+        "tohour": "7",
+        "limits": "Waller St  -  Martin Luther King Jr Dr",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 7 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.458637161229,
+            37.767200000362
+          ],
+          [
+            -122.458705953751,
+            37.767141939874
+          ],
+          [
+            -122.458791110646,
+            37.7671141717
+          ],
+          [
+            -122.459023035117,
+            37.767007555135
+          ],
+          [
+            -122.459800878263,
+            37.766404090052
+          ],
+          [
+            -122.459931488046,
+            37.766348840554
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Kezar Dr",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Martin Luther King Jr Dr  -  Lincoln Way",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.471373050046,
+            37.77502758066
+          ],
+          [
+            -122.47124006817,
+            37.773161981821
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Funston Ave",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Cabrillo St  -  Fulton St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.458371099376,
+            37.77430889561
+          ],
+          [
+            -122.459486118713,
+            37.774166934033
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st, 3rd, 5th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Arguello Blvd  -  02nd Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.461619755469,
+            37.773895253488
+          ],
+          [
+            -122.462683796394,
+            37.773759751656
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "04th Ave  -  05th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.492761384729,
+            37.77217853105
+          ],
+          [
+            -122.493832478955,
+            37.772129661789
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "33rd Ave  -  34th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.461619755469,
+            37.773895253488
+          ],
+          [
+            -122.462683796394,
+            37.773759751656
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st, 3rd, 5th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "04th Ave  -  05th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.454083217588,
+            37.771930404305
+          ],
+          [
+            -122.454018233506,
+            37.771616239174
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Stanyan St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Fell St  -  Ggp Access Road",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.469226881734,
+            37.775125351596
+          ],
+          [
+            -122.469092496323,
+            37.773256712546
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "11th Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 1st & 3rd",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Cabrillo St  -  Fulton St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.469092496323,
+            37.773256712546
+          ],
+          [
+            -122.470162692283,
+            37.773209510535
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "11th Ave  -  12th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.461619755469,
+            37.773895253488
+          ],
+          [
+            -122.462683796394,
+            37.773759751656
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "04th Ave  -  05th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.477766947096,
+            37.772863655267
+          ],
+          [
+            -122.478836951316,
+            37.77281456851
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "19th Ave  -  20th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.456699309413,
+            37.767743180077
+          ],
+          [
+            -122.457033690272,
+            37.767642966001
+          ],
+          [
+            -122.458276582483,
+            37.767279942791
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Kezar Dr",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Unnamed 139  -  Arguello Blvd",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.466951710535,
+            37.773351104829
+          ],
+          [
+            -122.468023916581,
+            37.773303833536
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "09th Ave  -  10th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.459486118713,
+            37.774166934033
+          ],
+          [
+            -122.460552661793,
+            37.774031133966
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "02nd Ave  -  03rd Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.493832478955,
+            37.772129661789
+          ],
+          [
+            -122.494903299241,
+            37.772080795145
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Fulton St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "34th Ave  -  35th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Golden Gate Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    }
+  ]
+}

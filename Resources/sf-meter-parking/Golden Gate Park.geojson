@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46475,
+          37.7702
+        ]
+      },
+      "properties": {
+        "nhood": "Golden Gate Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453403311,
+          37.767982957
+        ]
+      },
+      "properties": {
+        "nhood": "Golden Gate Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453388559,
+          37.767917229
+        ]
+      },
+      "properties": {
+        "nhood": "Golden Gate Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453300063,
+          37.767468538
+        ]
+      },
+      "properties": {
+        "nhood": "Golden Gate Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453333574,
+          37.767637097
+        ]
+      },
+      "properties": {
+        "nhood": "Golden Gate Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453322862,
+          37.767578793
+        ]
+      },
+      "properties": {
+        "nhood": "Golden Gate Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453367084,
+          37.767804849
+        ]
+      },
+      "properties": {
+        "nhood": "Golden Gate Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453289317,
+          37.767415526
+        ]
+      },
+      "properties": {
+        "nhood": "Golden Gate Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453345678,
+          37.767698594
+        ]
+      },
+      "properties": {
+        "nhood": "Golden Gate Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45337783,
+          37.767858921
+        ]
+      },
+      "properties": {
+        "nhood": "Golden Gate Park"
+      }
+    }
+  ]
+}

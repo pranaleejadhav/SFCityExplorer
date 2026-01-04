@@ -1,0 +1,1665 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447014738003,
+            37.796578510087
+          ],
+          [
+            -122.447158296602,
+            37.797515005327
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Filbert St  -  Greenwich St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.473320668456,
+            37.787193059439
+          ],
+          [
+            -122.47325508351,
+            37.786288101218
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "14th Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Park Blvd  -  Lake St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44713057333,
+            37.800385824198
+          ],
+          [
+            -122.447138551463,
+            37.800453992589
+          ],
+          [
+            -122.447580384347,
+            37.800755564542
+          ],
+          [
+            -122.447695066797,
+            37.800831912968
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Richardson Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Francisco St  -  Lyon St",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.473354209795,
+            37.787491817951
+          ],
+          [
+            -122.473320668456,
+            37.787193059439
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "14th Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Wedemeyer St  -  Park Blvd",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447158296602,
+            37.797515005327
+          ],
+          [
+            -122.447303043988,
+            37.798459232514
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Greenwich St  -  Lombard St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447819572902,
+            37.801633208194
+          ],
+          [
+            -122.447921599978,
+            37.801532284006
+          ],
+          [
+            -122.448359651231,
+            37.801586782103
+          ],
+          [
+            -122.448802639735,
+            37.801772004198
+          ],
+          [
+            -122.449178591389,
+            37.802073857354
+          ],
+          [
+            -122.449460221179,
+            37.802454285385
+          ],
+          [
+            -122.449565462518,
+            37.802791419077
+          ],
+          [
+            -122.449583722807,
+            37.803153095709
+          ],
+          [
+            -122.449495662464,
+            37.803470319793
+          ],
+          [
+            -122.449388062275,
+            37.803710850001
+          ],
+          [
+            -122.449124213719,
+            37.804007874291
+          ],
+          [
+            -122.448814546711,
+            37.80422863869
+          ],
+          [
+            -122.448240723078,
+            37.804477679779
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Palace Of Fine Arts",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Lyon St  -  Lyon St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447014738003,
+            37.796578510087
+          ],
+          [
+            -122.447158296602,
+            37.797515005327
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Filbert St  -  Greenwich St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.445410455581,
+            37.795826595805
+          ],
+          [
+            -122.446870980424,
+            37.795640692302
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Union St",
+        "weekday": "Fri",
+        "fullname": "Fri 1st & 3rd",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Baker St  -  Lyon St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447303043988,
+            37.798459232514
+          ],
+          [
+            -122.447341437847,
+            37.798552685774
+          ],
+          [
+            -122.447466030844,
+            37.799389886842
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Lombard St  -  Chestnut St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.485770839621,
+            37.789532348821
+          ],
+          [
+            -122.485425597993,
+            37.789825013863
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "25th Ave North",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "25th Ave North  -  End: 21-46 Block",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447695066797,
+            37.800831912968
+          ],
+          [
+            -122.447819572902,
+            37.801633208194
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Hwy 101 N On Ramp  -  Bay St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447466030844,
+            37.799389886842
+          ],
+          [
+            -122.447613279084,
+            37.800323701534
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Chestnut St  -  Francisco St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.476624911242,
+            37.786796279688
+          ],
+          [
+            -122.476575148401,
+            37.78612828194
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "17th Ave",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Start: 01-99 Block  -  Lake St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.476624911242,
+            37.786796279688
+          ],
+          [
+            -122.476575148401,
+            37.78612828194
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "17th Ave",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Start: 01-99 Block  -  Lake St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.446727777003,
+            37.794706465186
+          ],
+          [
+            -122.446870980424,
+            37.795640692302
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Green St  -  Union St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.473320668456,
+            37.787193059439
+          ],
+          [
+            -122.47325508351,
+            37.786288101218
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "14th Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Park Blvd  -  Lake St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.448240723078,
+            37.804477679779
+          ],
+          [
+            -122.448279145508,
+            37.804724225162
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Tues",
+        "fullname": "Tue 1st & 3rd",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "Palace Of Fine Arts  -  Hwy 101 Northbound",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447158296602,
+            37.797515005327
+          ],
+          [
+            -122.447303043988,
+            37.798459232514
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Greenwich St  -  Lombard St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.446161091034,
+            37.799556098935
+          ],
+          [
+            -122.447466030844,
+            37.799389886842
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Chestnut St",
+        "weekday": "Tues",
+        "fullname": "Tue 1st & 3rd",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Baker St  -  Lyon St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447808303062,
+            37.805103475266
+          ],
+          [
+            -122.448010551529,
+            37.805027693799
+          ],
+          [
+            -122.44812490285,
+            37.804955998197
+          ],
+          [
+            -122.448267539437,
+            37.804823248297
+          ],
+          [
+            -122.448279145508,
+            37.804724225162
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Marina Blvd",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Marina Blvd  -  Lyon St",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.446727777003,
+            37.794706465186
+          ],
+          [
+            -122.446870980424,
+            37.795640692302
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Green St  -  Union St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.445785442379,
+            37.797689749215
+          ],
+          [
+            -122.447158296602,
+            37.797515005327
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Greenwich St",
+        "weekday": "Fri",
+        "fullname": "Fri 1st & 3rd",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Baker St  -  Lyon St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447466030844,
+            37.799389886842
+          ],
+          [
+            -122.447613279084,
+            37.800323701534
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Chestnut St  -  Francisco St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.446727777003,
+            37.794706465186
+          ],
+          [
+            -122.446870980424,
+            37.795640692302
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "Green St  -  Union St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.445785442379,
+            37.797689749215
+          ],
+          [
+            -122.447158296602,
+            37.797515005327
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Greenwich St",
+        "weekday": "Tues",
+        "fullname": "Tue 1st & 3rd",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Baker St  -  Lyon St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447286871436,
+            37.805160089777
+          ],
+          [
+            -122.447344022187,
+            37.805124794957
+          ],
+          [
+            -122.447574610311,
+            37.805093889337
+          ],
+          [
+            -122.447750144647,
+            37.805038580444
+          ],
+          [
+            -122.447893730888,
+            37.804969930946
+          ],
+          [
+            -122.448024798929,
+            37.804877387595
+          ],
+          [
+            -122.448180444569,
+            37.804747001941
+          ],
+          [
+            -122.448279145508,
+            37.804724225162
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Marina Blvd",
+        "weekday": "Tues",
+        "fullname": "Tue 1st & 3rd",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "Baker St  -  Lyon St",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.446870980424,
+            37.795640692302
+          ],
+          [
+            -122.447014738003,
+            37.796578510087
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Union St  -  Filbert St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.474426983714,
+            37.786975269998
+          ],
+          [
+            -122.474382841901,
+            37.786238018201
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "15th Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "North 15th Ave  -  Lake St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447158296602,
+            37.797515005327
+          ],
+          [
+            -122.447303043988,
+            37.798459232514
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Greenwich St  -  Lombard St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447014738003,
+            37.796578510087
+          ],
+          [
+            -122.447158296602,
+            37.797515005327
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "Filbert St  -  Greenwich St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447819572902,
+            37.801633208194
+          ],
+          [
+            -122.447921599978,
+            37.801532284006
+          ],
+          [
+            -122.448359651231,
+            37.801586782103
+          ],
+          [
+            -122.448802639735,
+            37.801772004198
+          ],
+          [
+            -122.449178591389,
+            37.802073857354
+          ],
+          [
+            -122.449460221179,
+            37.802454285385
+          ],
+          [
+            -122.449565462518,
+            37.802791419077
+          ],
+          [
+            -122.449583722807,
+            37.803153095709
+          ],
+          [
+            -122.449495662464,
+            37.803470319793
+          ],
+          [
+            -122.449388062275,
+            37.803710850001
+          ],
+          [
+            -122.449124213719,
+            37.804007874291
+          ],
+          [
+            -122.448814546711,
+            37.80422863869
+          ],
+          [
+            -122.448240723078,
+            37.804477679779
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Palace Of Fine Arts",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Lyon St  -  Lyon St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.445410455581,
+            37.795826595805
+          ],
+          [
+            -122.446870980424,
+            37.795640692302
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Union St",
+        "weekday": "Tues",
+        "fullname": "Tue 1st & 3rd",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Baker St  -  Lyon St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444843144612,
+            37.793014515691
+          ],
+          [
+            -122.446446032889,
+            37.792810866517
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Broadway",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Baker St  -  Lyon St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.446870980424,
+            37.795640692302
+          ],
+          [
+            -122.447014738003,
+            37.796578510087
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "Union St  -  Filbert St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.446299547752,
+            37.791878529188
+          ],
+          [
+            -122.446446032889,
+            37.792810866517
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Mon",
+        "fullname": "Mon 1st & 3rd",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Pacific Ave  -  Broadway",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444843144612,
+            37.793014515691
+          ],
+          [
+            -122.446446032889,
+            37.792810866517
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Broadway",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Baker St  -  Lyon St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.473354209795,
+            37.787491817951
+          ],
+          [
+            -122.473320668456,
+            37.787193059439
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "14th Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Wedemeyer St  -  Park Blvd",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447158296602,
+            37.797515005327
+          ],
+          [
+            -122.447303043988,
+            37.798459232514
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Greenwich St  -  Lombard St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.474426983714,
+            37.786975269998
+          ],
+          [
+            -122.474382841901,
+            37.786238018201
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "15th Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "North 15th Ave  -  Lake St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.446299547752,
+            37.791878529188
+          ],
+          [
+            -122.446446032889,
+            37.792810866517
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Pacific Ave  -  Broadway",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44713057333,
+            37.800385824198
+          ],
+          [
+            -122.447138551463,
+            37.800453992589
+          ],
+          [
+            -122.447580384347,
+            37.800755564542
+          ],
+          [
+            -122.447695066797,
+            37.800831912968
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Richardson Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Francisco St  -  Lyon St",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447303043988,
+            37.798459232514
+          ],
+          [
+            -122.447341437847,
+            37.798552685774
+          ],
+          [
+            -122.447466030844,
+            37.799389886842
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "Lombard St  -  Chestnut St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447695066797,
+            37.800831912968
+          ],
+          [
+            -122.447819572902,
+            37.801633208194
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Hwy 101 N On Ramp  -  Bay St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447695066797,
+            37.800831912968
+          ],
+          [
+            -122.447819572902,
+            37.801633208194
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Hwy 101 N On Ramp  -  Bay St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.484533540929,
+            37.789223400775
+          ],
+          [
+            -122.484623229837,
+            37.788957137336
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "25th Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Start: 01-24 Block  -  Seacliff Ave",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447695066797,
+            37.800831912968
+          ],
+          [
+            -122.447819572902,
+            37.801633208194
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Tues",
+        "fullname": "Tue 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Hwy 101 N On Ramp  -  Bay St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.448240723078,
+            37.804477679779
+          ],
+          [
+            -122.448279145508,
+            37.804724225162
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Tues",
+        "fullname": "Tue 1st & 3rd",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "Palace Of Fine Arts  -  Hwy 101 Northbound",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.446161091034,
+            37.799556098935
+          ],
+          [
+            -122.447466030844,
+            37.799389886842
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Chestnut St",
+        "weekday": "Fri",
+        "fullname": "Fri 1st & 3rd",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Baker St  -  Lyon St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447466030844,
+            37.799389886842
+          ],
+          [
+            -122.447613279084,
+            37.800323701534
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "Chestnut St  -  Francisco St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447303043988,
+            37.798459232514
+          ],
+          [
+            -122.447341437847,
+            37.798552685774
+          ],
+          [
+            -122.447466030844,
+            37.799389886842
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Lombard St  -  Chestnut St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444843144612,
+            37.793014515691
+          ],
+          [
+            -122.446446032889,
+            37.792810866517
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Broadway",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Baker St  -  Lyon St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.446870980424,
+            37.795640692302
+          ],
+          [
+            -122.447014738003,
+            37.796578510087
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lyon St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Union St  -  Filbert St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Presidio",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3450 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.48838974225,
+            37.786243438652
+          ],
+          [
+            -122.488540055401,
+            37.786274859251
+          ],
+          [
+            -122.489476081119,
+            37.786251577183
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "McLaren Ave",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "28th Ave  -  29th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.485283461668,
+            37.787611837854
+          ],
+          [
+            -122.48635895796,
+            37.787561701594
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "El Camino Del Mar",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "25th Ave  -  26th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.485336073489,
+            37.788336147768
+          ],
+          [
+            -122.485283461668,
+            37.787611837854
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "25th Ave",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Scenic Way  -  El Camino Del Mar",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.478764835019,
+            37.786737881686
+          ],
+          [
+            -122.478713573046,
+            37.786031269933
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "19th Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Start: 01-99 Block  -  Lake St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.489519136562,
+            37.788237305916
+          ],
+          [
+            -122.48949791543,
+            37.788096699017
+          ],
+          [
+            -122.489621693529,
+            37.787919333877
+          ],
+          [
+            -122.48975060859,
+            37.787756385108
+          ],
+          [
+            -122.489746364241,
+            37.787625959517
+          ],
+          [
+            -122.48964135415,
+            37.787486515909
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Seacliff Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Seacliff Ave  -  El Camino Del Mar",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.488059186355,
+            37.788682417654
+          ],
+          [
+            -122.487961761124,
+            37.788340364259
+          ],
+          [
+            -122.487860250111,
+            37.788222457756
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "27th Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Seacliff Ave  -  Easement",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.489391501431,
+            37.785088012666
+          ],
+          [
+            -122.489925059603,
+            37.785083858612
+          ],
+          [
+            -122.490474490331,
+            37.785118744893
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lake St",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "29th Ave  -  30th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.488059186355,
+            37.788682417654
+          ],
+          [
+            -122.489357474256,
+            37.788569018138
+          ],
+          [
+            -122.489452144197,
+            37.788516387437
+          ],
+          [
+            -122.489466625561,
+            37.788350208544
+          ],
+          [
+            -122.489519136562,
+            37.788237305916
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Seacliff Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "27th Ave  -  El Camino Del Mar",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.484623229837,
+            37.788957137336
+          ],
+          [
+            -122.485206502404,
+            37.788933439468
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Seacliff Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "25th Ave  -  25th North Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.490561088395,
+            37.786282892967
+          ],
+          [
+            -122.490474490331,
+            37.785118744893
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "30th Ave",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "El Camino Del Mar  -  Lake St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.485147938734,
+            37.785746009943
+          ],
+          [
+            -122.486223795175,
+            37.785697128551
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lake St",
+        "weekday": "Fri",
+        "fullname": "Fri 2nd & 4th",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "25th Ave  -  26th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.485206502404,
+            37.788933439468
+          ],
+          [
+            -122.486806545814,
+            37.788866601309
+          ],
+          [
+            -122.487018409017,
+            37.788770330611
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Seacliff Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "25th North Ave  -  26th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.478764835019,
+            37.786737881686
+          ],
+          [
+            -122.478713573046,
+            37.786031269933
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "19th Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Start: 01-99 Block  -  Lake St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.48635895796,
+            37.787561701594
+          ],
+          [
+            -122.48634084596,
+            37.7874691554
+          ],
+          [
+            -122.486220105647,
+            37.785765211378
+          ],
+          [
+            -122.486223795175,
+            37.785697128551
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "26th Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "El Camino Del Mar  -  Lake St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.487421758908,
+            37.787512147124
+          ],
+          [
+            -122.487286365502,
+            37.785648841354
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "27th Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "El Camino Del Mar  -  Lake St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.487421758908,
+            37.787512147124
+          ],
+          [
+            -122.487804516056,
+            37.787490919691
+          ],
+          [
+            -122.48811489949,
+            37.787527220663
+          ],
+          [
+            -122.488426698057,
+            37.787616358683
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "El Camino Del Mar",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "27th Ave  -  28th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.485206502404,
+            37.788933439468
+          ],
+          [
+            -122.485384167023,
+            37.789214930671
+          ],
+          [
+            -122.48549276155,
+            37.789354240921
+          ],
+          [
+            -122.485770839621,
+            37.789532348821
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "25th Ave North",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Seacliff Ave  -  25th Ave North",
+        "blockside": "SouthWest",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.488324814941,
+            37.78520558315
+          ],
+          [
+            -122.488486233948,
+            37.785156451808
+          ],
+          [
+            -122.488897989924,
+            37.785114826872
+          ],
+          [
+            -122.489391501431,
+            37.785088012666
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lake St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "28th Ave  -  29th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.485283461668,
+            37.787611837854
+          ],
+          [
+            -122.485147938734,
+            37.785746009943
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "25th Ave",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "El Camino Del Mar  -  Lake St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.485147938734,
+            37.785746009943
+          ],
+          [
+            -122.486223795175,
+            37.785697128551
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lake St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "25th Ave  -  26th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.490417333091,
+            37.784350354757
+          ],
+          [
+            -122.490966796347,
+            37.784301873079
+          ],
+          [
+            -122.491480512123,
+            37.784224772785
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Sea View Ter",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "30th Ave  -  31st Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.48635895796,
+            37.787561701594
+          ],
+          [
+            -122.487421758908,
+            37.787512147124
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "El Camino Del Mar",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "26th Ave  -  27th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.485336073489,
+            37.788336147768
+          ],
+          [
+            -122.486412182147,
+            37.788295908199
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Scenic Way",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "25th Ave  -  26th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.481975341093,
+            37.786911013396
+          ],
+          [
+            -122.481994929593,
+            37.786768263324
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "22nd Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Start: 01-32 Block  -  West Clay St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.485283461668,
+            37.787611837854
+          ],
+          [
+            -122.48635895796,
+            37.787561701594
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "El Camino Del Mar",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "25th Ave  -  26th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.490474490331,
+            37.785118744893
+          ],
+          [
+            -122.490573084725,
+            37.785204038088
+          ],
+          [
+            -122.490969358904,
+            37.785230143748
+          ],
+          [
+            -122.49140165114,
+            37.785304899615
+          ],
+          [
+            -122.491642608806,
+            37.785392119815
+          ],
+          [
+            -122.491843505118,
+            37.785540789008
+          ],
+          [
+            -122.491928313113,
+            37.785671523701
+          ],
+          [
+            -122.491989470212,
+            37.785989223023
+          ],
+          [
+            -122.492019445977,
+            37.786301879273
+          ],
+          [
+            -122.49208031919,
+            37.786381706711
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lake St",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "30th Ave  -  El Camino Del Mar",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.490561088395,
+            37.786282892967
+          ],
+          [
+            -122.490474490331,
+            37.785118744893
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "30th Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "El Camino Del Mar  -  Lake St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.48838974225,
+            37.786243438652
+          ],
+          [
+            -122.488299948276,
+            37.785949554209
+          ],
+          [
+            -122.488205096974,
+            37.785699294133
+          ],
+          [
+            -122.488140378179,
+            37.785611774502
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "28th Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "McLaren Ave  -  Lake St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.48838974225,
+            37.786243438652
+          ],
+          [
+            -122.488540055401,
+            37.786274859251
+          ],
+          [
+            -122.489476081119,
+            37.786251577183
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "McLaren Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "28th Ave  -  29th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.484623229837,
+            37.788957137336
+          ],
+          [
+            -122.484661508513,
+            37.788843496287
+          ],
+          [
+            -122.484912242022,
+            37.788464426436
+          ],
+          [
+            -122.485026479539,
+            37.788388006316
+          ],
+          [
+            -122.485210582105,
+            37.788344096072
+          ],
+          [
+            -122.485336073489,
+            37.788336147768
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "25th Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Seacliff Ave  -  Scenic Way",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.475503914162,
+            37.786181461314
+          ],
+          [
+            -122.476575148401,
+            37.78612828194
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lake St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "16th Ave  -  17th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.488324814941,
+            37.78520558315
+          ],
+          [
+            -122.488217445024,
+            37.783737151965
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "28th Ave",
+        "weekday": "Fri",
+        "fullname": "Fri 2nd & 4th",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Lake St  -  California St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.475503914162,
+            37.786181461314
+          ],
+          [
+            -122.476575148401,
+            37.78612828194
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lake St",
+        "weekday": "Fri",
+        "fullname": "Fri 2nd & 4th",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "16th Ave  -  17th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.485206502404,
+            37.788933439468
+          ],
+          [
+            -122.485384167023,
+            37.789214930671
+          ],
+          [
+            -122.48549276155,
+            37.789354240921
+          ],
+          [
+            -122.485770839621,
+            37.789532348821
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "25th Ave North",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Seacliff Ave  -  25th Ave North",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.487286365502,
+            37.785648841354
+          ],
+          [
+            -122.488140378179,
+            37.785611774502
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lake St",
+        "weekday": "Fri",
+        "fullname": "Fri 2nd & 4th",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "27th Ave  -  28th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.48838974225,
+            37.786243438652
+          ],
+          [
+            -122.488299948276,
+            37.785949554209
+          ],
+          [
+            -122.488205096974,
+            37.785699294133
+          ],
+          [
+            -122.488140378179,
+            37.785611774502
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "28th Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "McLaren Ave  -  Lake St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.481994929593,
+            37.786768263324
+          ],
+          [
+            -122.482067348804,
+            37.786764288593
+          ],
+          [
+            -122.482723977136,
+            37.786728249869
+          ],
+          [
+            -122.48313305294,
+            37.786722787983
+          ],
+          [
+            -122.483366101786,
+            37.78676899298
+          ],
+          [
+            -122.484029655726,
+            37.786901911417
+          ],
+          [
+            -122.484154639514,
+            37.786979086291
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "West Clay St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "22nd Ave  -  24th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.475546839185,
+            37.786781576983
+          ],
+          [
+            -122.475503914162,
+            37.786181461314
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "16th Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Start: 01-99 Block  -  Lake St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.481994929593,
+            37.786768263324
+          ],
+          [
+            -122.482067348804,
+            37.786764288593
+          ],
+          [
+            -122.482723977136,
+            37.786728249869
+          ],
+          [
+            -122.48313305294,
+            37.786722787983
+          ],
+          [
+            -122.483366101786,
+            37.78676899298
+          ],
+          [
+            -122.484029655726,
+            37.786901911417
+          ],
+          [
+            -122.484154639514,
+            37.786979086291
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "West Clay St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "22nd Ave  -  24th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.491480512123,
+            37.784224772785
+          ],
+          [
+            -122.491879271717,
+            37.784246269073
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Sea View Ter",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "31st Ave  -  End: 55-199 Block",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.485336073489,
+            37.788336147768
+          ],
+          [
+            -122.486412182147,
+            37.788295908199
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Scenic Way",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "25th Ave  -  26th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.489519136562,
+            37.788237305916
+          ],
+          [
+            -122.489774192398,
+            37.787922585875
+          ],
+          [
+            -122.490140970577,
+            37.787514441703
+          ],
+          [
+            -122.490452261698,
+            37.787278235763
+          ],
+          [
+            -122.490766530693,
+            37.787119403566
+          ],
+          [
+            -122.491083629175,
+            37.787042190143
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Seacliff Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "El Camino Del Mar  -  End: 301-499 Block",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.47325508351,
+            37.786288101218
+          ],
+          [
+            -122.474382841901,
+            37.786238018201
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lake St",
+        "weekday": "Fri",
+        "fullname": "Fri 2nd & 4th",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "14th Ave  -  15th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.484623229837,
+            37.788957137336
+          ],
+          [
+            -122.484661508513,
+            37.788843496287
+          ],
+          [
+            -122.484912242022,
+            37.788464426436
+          ],
+          [
+            -122.485026479539,
+            37.788388006316
+          ],
+          [
+            -122.485210582105,
+            37.788344096072
+          ],
+          [
+            -122.485336073489,
+            37.788336147768
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "25th Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Seacliff Ave  -  Scenic Way",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.489476081119,
+            37.786251577183
+          ],
+          [
+            -122.489808215312,
+            37.786311585217
+          ],
+          [
+            -122.490253813082,
+            37.786364188429
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "McLaren Ave",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "29th Ave  -  El Camino Del Mar",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.490474490331,
+            37.785118744893
+          ],
+          [
+            -122.490417333091,
+            37.784350354757
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "30th Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Lake St  -  Sea View Ter",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.486412182147,
+            37.788295908199
+          ],
+          [
+            -122.48639891659,
+            37.788112917396
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "26th Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Scenic Way  -  Easement",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.474382841901,
+            37.786238018201
+          ],
+          [
+            -122.475503914162,
+            37.786181461314
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lake St",
+        "weekday": "Fri",
+        "fullname": "Fri 2nd & 4th",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "15th Ave  -  16th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.47325508351,
+            37.786288101218
+          ],
+          [
+            -122.474382841901,
+            37.786238018201
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lake St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "14th Ave  -  15th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.481994929593,
+            37.786768263324
+          ],
+          [
+            -122.481991134287,
+            37.786717228435
+          ],
+          [
+            -122.481929203812,
+            37.785884439021
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "22nd Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "West Clay St  -  Lake St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.485336073489,
+            37.788336147768
+          ],
+          [
+            -122.485283461668,
+            37.787611837854
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "25th Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Scenic Way  -  El Camino Del Mar",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.488059186355,
+            37.788682417654
+          ],
+          [
+            -122.489357474256,
+            37.788569018138
+          ],
+          [
+            -122.489452144197,
+            37.788516387437
+          ],
+          [
+            -122.489466625561,
+            37.788350208544
+          ],
+          [
+            -122.489519136562,
+            37.788237305916
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Seacliff Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "27th Ave  -  El Camino Del Mar",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.487018409017,
+            37.788770330611
+          ],
+          [
+            -122.487122000672,
+            37.788764267377
+          ],
+          [
+            -122.488059186355,
+            37.788682417654
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Seacliff Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "26th Ave  -  27th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.487286365502,
+            37.785648841354
+          ],
+          [
+            -122.488140378179,
+            37.785611774502
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lake St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "27th Ave  -  28th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.481975341093,
+            37.786911013396
+          ],
+          [
+            -122.481994929593,
+            37.786768263324
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "22nd Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Start: 01-32 Block  -  West Clay St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.488426698057,
+            37.787616358683
+          ],
+          [
+            -122.488644214892,
+            37.787680655266
+          ],
+          [
+            -122.488931384646,
+            37.787679587308
+          ],
+          [
+            -122.489218792239,
+            37.787628170076
+          ],
+          [
+            -122.48964135415,
+            37.787486515909
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "El Camino Del Mar",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "28th Ave  -  El Camino Del Mar",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.490561088395,
+            37.786282892967
+          ],
+          [
+            -122.490687513821,
+            37.786228933932
+          ],
+          [
+            -122.491076391961,
+            37.786151363958
+          ],
+          [
+            -122.491427849701,
+            37.786132542389
+          ],
+          [
+            -122.491810761648,
+            37.786232312526
+          ],
+          [
+            -122.49208031919,
+            37.786381706711
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "El Camino Del Mar",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "30th Ave  -  Lake St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.487018409017,
+            37.788770330611
+          ],
+          [
+            -122.487122000672,
+            37.788764267377
+          ],
+          [
+            -122.488059186355,
+            37.788682417654
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Seacliff Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "26th Ave  -  27th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.48635895796,
+            37.787561701594
+          ],
+          [
+            -122.487421758908,
+            37.787512147124
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "El Camino Del Mar",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "26th Ave  -  27th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.490474490331,
+            37.785118744893
+          ],
+          [
+            -122.490417333091,
+            37.784350354757
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "30th Ave",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Lake St  -  Sea View Ter",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.485770839621,
+            37.789532348821
+          ],
+          [
+            -122.485849523076,
+            37.789521114573
+          ],
+          [
+            -122.486026618266,
+            37.789429226213
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "25th Ave North",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "25th Ave North  -  End: 22-99 Block",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.485206502404,
+            37.788933439468
+          ],
+          [
+            -122.486806545814,
+            37.788866601309
+          ],
+          [
+            -122.487018409017,
+            37.788770330611
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Seacliff Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "25th North Ave  -  26th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.48635895796,
+            37.787561701594
+          ],
+          [
+            -122.48634084596,
+            37.7874691554
+          ],
+          [
+            -122.486220105647,
+            37.785765211378
+          ],
+          [
+            -122.486223795175,
+            37.785697128551
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "26th Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "El Camino Del Mar  -  Lake St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.488426698057,
+            37.787616358683
+          ],
+          [
+            -122.488644214892,
+            37.787680655266
+          ],
+          [
+            -122.488931384646,
+            37.787679587308
+          ],
+          [
+            -122.489218792239,
+            37.787628170076
+          ],
+          [
+            -122.48964135415,
+            37.787486515909
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "El Camino Del Mar",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "28th Ave  -  El Camino Del Mar",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.489391501431,
+            37.785088012666
+          ],
+          [
+            -122.489925059603,
+            37.785083858612
+          ],
+          [
+            -122.490474490331,
+            37.785118744893
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lake St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "29th Ave  -  30th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.486412182147,
+            37.788295908199
+          ],
+          [
+            -122.48639891659,
+            37.788112917396
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "26th Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Scenic Way  -  Easement",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.489476081119,
+            37.786251577183
+          ],
+          [
+            -122.489808215312,
+            37.786311585217
+          ],
+          [
+            -122.490253813082,
+            37.786364188429
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "McLaren Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "29th Ave  -  El Camino Del Mar",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.490474490331,
+            37.785118744893
+          ],
+          [
+            -122.49059392895,
+            37.785095180319
+          ],
+          [
+            -122.490994367739,
+            37.785122037636
+          ],
+          [
+            -122.491452346991,
+            37.785202510248
+          ],
+          [
+            -122.491728770988,
+            37.785305681501
+          ],
+          [
+            -122.491961052826,
+            37.785481999391
+          ],
+          [
+            -122.492063436285,
+            37.785646064
+          ],
+          [
+            -122.492127290905,
+            37.785978815477
+          ],
+          [
+            -122.492157839003,
+            37.786306806302
+          ],
+          [
+            -122.49208031919,
+            37.786381706711
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lake St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "30th Ave  -  El Camino Del Mar",
+        "blockside": "SouthWest",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.487860250111,
+            37.788222457756
+          ],
+          [
+            -122.487740054476,
+            37.788142417037
+          ],
+          [
+            -122.487527869911,
+            37.788044988832
+          ],
+          [
+            -122.487455576867,
+            37.787921002736
+          ],
+          [
+            -122.487421758908,
+            37.787512147124
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "27th Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Easement  -  El Camino Del Mar",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.487421758908,
+            37.787512147124
+          ],
+          [
+            -122.487286365502,
+            37.785648841354
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "27th Ave",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "El Camino Del Mar  -  Lake St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.481994929593,
+            37.786768263324
+          ],
+          [
+            -122.481991134287,
+            37.786717228435
+          ],
+          [
+            -122.481929203812,
+            37.785884439021
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "22nd Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "West Clay St  -  Lake St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.490417333091,
+            37.784350354757
+          ],
+          [
+            -122.490966796347,
+            37.784301873079
+          ],
+          [
+            -122.491480512123,
+            37.784224772785
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Sea View Ter",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "30th Ave  -  31st Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.491480512123,
+            37.784224772785
+          ],
+          [
+            -122.491879271717,
+            37.784246269073
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Sea View Ter",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "31st Ave  -  End: 55-199 Block",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.487421758908,
+            37.787512147124
+          ],
+          [
+            -122.487804516056,
+            37.787490919691
+          ],
+          [
+            -122.48811489949,
+            37.787527220663
+          ],
+          [
+            -122.488426698057,
+            37.787616358683
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "El Camino Del Mar",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "27th Ave  -  28th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.491480512123,
+            37.784224772785
+          ],
+          [
+            -122.491436411466,
+            37.783591415908
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "31st Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Sea View Ter  -  California St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.488140378179,
+            37.785611774502
+          ],
+          [
+            -122.488200690047,
+            37.785534691223
+          ],
+          [
+            -122.48831639801,
+            37.785329314951
+          ],
+          [
+            -122.488324814941,
+            37.78520558315
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lake St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "28th Ave  -  28th Ave",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.487018409017,
+            37.788770330611
+          ],
+          [
+            -122.486519645977,
+            37.788343359229
+          ],
+          [
+            -122.486412182147,
+            37.788295908199
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "26th Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Seacliff Ave  -  Scenic Way",
+        "blockside": "SouthWest",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.475546839185,
+            37.786781576983
+          ],
+          [
+            -122.475503914162,
+            37.786181461314
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "16th Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Start: 01-99 Block  -  Lake St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.484623229837,
+            37.788957137336
+          ],
+          [
+            -122.485206502404,
+            37.788933439468
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Seacliff Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "25th Ave  -  25th North Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.488059186355,
+            37.788682417654
+          ],
+          [
+            -122.487961761124,
+            37.788340364259
+          ],
+          [
+            -122.487860250111,
+            37.788222457756
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "27th Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Seacliff Ave  -  Easement",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.489476081119,
+            37.786251577183
+          ],
+          [
+            -122.489391501431,
+            37.785088012666
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "29th Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "McLaren Ave  -  Lake St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.48964135415,
+            37.787486515909
+          ],
+          [
+            -122.489712781987,
+            37.787395886989
+          ],
+          [
+            -122.489737312412,
+            37.787125446406
+          ],
+          [
+            -122.489805520804,
+            37.786900547587
+          ],
+          [
+            -122.489862972507,
+            37.786802760062
+          ],
+          [
+            -122.490109764997,
+            37.786557292444
+          ],
+          [
+            -122.490481883731,
+            37.786362794973
+          ],
+          [
+            -122.490561088395,
+            37.786282892967
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "El Camino Del Mar",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "El Camino Del Mar  -  30th Ave",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.49208031919,
+            37.786381706711
+          ],
+          [
+            -122.492601156168,
+            37.786669016207
+          ],
+          [
+            -122.49279253407,
+            37.786682597469
+          ],
+          [
+            -122.493114869629,
+            37.786579654792
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "El Camino Del Mar",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Lake St  -  32nd Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.490253813082,
+            37.786364188429
+          ],
+          [
+            -122.490432846209,
+            37.786268829808
+          ],
+          [
+            -122.490561088395,
+            37.786282892967
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "El Camino Del Mar",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "McLaren Ave  -  30th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.487018409017,
+            37.788770330611
+          ],
+          [
+            -122.486519645977,
+            37.788343359229
+          ],
+          [
+            -122.486412182147,
+            37.788295908199
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "26th Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Seacliff Ave  -  Scenic Way",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.48639891659,
+            37.788112917396
+          ],
+          [
+            -122.48635895796,
+            37.787561701594
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "26th Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Easement  -  El Camino Del Mar",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.490561088395,
+            37.786282892967
+          ],
+          [
+            -122.490687513821,
+            37.786228933932
+          ],
+          [
+            -122.491076391961,
+            37.786151363958
+          ],
+          [
+            -122.491427849701,
+            37.786132542389
+          ],
+          [
+            -122.491810761648,
+            37.786232312526
+          ],
+          [
+            -122.49208031919,
+            37.786381706711
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "El Camino Del Mar",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "30th Ave  -  Lake St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.488426698057,
+            37.787616358683
+          ],
+          [
+            -122.488467119935,
+            37.787242322507
+          ],
+          [
+            -122.488447201134,
+            37.786631125156
+          ],
+          [
+            -122.48838974225,
+            37.786243438652
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "28th Ave",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "El Camino Del Mar  -  McLaren Ave",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.488324814941,
+            37.78520558315
+          ],
+          [
+            -122.488486233948,
+            37.785156451808
+          ],
+          [
+            -122.488897989924,
+            37.785114826872
+          ],
+          [
+            -122.489391501431,
+            37.785088012666
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lake St",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "28th Ave  -  29th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.485283461668,
+            37.787611837854
+          ],
+          [
+            -122.485147938734,
+            37.785746009943
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "25th Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "El Camino Del Mar  -  Lake St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.48964135415,
+            37.787486515909
+          ],
+          [
+            -122.489588354299,
+            37.787390680615
+          ],
+          [
+            -122.489613423927,
+            37.787114287352
+          ],
+          [
+            -122.489685864603,
+            37.786872586881
+          ],
+          [
+            -122.489753200928,
+            37.786755641795
+          ],
+          [
+            -122.490018555374,
+            37.786489493398
+          ],
+          [
+            -122.490253813082,
+            37.786364188429
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "El Camino Del Mar",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "El Camino Del Mar  -  McLaren Ave",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.489476081119,
+            37.786251577183
+          ],
+          [
+            -122.489391501431,
+            37.785088012666
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "29th Ave",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "McLaren Ave  -  Lake St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.488324814941,
+            37.78520558315
+          ],
+          [
+            -122.488217445024,
+            37.783737151965
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "28th Ave",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Lake St  -  California St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.484146100317,
+            37.787664873132
+          ],
+          [
+            -122.485283461668,
+            37.787611837854
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "El Camino Del Mar",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Lincoln Blvd  -  25th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.474382841901,
+            37.786238018201
+          ],
+          [
+            -122.475503914162,
+            37.786181461314
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Lake St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "15th Ave  -  16th Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.484146100317,
+            37.787664873132
+          ],
+          [
+            -122.485283461668,
+            37.787611837854
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "El Camino Del Mar",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "Lincoln Blvd  -  25th Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.487860250111,
+            37.788222457756
+          ],
+          [
+            -122.487740054476,
+            37.788142417037
+          ],
+          [
+            -122.487527869911,
+            37.788044988832
+          ],
+          [
+            -122.487455576867,
+            37.787921002736
+          ],
+          [
+            -122.487421758908,
+            37.787512147124
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "27th Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Easement  -  El Camino Del Mar",
+        "blockside": "SouthWest",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.488426698057,
+            37.787616358683
+          ],
+          [
+            -122.488467119935,
+            37.787242322507
+          ],
+          [
+            -122.488447201134,
+            37.786631125156
+          ],
+          [
+            -122.48838974225,
+            37.786243438652
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "28th Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "El Camino Del Mar  -  McLaren Ave",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.48639891659,
+            37.788112917396
+          ],
+          [
+            -122.48635895796,
+            37.787561701594
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "26th Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Easement  -  El Camino Del Mar",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.491480512123,
+            37.784224772785
+          ],
+          [
+            -122.491436411466,
+            37.783591415908
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "31st Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Sea View Ter  -  California St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.49208031919,
+            37.786381706711
+          ],
+          [
+            -122.492601156168,
+            37.786669016207
+          ],
+          [
+            -122.49279253407,
+            37.786682597469
+          ],
+          [
+            -122.493114869629,
+            37.786579654792
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "El Camino Del Mar",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Lake St  -  32nd Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Seacliff",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    }
+  ]
+}

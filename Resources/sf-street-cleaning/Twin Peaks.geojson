@@ -1,0 +1,7342 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.443547577178,
+            37.751799356054
+          ],
+          [
+            -122.44369278468,
+            37.75156602437
+          ],
+          [
+            -122.443897973466,
+            37.751152246306
+          ],
+          [
+            -122.4440174108,
+            37.750838584586
+          ],
+          [
+            -122.444070511796,
+            37.750658671963
+          ],
+          [
+            -122.443968726532,
+            37.750458967197
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Corbett Ave",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Golding Ln  -  Portola Dr",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.445457280694,
+            37.747337185704
+          ],
+          [
+            -122.446194314833,
+            37.747231480192
+          ],
+          [
+            -122.446443547221,
+            37.74724663086
+          ],
+          [
+            -122.446991924135,
+            37.747336286673
+          ],
+          [
+            -122.447090568108,
+            37.746856112648
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Sunview Dr",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Start: 01-99 Block  -  Portola Dr",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44238712519,
+            37.754815836654
+          ],
+          [
+            -122.442414256848,
+            37.754616462894
+          ],
+          [
+            -122.442501146347,
+            37.754462407117
+          ],
+          [
+            -122.443013012294,
+            37.75401359487
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Corbett Ave",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Morgan Aly  -  Dixie Aly",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.442175282343,
+            37.758939437583
+          ],
+          [
+            -122.442164081805,
+            37.758754407022
+          ],
+          [
+            -122.442208673346,
+            37.758514491566
+          ],
+          [
+            -122.442238208444,
+            37.758103507057
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Yukon St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "19th St  -  Eagle St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.445262857895,
+            37.750936813345
+          ],
+          [
+            -122.445142115392,
+            37.751190551483
+          ],
+          [
+            -122.445083173408,
+            37.751324335024
+          ],
+          [
+            -122.445037641984,
+            37.751588725497
+          ],
+          [
+            -122.445060617151,
+            37.751798464105
+          ],
+          [
+            -122.445135504995,
+            37.751987523938
+          ],
+          [
+            -122.445456578305,
+            37.752576449683
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Gardenside Dr",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Burnett Ave  -  Vista Ln",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.440133893325,
+            37.756422684858
+          ],
+          [
+            -122.440898729693,
+            37.756245945922
+          ],
+          [
+            -122.440998757821,
+            37.756218485263
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Romain St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Grand View Ave  -  Market St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.440095796176,
+            37.758979360731
+          ],
+          [
+            -122.440381374134,
+            37.759032207124
+          ],
+          [
+            -122.440590573646,
+            37.759041671719
+          ],
+          [
+            -122.44079780544,
+            37.759024874056
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "19th St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Lamson Ln  -  Seward St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.443933292458,
+            37.756707199425
+          ],
+          [
+            -122.443382569521,
+            37.756337403237
+          ],
+          [
+            -122.443276133056,
+            37.756233772854
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Graystone Ter",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Copper Aly  -  Corbett Ave",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.441311382986,
+            37.756885015448
+          ],
+          [
+            -122.440975000018,
+            37.756855169633
+          ],
+          [
+            -122.440694854593,
+            37.756771351143
+          ],
+          [
+            -122.440296910171,
+            37.75665228676
+          ],
+          [
+            -122.440133893325,
+            37.756422684858
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Grand View Ave",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Grand View Ter  -  Romain St",
+        "blockside": "SouthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447641491134,
+            37.748069993411
+          ],
+          [
+            -122.44771596249,
+            37.748323833832
+          ],
+          [
+            -122.447694152898,
+            37.748533724106
+          ],
+          [
+            -122.447604284869,
+            37.748694163402
+          ],
+          [
+            -122.447475934243,
+            37.748775761592
+          ],
+          [
+            -122.447379057057,
+            37.748784587757
+          ],
+          [
+            -122.44697342682,
+            37.748475790732
+          ],
+          [
+            -122.446721163042,
+            37.748345088496
+          ],
+          [
+            -122.446476290639,
+            37.74826483978
+          ],
+          [
+            -122.446153435844,
+            37.748219595998
+          ],
+          [
+            -122.445995829996,
+            37.748227015427
+          ],
+          [
+            -122.445021664653,
+            37.748369272455
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Glenview Dr",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Dawnview Way  -  Burnett Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.454077639629,
+            37.757026976796
+          ],
+          [
+            -122.454094884871,
+            37.756931888633
+          ],
+          [
+            -122.454172061116,
+            37.756506875439
+          ],
+          [
+            -122.454250449551,
+            37.756347056564
+          ],
+          [
+            -122.454524617488,
+            37.755962978955
+          ],
+          [
+            -122.454820979488,
+            37.755546524121
+          ],
+          [
+            -122.455052388686,
+            37.75511628872
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Christopher Dr  -  Oak Park Dr",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447641491134,
+            37.748069993411
+          ],
+          [
+            -122.447260724319,
+            37.748142911279
+          ],
+          [
+            -122.447099899508,
+            37.748137067485
+          ],
+          [
+            -122.446911467946,
+            37.748026034784
+          ],
+          [
+            -122.44662736863,
+            37.74792973726
+          ],
+          [
+            -122.446366158874,
+            37.747880333423
+          ],
+          [
+            -122.445956834695,
+            37.747861308536
+          ],
+          [
+            -122.444986737796,
+            37.74800752621
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Dawnview Way",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Glenview Dr  -  Burnett Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439167308588,
+            37.759027747992
+          ],
+          [
+            -122.440095796176,
+            37.758979360731
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "19th St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Douglass St  -  Lamson Ln",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439256483739,
+            37.759807649443
+          ],
+          [
+            -122.439167308588,
+            37.759027747992
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Douglass St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Caselli Ave  -  19th St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.442238208444,
+            37.758103507057
+          ],
+          [
+            -122.442257555805,
+            37.757733865107
+          ],
+          [
+            -122.442280572674,
+            37.757629596511
+          ],
+          [
+            -122.442370898705,
+            37.757584491634
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Yukon St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Eagle St  -  Short St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439621628803,
+            37.757959648567
+          ],
+          [
+            -122.440045465085,
+            37.758116358037
+          ],
+          [
+            -122.44052722686,
+            37.758491606672
+          ],
+          [
+            -122.44055984328,
+            37.75882570083
+          ],
+          [
+            -122.44079780544,
+            37.759024874056
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Seward St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Acme Aly  -  19th St",
+        "blockside": "SouthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44247641116,
+            37.753718973049
+          ],
+          [
+            -122.442531754927,
+            37.753606680811
+          ],
+          [
+            -122.442667082515,
+            37.753041925642
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Market St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Dixie Aly  -  Argent Aly",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.443347263232,
+            37.750082608704
+          ],
+          [
+            -122.443441201748,
+            37.750014565448
+          ],
+          [
+            -122.44355341366,
+            37.749443206255
+          ],
+          [
+            -122.443704169345,
+            37.749176761906
+          ],
+          [
+            -122.443810246889,
+            37.749040348909
+          ],
+          [
+            -122.444092634868,
+            37.748685289675
+          ],
+          [
+            -122.444266950903,
+            37.748380232087
+          ],
+          [
+            -122.444221341831,
+            37.74803058392
+          ],
+          [
+            -122.444158345788,
+            37.747790521578
+          ],
+          [
+            -122.444172454015,
+            37.747555615957
+          ],
+          [
+            -122.444292422184,
+            37.747308531522
+          ],
+          [
+            -122.444425609388,
+            37.747174321703
+          ],
+          [
+            -122.444620140179,
+            37.747080782671
+          ],
+          [
+            -122.444740491279,
+            37.747045066015
+          ],
+          [
+            -122.444847225273,
+            37.746945372649
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Portola Dr",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Market St  -  Diamond Heights Blvd",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.455537383354,
+            37.7537744352
+          ],
+          [
+            -122.455784471547,
+            37.753410448684
+          ],
+          [
+            -122.455919184908,
+            37.753147939746
+          ],
+          [
+            -122.456031545504,
+            37.752885801633
+          ],
+          [
+            -122.456030475541,
+            37.752853672797
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Panorama Dr  -  Ashwood Ln",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.45601362846,
+            37.752359100804
+          ],
+          [
+            -122.456005190388,
+            37.752094472951
+          ],
+          [
+            -122.456091281575,
+            37.751803589233
+          ],
+          [
+            -122.456448433597,
+            37.751483313163
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Fri",
+        "fullname": "Fri 1st & 3rd",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "Galewood Cir  -  Olympia Way",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44019959142,
+            37.757254494346
+          ],
+          [
+            -122.439945779407,
+            37.757198627271
+          ],
+          [
+            -122.439624060939,
+            37.757108272021
+          ],
+          [
+            -122.439002910611,
+            37.7570898021
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Corwin St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Acme Aly  -  Douglass St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44089731085,
+            37.754492600632
+          ],
+          [
+            -122.4410758311,
+            37.754178484427
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Grand View Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Morgan Aly  -  Hoffman Ave",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439114419695,
+            37.758462871452
+          ],
+          [
+            -122.439073985914,
+            37.757855458459
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Douglass St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Carson St  -  Seward St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.45601362846,
+            37.752359100804
+          ],
+          [
+            -122.456005190388,
+            37.752094472951
+          ],
+          [
+            -122.456091281575,
+            37.751803589233
+          ],
+          [
+            -122.456448433597,
+            37.751483313163
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 1st, 3rd, 5th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Galewood Cir  -  Olympia Way",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444064170825,
+            37.754170736688
+          ],
+          [
+            -122.444091369749,
+            37.75412867516
+          ],
+          [
+            -122.4442612967,
+            37.753912508528
+          ],
+          [
+            -122.444300398176,
+            37.75362447592
+          ],
+          [
+            -122.444373546314,
+            37.753379425459
+          ],
+          [
+            -122.44461031115,
+            37.753201344378
+          ],
+          [
+            -122.444639735362,
+            37.753136316541
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Dixie Aly  -  Hopkins Ave",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.442667082515,
+            37.753041925642
+          ],
+          [
+            -122.442761241998,
+            37.752648971085
+          ],
+          [
+            -122.442728860424,
+            37.752563699082
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Market St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Argent Aly  -  Argent Aly",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444639735362,
+            37.753136316541
+          ],
+          [
+            -122.443761672468,
+            37.7527472516
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Hopkins Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Burnett Ave  -  Corbett Ave",
+        "blockside": "SouthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439167308588,
+            37.759027747992
+          ],
+          [
+            -122.440095796176,
+            37.758979360731
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "19th St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Douglass St  -  Lamson Ln",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.445688198298,
+            37.751852674798
+          ],
+          [
+            -122.445984424676,
+            37.752351715944
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Parkridge Dr",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Vista Ln  -  Vista Ln",
+        "blockside": "SouthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447786105058,
+            37.746438159355
+          ],
+          [
+            -122.447915521549,
+            37.746480095404
+          ],
+          [
+            -122.44889333619,
+            37.746232402983
+          ],
+          [
+            -122.449720553256,
+            37.746055599763
+          ],
+          [
+            -122.450523197582,
+            37.7459528638
+          ],
+          [
+            -122.450704845151,
+            37.745928809599
+          ],
+          [
+            -122.450852983615,
+            37.745825831374
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Portola Dr",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Glenview Dr  -  Twin Peaks Blvd",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44238712519,
+            37.754815836654
+          ],
+          [
+            -122.442414256848,
+            37.754616462894
+          ],
+          [
+            -122.442501146347,
+            37.754462407117
+          ],
+          [
+            -122.443013012294,
+            37.75401359487
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Corbett Ave",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Morgan Aly  -  Dixie Aly",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.438112354335,
+            37.759092655188
+          ],
+          [
+            -122.439167308588,
+            37.759027747992
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "19th St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Eureka St  -  Douglass St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.45289526686,
+            37.758062632396
+          ],
+          [
+            -122.45331726453,
+            37.757819681827
+          ],
+          [
+            -122.453594410747,
+            37.757621512366
+          ],
+          [
+            -122.453769459175,
+            37.75746785408
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 1st, 3rd, 5th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Johnstone Dr  -  Palo Alto Ave",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.454077639629,
+            37.757026976796
+          ],
+          [
+            -122.454094884871,
+            37.756931888633
+          ],
+          [
+            -122.454172061116,
+            37.756506875439
+          ],
+          [
+            -122.454250449551,
+            37.756347056564
+          ],
+          [
+            -122.454524617488,
+            37.755962978955
+          ],
+          [
+            -122.454820979488,
+            37.755546524121
+          ],
+          [
+            -122.455052388686,
+            37.75511628872
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 1st, 3rd, 5th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Christopher Dr  -  Oak Park Dr",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.445262857895,
+            37.750936813345
+          ],
+          [
+            -122.445778648041,
+            37.750503684931
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Gardenside Dr  -  Parkridge Dr",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.448534508805,
+            37.759045234821
+          ],
+          [
+            -122.450928518395,
+            37.758725004524
+          ],
+          [
+            -122.451366941309,
+            37.758575669828
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 1st, 3rd, 5th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Twin Peaks Blvd  -  Stanyan St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.443013012294,
+            37.75401359487
+          ],
+          [
+            -122.443116170723,
+            37.753848157784
+          ],
+          [
+            -122.443266395074,
+            37.753498677446
+          ],
+          [
+            -122.443726293899,
+            37.752866130267
+          ],
+          [
+            -122.443761672468,
+            37.7527472516
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Corbett Ave",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Dixie Aly  -  Hopkins Ave",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.443276133056,
+            37.756233772854
+          ],
+          [
+            -122.443188018977,
+            37.756038806801
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Corbett Ave",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Graystone Ter  -  Glendale St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.455537383354,
+            37.7537744352
+          ],
+          [
+            -122.455784471547,
+            37.753410448684
+          ],
+          [
+            -122.455919184908,
+            37.753147939746
+          ],
+          [
+            -122.456031545504,
+            37.752885801633
+          ],
+          [
+            -122.456030475541,
+            37.752853672797
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 1st, 3rd, 5th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Panorama Dr  -  Ashwood Ln",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.441034041781,
+            37.759009549074
+          ],
+          [
+            -122.442175282343,
+            37.758939437583
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "19th St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Clover Ln  -  Yukon St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.443216510217,
+            37.757798632457
+          ],
+          [
+            -122.443103337241,
+            37.757761985333
+          ],
+          [
+            -122.443064132547,
+            37.757723619009
+          ],
+          [
+            -122.442902954175,
+            37.757541569748
+          ],
+          [
+            -122.44281496212,
+            37.75740996931
+          ],
+          [
+            -122.442719737516,
+            37.757273609465
+          ],
+          [
+            -122.442518495392,
+            37.756989453473
+          ],
+          [
+            -122.442435165299,
+            37.75689392862
+          ],
+          [
+            -122.442243502463,
+            37.756754583378
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Market St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Short St  -  Grand View Ave",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444358025781,
+            37.751738089143
+          ],
+          [
+            -122.444602106654,
+            37.751198380127
+          ],
+          [
+            -122.444719127325,
+            37.75096291521
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Golding Ln  -  Perego Ter",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.442728860424,
+            37.752563699082
+          ],
+          [
+            -122.442817801071,
+            37.752491229072
+          ],
+          [
+            -122.443402115506,
+            37.750186625556
+          ],
+          [
+            -122.443347263232,
+            37.750082608704
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Market St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Argent Aly  -  Portola Dr",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447090568108,
+            37.746856112648
+          ],
+          [
+            -122.447445359017,
+            37.74691457955
+          ],
+          [
+            -122.447579137526,
+            37.746924410539
+          ],
+          [
+            -122.447870407252,
+            37.746914922341
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Portola Dr (spur)",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Sunview Way  -  Glenview Dr",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.441038640006,
+            37.758198250959
+          ],
+          [
+            -122.44079782454,
+            37.757949962687
+          ],
+          [
+            -122.44064542065,
+            37.757651296512
+          ],
+          [
+            -122.440474442116,
+            37.757418688415
+          ],
+          [
+            -122.44019959142,
+            37.757254494346
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Corwin St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Start: 100-199 Block  -  Acme Aly",
+        "blockside": "SouthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.445778648041,
+            37.750503684931
+          ],
+          [
+            -122.44566762785,
+            37.750317833768
+          ],
+          [
+            -122.445579732055,
+            37.750204314479
+          ],
+          [
+            -122.444947565277,
+            37.749658236992
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Parkridge Dr  -  Fenton Ln",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.45289526686,
+            37.758062632396
+          ],
+          [
+            -122.45331726453,
+            37.757819681827
+          ],
+          [
+            -122.453594410747,
+            37.757621512366
+          ],
+          [
+            -122.453769459175,
+            37.75746785408
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Fri",
+        "fullname": "Fri 1st & 3rd",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "Johnstone Dr  -  Palo Alto Ave",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447786105058,
+            37.746438159355
+          ],
+          [
+            -122.447865627697,
+            37.746346741519
+          ],
+          [
+            -122.448863523318,
+            37.746106609948
+          ],
+          [
+            -122.44969791689,
+            37.745950735508
+          ],
+          [
+            -122.450483238052,
+            37.745819345798
+          ],
+          [
+            -122.450736728292,
+            37.745754637372
+          ],
+          [
+            -122.450852983615,
+            37.745825831374
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Portola Dr",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "Glenview Dr  -  Twin Peaks Blvd",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.440133893325,
+            37.756422684858
+          ],
+          [
+            -122.44015252664,
+            37.756369846829
+          ],
+          [
+            -122.440083293614,
+            37.75595415808
+          ],
+          [
+            -122.440089199398,
+            37.755819589084
+          ],
+          [
+            -122.440200248302,
+            37.755647744436
+          ],
+          [
+            -122.440857435148,
+            37.754652555159
+          ],
+          [
+            -122.44089731085,
+            37.754492600632
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Grand View Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Romain St  -  Morgan Aly",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.442243502463,
+            37.756754583378
+          ],
+          [
+            -122.44191155035,
+            37.756756517287
+          ],
+          [
+            -122.441651771598,
+            37.756780071114
+          ],
+          [
+            -122.441311382986,
+            37.756885015448
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Grand View Ave",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Market St  -  Grand View Ter",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.443761672468,
+            37.7527472516
+          ],
+          [
+            -122.443772764766,
+            37.752646918246
+          ],
+          [
+            -122.443719247398,
+            37.752488867218
+          ],
+          [
+            -122.44361010462,
+            37.752311860662
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Corbett Ave",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Hopkins Ave  -  23rd St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.453769459175,
+            37.75746785408
+          ],
+          [
+            -122.4538722728,
+            37.757377603605
+          ],
+          [
+            -122.454026509719,
+            37.757180010051
+          ],
+          [
+            -122.454077639629,
+            37.757026976796
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Palo Alto Ave  -  Christopher Dr",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.440998757821,
+            37.756218485263
+          ],
+          [
+            -122.44097405493,
+            37.756115396622
+          ],
+          [
+            -122.44099893718,
+            37.755859528451
+          ],
+          [
+            -122.44118891777,
+            37.755584953055
+          ],
+          [
+            -122.441607860166,
+            37.754951042756
+          ],
+          [
+            -122.441728600658,
+            37.754636655968
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Market St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Romain St  -  Morgan Aly",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.442930584142,
+            37.755478990977
+          ],
+          [
+            -122.442781038675,
+            37.755404061324
+          ],
+          [
+            -122.442546180277,
+            37.755324964007
+          ],
+          [
+            -122.442408671762,
+            37.755214125104
+          ],
+          [
+            -122.442352748158,
+            37.755072573388
+          ],
+          [
+            -122.44238712519,
+            37.754815836654
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Corbett Ave",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Romain St  -  Morgan Aly",
+        "blockside": "SouthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.445778648041,
+            37.750503684931
+          ],
+          [
+            -122.44587399696,
+            37.750663301741
+          ],
+          [
+            -122.445896720722,
+            37.750767985817
+          ],
+          [
+            -122.445878667388,
+            37.75084162704
+          ],
+          [
+            -122.445661789364,
+            37.751334822719
+          ],
+          [
+            -122.445608724119,
+            37.751502207686
+          ],
+          [
+            -122.445612978857,
+            37.751664681569
+          ],
+          [
+            -122.445688198298,
+            37.751852674798
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Parkridge Dr",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Burnett Ave  -  Vista Ln",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.437959115627,
+            37.757490718769
+          ],
+          [
+            -122.43903342989,
+            37.757415488685
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "20th St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Eureka St  -  Douglass St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.441886398137,
+            37.753365106742
+          ],
+          [
+            -122.442056693803,
+            37.753070846109
+          ],
+          [
+            -122.442239114531,
+            37.752829681807
+          ],
+          [
+            -122.442492559309,
+            37.752606697304
+          ],
+          [
+            -122.442524700261,
+            37.752379976088
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Grand View Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Alvarado St  -  23rd St",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.451366941309,
+            37.758575669828
+          ],
+          [
+            -122.45204794145,
+            37.758343705068
+          ],
+          [
+            -122.452297816295,
+            37.758277073025
+          ],
+          [
+            -122.45283476317,
+            37.758097464615
+          ],
+          [
+            -122.45289526686,
+            37.758062632396
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Fri",
+        "fullname": "Fri 1st & 3rd",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "Stanyan St  -  Johnstone Dr",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.442175282343,
+            37.758939437583
+          ],
+          [
+            -122.442164081805,
+            37.758754407022
+          ],
+          [
+            -122.442208673346,
+            37.758514491566
+          ],
+          [
+            -122.442238208444,
+            37.758103507057
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Yukon St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "19th St  -  Eagle St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.440133893325,
+            37.756422684858
+          ],
+          [
+            -122.440898729693,
+            37.756245945922
+          ],
+          [
+            -122.440998757821,
+            37.756218485263
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Romain St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Grand View Ave  -  Market St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4410758311,
+            37.754178484427
+          ],
+          [
+            -122.441162633927,
+            37.754090414587
+          ],
+          [
+            -122.441307495781,
+            37.75387990522
+          ],
+          [
+            -122.441807410513,
+            37.753470934346
+          ],
+          [
+            -122.441886398137,
+            37.753365106742
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Grand View Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Hoffman Ave  -  Alvarado St",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447641491134,
+            37.748069993411
+          ],
+          [
+            -122.447260724319,
+            37.748142911279
+          ],
+          [
+            -122.447099899508,
+            37.748137067485
+          ],
+          [
+            -122.446911467946,
+            37.748026034784
+          ],
+          [
+            -122.44662736863,
+            37.74792973726
+          ],
+          [
+            -122.446366158874,
+            37.747880333423
+          ],
+          [
+            -122.445956834695,
+            37.747861308536
+          ],
+          [
+            -122.444986737796,
+            37.74800752621
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Dawnview Way",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Glenview Dr  -  Burnett Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444986737796,
+            37.74800752621
+          ],
+          [
+            -122.444847225273,
+            37.746945372649
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Dawnview Way  -  Portola Dr",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44361010462,
+            37.752311860662
+          ],
+          [
+            -122.443498643193,
+            37.752131093819
+          ],
+          [
+            -122.443462206823,
+            37.751996709741
+          ],
+          [
+            -122.443489582034,
+            37.751889576752
+          ],
+          [
+            -122.443547577178,
+            37.751799356054
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Corbett Ave",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "23rd St  -  Golding Ln",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444964327426,
+            37.757272876992
+          ],
+          [
+            -122.444812172835,
+            37.757253442937
+          ],
+          [
+            -122.44469570419,
+            37.757224108917
+          ],
+          [
+            -122.443933292458,
+            37.756707199425
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Graystone Ter",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Iron Aly  -  Copper Aly",
+        "blockside": "SouthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4410758311,
+            37.754178484427
+          ],
+          [
+            -122.441162633927,
+            37.754090414587
+          ],
+          [
+            -122.441307495781,
+            37.75387990522
+          ],
+          [
+            -122.441807410513,
+            37.753470934346
+          ],
+          [
+            -122.441886398137,
+            37.753365106742
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Grand View Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Hoffman Ave  -  Alvarado St",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.440133893325,
+            37.756422684858
+          ],
+          [
+            -122.440091940056,
+            37.756378220933
+          ],
+          [
+            -122.440028760203,
+            37.755956541672
+          ],
+          [
+            -122.440032112997,
+            37.75579661806
+          ],
+          [
+            -122.440113197848,
+            37.755606296781
+          ],
+          [
+            -122.440344935627,
+            37.755227929111
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Grand View Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Romain St  -  21st St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.445984424676,
+            37.752351715944
+          ],
+          [
+            -122.446270698763,
+            37.752779032579
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Parkridge Dr",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Vista Ln  -  Crestline Dr",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444639735362,
+            37.753136316541
+          ],
+          [
+            -122.444690707669,
+            37.753023666388
+          ],
+          [
+            -122.444707625379,
+            37.752936300116
+          ],
+          [
+            -122.44483835875,
+            37.752690299041
+          ],
+          [
+            -122.44481609452,
+            37.752624501463
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Hopkins Ave  -  Vista Ln",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444358025781,
+            37.751738089143
+          ],
+          [
+            -122.444602106654,
+            37.751198380127
+          ],
+          [
+            -122.444719127325,
+            37.75096291521
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Golding Ln  -  Perego Ter",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.442243502463,
+            37.756754583378
+          ],
+          [
+            -122.44191155035,
+            37.756756517287
+          ],
+          [
+            -122.441651771598,
+            37.756780071114
+          ],
+          [
+            -122.441311382986,
+            37.756885015448
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Grand View Ave",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Market St  -  Grand View Ter",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.440853227235,
+            37.753304192338
+          ],
+          [
+            -122.441871114732,
+            37.753242606844
+          ],
+          [
+            -122.441886398137,
+            37.753365106742
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Alvarado St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Hoffman Ave  -  Grand View Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.441728600658,
+            37.754636655968
+          ],
+          [
+            -122.441809169181,
+            37.754480368082
+          ],
+          [
+            -122.442215280575,
+            37.753902642064
+          ],
+          [
+            -122.442377963524,
+            37.753662237124
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Market St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Morgan Aly  -  Dixie Aly",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.441319853907,
+            37.756201805538
+          ],
+          [
+            -122.441518065136,
+            37.756145950399
+          ],
+          [
+            -122.441783200352,
+            37.75604894976
+          ],
+          [
+            -122.44240891064,
+            37.755774424663
+          ],
+          [
+            -122.442930584142,
+            37.755478990977
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Romain St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Start: 200-299 Block  -  Corbett Ave",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.45289526686,
+            37.758062632396
+          ],
+          [
+            -122.45331726453,
+            37.757819681827
+          ],
+          [
+            -122.453594410747,
+            37.757621512366
+          ],
+          [
+            -122.453769459175,
+            37.75746785408
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Johnstone Dr  -  Palo Alto Ave",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.445984424676,
+            37.752351715944
+          ],
+          [
+            -122.446270698763,
+            37.752779032579
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Parkridge Dr",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Vista Ln  -  Crestline Dr",
+        "blockside": "SouthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.442219550473,
+            37.756639160846
+          ],
+          [
+            -122.441961781511,
+            37.756540480497
+          ],
+          [
+            -122.441596502724,
+            37.756510343283
+          ],
+          [
+            -122.441296976421,
+            37.756381945165
+          ],
+          [
+            -122.441122600462,
+            37.756178548219
+          ],
+          [
+            -122.441093072703,
+            37.756104502079
+          ],
+          [
+            -122.441114241559,
+            37.75588681744
+          ],
+          [
+            -122.441292537302,
+            37.755629129382
+          ],
+          [
+            -122.44171713255,
+            37.754986664476
+          ],
+          [
+            -122.441840452423,
+            37.754665558735
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Market St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Glendale St  -  Morgan Aly",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.441886398137,
+            37.753365106742
+          ],
+          [
+            -122.442056693803,
+            37.753070846109
+          ],
+          [
+            -122.442239114531,
+            37.752829681807
+          ],
+          [
+            -122.442492559309,
+            37.752606697304
+          ],
+          [
+            -122.442524700261,
+            37.752379976088
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Grand View Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Alvarado St  -  23rd St",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447641491134,
+            37.748069993411
+          ],
+          [
+            -122.44771596249,
+            37.748323833832
+          ],
+          [
+            -122.447694152898,
+            37.748533724106
+          ],
+          [
+            -122.447604284869,
+            37.748694163402
+          ],
+          [
+            -122.447475934243,
+            37.748775761592
+          ],
+          [
+            -122.447379057057,
+            37.748784587757
+          ],
+          [
+            -122.44697342682,
+            37.748475790732
+          ],
+          [
+            -122.446721163042,
+            37.748345088496
+          ],
+          [
+            -122.446476290639,
+            37.74826483978
+          ],
+          [
+            -122.446153435844,
+            37.748219595998
+          ],
+          [
+            -122.445995829996,
+            37.748227015427
+          ],
+          [
+            -122.445021664653,
+            37.748369272455
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Glenview Dr",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Dawnview Way  -  Burnett Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.454077639629,
+            37.757026976796
+          ],
+          [
+            -122.454094884871,
+            37.756931888633
+          ],
+          [
+            -122.454172061116,
+            37.756506875439
+          ],
+          [
+            -122.454250449551,
+            37.756347056564
+          ],
+          [
+            -122.454524617488,
+            37.755962978955
+          ],
+          [
+            -122.454820979488,
+            37.755546524121
+          ],
+          [
+            -122.455052388686,
+            37.75511628872
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Fri",
+        "fullname": "Fri 1st & 3rd",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "Christopher Dr  -  Oak Park Dr",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.443188018977,
+            37.756038806801
+          ],
+          [
+            -122.443033852228,
+            37.755577492245
+          ],
+          [
+            -122.442930584142,
+            37.755478990977
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Corbett Ave",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Glendale St  -  Romain St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439073985914,
+            37.757855458459
+          ],
+          [
+            -122.439621628803,
+            37.757959648567
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Seward St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Douglass St  -  Acme Aly",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.445457280694,
+            37.747337185704
+          ],
+          [
+            -122.446194314833,
+            37.747231480192
+          ],
+          [
+            -122.446443547221,
+            37.74724663086
+          ],
+          [
+            -122.446991924135,
+            37.747336286673
+          ],
+          [
+            -122.447090568108,
+            37.746856112648
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Sunview Dr",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Start: 01-99 Block  -  Portola Dr",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439621628803,
+            37.757959648567
+          ],
+          [
+            -122.440045465085,
+            37.758116358037
+          ],
+          [
+            -122.44052722686,
+            37.758491606672
+          ],
+          [
+            -122.44055984328,
+            37.75882570083
+          ],
+          [
+            -122.44079780544,
+            37.759024874056
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Seward St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Acme Aly  -  19th St",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.443513115337,
+            37.757015898286
+          ],
+          [
+            -122.443276133056,
+            37.756233772854
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Corbett Ave",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Copper Aly  -  Graystone Ter",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444947565277,
+            37.749658236992
+          ],
+          [
+            -122.444856899397,
+            37.749498672619
+          ],
+          [
+            -122.444811344557,
+            37.749380489603
+          ],
+          [
+            -122.444808025248,
+            37.749253680425
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Fenton Ln  -  Crestline Dr",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439256483739,
+            37.759807649443
+          ],
+          [
+            -122.439167308588,
+            37.759027747992
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Douglass St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Caselli Ave  -  19th St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444986737796,
+            37.74800752621
+          ],
+          [
+            -122.444847225273,
+            37.746945372649
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Dawnview Way  -  Portola Dr",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.451366941309,
+            37.758575669828
+          ],
+          [
+            -122.45204794145,
+            37.758343705068
+          ],
+          [
+            -122.452297816295,
+            37.758277073025
+          ],
+          [
+            -122.45283476317,
+            37.758097464615
+          ],
+          [
+            -122.45289526686,
+            37.758062632396
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 1st, 3rd, 5th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Stanyan St  -  Johnstone Dr",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44481609452,
+            37.752624501463
+          ],
+          [
+            -122.444737260142,
+            37.752391516827
+          ],
+          [
+            -122.444550803129,
+            37.75218558444
+          ],
+          [
+            -122.444307045196,
+            37.751991482955
+          ],
+          [
+            -122.444288484147,
+            37.751911233549
+          ],
+          [
+            -122.444358025781,
+            37.751738089143
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Vista Ln  -  Golding Ln",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.443761672468,
+            37.7527472516
+          ],
+          [
+            -122.443772764766,
+            37.752646918246
+          ],
+          [
+            -122.443719247398,
+            37.752488867218
+          ],
+          [
+            -122.44361010462,
+            37.752311860662
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Corbett Ave",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Hopkins Ave  -  23rd St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44481609452,
+            37.752624501463
+          ],
+          [
+            -122.444737260142,
+            37.752391516827
+          ],
+          [
+            -122.444550803129,
+            37.75218558444
+          ],
+          [
+            -122.444307045196,
+            37.751991482955
+          ],
+          [
+            -122.444288484147,
+            37.751911233549
+          ],
+          [
+            -122.444358025781,
+            37.751738089143
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Vista Ln  -  Golding Ln",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.442728860424,
+            37.752563699082
+          ],
+          [
+            -122.442680257292,
+            37.752475203707
+          ],
+          [
+            -122.443252835278,
+            37.750163605829
+          ],
+          [
+            -122.443347263232,
+            37.750082608704
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Market St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Argent Aly  -  Portola Dr",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.453769459175,
+            37.75746785408
+          ],
+          [
+            -122.4538722728,
+            37.757377603605
+          ],
+          [
+            -122.454026509719,
+            37.757180010051
+          ],
+          [
+            -122.454077639629,
+            37.757026976796
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 1st, 3rd, 5th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Palo Alto Ave  -  Christopher Dr",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439073985914,
+            37.757855458459
+          ],
+          [
+            -122.439621628803,
+            37.757959648567
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Seward St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Douglass St  -  Acme Aly",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.456030475541,
+            37.752853672797
+          ],
+          [
+            -122.45601362846,
+            37.752359100804
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 1st, 3rd, 5th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Ashwood Ln  -  Galewood Cir",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.443347263232,
+            37.750082608704
+          ],
+          [
+            -122.443293586278,
+            37.74999577314
+          ],
+          [
+            -122.443436085377,
+            37.749420404515
+          ],
+          [
+            -122.443572857857,
+            37.749146582835
+          ],
+          [
+            -122.443716551385,
+            37.748999168983
+          ],
+          [
+            -122.4439471251,
+            37.748694571085
+          ],
+          [
+            -122.444114824716,
+            37.748359893654
+          ],
+          [
+            -122.444076746845,
+            37.74802861019
+          ],
+          [
+            -122.444011579665,
+            37.747785938443
+          ],
+          [
+            -122.444021196575,
+            37.747529067045
+          ],
+          [
+            -122.444165767134,
+            37.747245436411
+          ],
+          [
+            -122.444325536369,
+            37.747084440336
+          ],
+          [
+            -122.444553664321,
+            37.74697474653
+          ],
+          [
+            -122.444710835621,
+            37.746919947014
+          ],
+          [
+            -122.444847225273,
+            37.746945372649
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Portola Dr",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Market St  -  Diamond Heights Blvd",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44079780544,
+            37.759024874056
+          ],
+          [
+            -122.441034041781,
+            37.759009549074
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "19th St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Seward St  -  Clover Ln",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.446244790171,
+            37.751669412797
+          ],
+          [
+            -122.446292752328,
+            37.751774374057
+          ],
+          [
+            -122.446598572171,
+            37.752292636314
+          ],
+          [
+            -122.44661744611,
+            37.752440993163
+          ],
+          [
+            -122.446582642961,
+            37.752542662569
+          ],
+          [
+            -122.446492859131,
+            37.752643257708
+          ],
+          [
+            -122.446270698763,
+            37.752779032579
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Crestline Dr",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Vista Ln  -  Parkridge Dr",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.456030475541,
+            37.752853672797
+          ],
+          [
+            -122.45601362846,
+            37.752359100804
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Fri",
+        "fullname": "Fri 1st & 3rd",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "Ashwood Ln  -  Galewood Cir",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.45601362846,
+            37.752359100804
+          ],
+          [
+            -122.456005190388,
+            37.752094472951
+          ],
+          [
+            -122.456091281575,
+            37.751803589233
+          ],
+          [
+            -122.456448433597,
+            37.751483313163
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Galewood Cir  -  Olympia Way",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.450852983615,
+            37.745825831374
+          ],
+          [
+            -122.450883188567,
+            37.745715202667
+          ],
+          [
+            -122.451468230194,
+            37.745523945404
+          ],
+          [
+            -122.451623986882,
+            37.745534237596
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Portola Dr",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "Twin Peaks Blvd  -  Woodside Ave",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.438864311824,
+            37.755433637904
+          ],
+          [
+            -122.438905992295,
+            37.755520996579
+          ],
+          [
+            -122.438989817209,
+            37.756416340014
+          ],
+          [
+            -122.439045519613,
+            37.756468113771
+          ],
+          [
+            -122.439652748304,
+            37.756434626153
+          ],
+          [
+            -122.440133893325,
+            37.756422684858
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Romain St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "21st St  -  Grand View Ave",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444847225273,
+            37.746945372649
+          ],
+          [
+            -122.445049935353,
+            37.747014593384
+          ],
+          [
+            -122.446186005924,
+            37.746842571546
+          ],
+          [
+            -122.446648368162,
+            37.746760186288
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Portola Dr",
+        "weekday": "Tues",
+        "fullname": "Tue 1st, 3rd, 5th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Diamond Heights Blvd  -  Portola Dr",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447870407252,
+            37.746914922341
+          ],
+          [
+            -122.448629486405,
+            37.746525964637
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Portola Dr (spur)",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Glenview Dr  -  End: 00-0 Block",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.438864311824,
+            37.755433637904
+          ],
+          [
+            -122.438905992295,
+            37.755520996579
+          ],
+          [
+            -122.438989817209,
+            37.756416340014
+          ],
+          [
+            -122.439045519613,
+            37.756468113771
+          ],
+          [
+            -122.439652748304,
+            37.756434626153
+          ],
+          [
+            -122.440133893325,
+            37.756422684858
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Romain St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "21st St  -  Grand View Ave",
+        "blockside": "SouthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.442377963524,
+            37.753662237124
+          ],
+          [
+            -122.442432127953,
+            37.753581629514
+          ],
+          [
+            -122.442659770783,
+            37.752631620032
+          ],
+          [
+            -122.442728860424,
+            37.752563699082
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Market St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Dixie Aly  -  Argent Aly",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444485135507,
+            37.756353562364
+          ],
+          [
+            -122.444385493827,
+            37.75640217906
+          ],
+          [
+            -122.444356882025,
+            37.756455546344
+          ],
+          [
+            -122.44435479457,
+            37.756503186085
+          ],
+          [
+            -122.444406516597,
+            37.756568451662
+          ],
+          [
+            -122.444545307623,
+            37.756648149453
+          ],
+          [
+            -122.444819558574,
+            37.756807598822
+          ],
+          [
+            -122.445105629273,
+            37.75696075209
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave North",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Burnett Ave  -  Iron Aly",
+        "blockside": "SouthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.448534508805,
+            37.759045234821
+          ],
+          [
+            -122.450928518395,
+            37.758725004524
+          ],
+          [
+            -122.451366941309,
+            37.758575669828
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Twin Peaks Blvd  -  Stanyan St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447786105058,
+            37.746438159355
+          ],
+          [
+            -122.447915521549,
+            37.746480095404
+          ],
+          [
+            -122.44889333619,
+            37.746232402983
+          ],
+          [
+            -122.449720553256,
+            37.746055599763
+          ],
+          [
+            -122.450523197582,
+            37.7459528638
+          ],
+          [
+            -122.450704845151,
+            37.745928809599
+          ],
+          [
+            -122.450852983615,
+            37.745825831374
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Portola Dr",
+        "weekday": "Tues",
+        "fullname": "Tue 1st, 3rd, 5th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Glenview Dr  -  Twin Peaks Blvd",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439167308588,
+            37.759027747992
+          ],
+          [
+            -122.439114419695,
+            37.758462871452
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Douglass St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "19th St  -  Carson St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.451366941309,
+            37.758575669828
+          ],
+          [
+            -122.45204794145,
+            37.758343705068
+          ],
+          [
+            -122.452297816295,
+            37.758277073025
+          ],
+          [
+            -122.45283476317,
+            37.758097464615
+          ],
+          [
+            -122.45289526686,
+            37.758062632396
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Stanyan St  -  Johnstone Dr",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447786105058,
+            37.746438159355
+          ],
+          [
+            -122.447839020335,
+            37.746653055991
+          ],
+          [
+            -122.44786660316,
+            37.746784325153
+          ],
+          [
+            -122.447870407252,
+            37.746914922341
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Glenview Dr",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Portola Dr  -  Portola Dr",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.445021664653,
+            37.748369272455
+          ],
+          [
+            -122.444986737796,
+            37.74800752621
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Glenview Dr  -  Dawnview Way",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439073985914,
+            37.757855458459
+          ],
+          [
+            -122.43903342989,
+            37.757415488685
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Douglass St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Seward St  -  20th St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.442238208444,
+            37.758103507057
+          ],
+          [
+            -122.442257555805,
+            37.757733865107
+          ],
+          [
+            -122.442280572674,
+            37.757629596511
+          ],
+          [
+            -122.442370898705,
+            37.757584491634
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Yukon St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Eagle St  -  Short St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444639735362,
+            37.753136316541
+          ],
+          [
+            -122.443761672468,
+            37.7527472516
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Hopkins Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Burnett Ave  -  Corbett Ave",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439114419695,
+            37.758462871452
+          ],
+          [
+            -122.439073985914,
+            37.757855458459
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Douglass St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Carson St  -  Seward St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44019959142,
+            37.757254494346
+          ],
+          [
+            -122.439945779407,
+            37.757198627271
+          ],
+          [
+            -122.439624060939,
+            37.757108272021
+          ],
+          [
+            -122.439002910611,
+            37.7570898021
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Corwin St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Acme Aly  -  Douglass St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.440344935627,
+            37.755227929111
+          ],
+          [
+            -122.44044963042,
+            37.755065428357
+          ],
+          [
+            -122.440767651549,
+            37.754609352419
+          ],
+          [
+            -122.44089731085,
+            37.754492600632
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Grand View Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "21st St  -  Morgan Aly",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.441311382986,
+            37.756885015448
+          ],
+          [
+            -122.441150070386,
+            37.757730413533
+          ],
+          [
+            -122.441249062773,
+            37.757861027389
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Grand View Ter",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Grand View Ave  -  End: 01-99 Block",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.443276133056,
+            37.756233772854
+          ],
+          [
+            -122.443188018977,
+            37.756038806801
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Corbett Ave",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Graystone Ter  -  Glendale St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447870407252,
+            37.746914922341
+          ],
+          [
+            -122.447855537937,
+            37.747049895255
+          ],
+          [
+            -122.447780771466,
+            37.747323279364
+          ],
+          [
+            -122.447775773392,
+            37.747479907845
+          ],
+          [
+            -122.447796110945,
+            37.747792662711
+          ],
+          [
+            -122.447805206696,
+            37.747908115105
+          ],
+          [
+            -122.447732087727,
+            37.748012884491
+          ],
+          [
+            -122.447641491134,
+            37.748069993411
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Glenview Dr",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Portola Dr  -  Dawnview Way",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.455537383354,
+            37.7537744352
+          ],
+          [
+            -122.455784471547,
+            37.753410448684
+          ],
+          [
+            -122.455919184908,
+            37.753147939746
+          ],
+          [
+            -122.456031545504,
+            37.752885801633
+          ],
+          [
+            -122.456030475541,
+            37.752853672797
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Fri",
+        "fullname": "Fri 1st & 3rd",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "Panorama Dr  -  Ashwood Ln",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.442914855611,
+            37.757360460269
+          ],
+          [
+            -122.442822512971,
+            37.757228212869
+          ],
+          [
+            -122.442618313756,
+            37.756939880162
+          ],
+          [
+            -122.44252486608,
+            37.756832756978
+          ],
+          [
+            -122.442338618299,
+            37.756692996695
+          ],
+          [
+            -122.442219550473,
+            37.756639160846
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Market St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Copper Aly  -  Glendale St",
+        "blockside": "SouthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.453769459175,
+            37.75746785408
+          ],
+          [
+            -122.4538722728,
+            37.757377603605
+          ],
+          [
+            -122.454026509719,
+            37.757180010051
+          ],
+          [
+            -122.454077639629,
+            37.757026976796
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Fri",
+        "fullname": "Fri 1st & 3rd",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "Palo Alto Ave  -  Christopher Dr",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.446244790171,
+            37.751669412797
+          ],
+          [
+            -122.446292752328,
+            37.751774374057
+          ],
+          [
+            -122.446598572171,
+            37.752292636314
+          ],
+          [
+            -122.44661744611,
+            37.752440993163
+          ],
+          [
+            -122.446582642961,
+            37.752542662569
+          ],
+          [
+            -122.446492859131,
+            37.752643257708
+          ],
+          [
+            -122.446270698763,
+            37.752779032579
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Crestline Dr",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Vista Ln  -  Parkridge Dr",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439073985914,
+            37.757855458459
+          ],
+          [
+            -122.43903342989,
+            37.757415488685
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Douglass St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Seward St  -  20th St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444719127325,
+            37.75096291521
+          ],
+          [
+            -122.444907992868,
+            37.750902109243
+          ],
+          [
+            -122.445152592319,
+            37.750900561227
+          ],
+          [
+            -122.445262857895,
+            37.750936813345
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Perego Ter  -  Gardenside Dr",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.440853227235,
+            37.753304192338
+          ],
+          [
+            -122.441871114732,
+            37.753242606844
+          ],
+          [
+            -122.441886398137,
+            37.753365106742
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Alvarado St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Hoffman Ave  -  Grand View Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444639735362,
+            37.753136316541
+          ],
+          [
+            -122.444690707669,
+            37.753023666388
+          ],
+          [
+            -122.444707625379,
+            37.752936300116
+          ],
+          [
+            -122.44483835875,
+            37.752690299041
+          ],
+          [
+            -122.44481609452,
+            37.752624501463
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Hopkins Ave  -  Vista Ln",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444719127325,
+            37.75096291521
+          ],
+          [
+            -122.4447784789,
+            37.750866910364
+          ],
+          [
+            -122.444807103146,
+            37.75064242001
+          ],
+          [
+            -122.444766821489,
+            37.750421556176
+          ],
+          [
+            -122.444451456884,
+            37.749971989429
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Perego Ter",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Burnett Ave  -  End: 01-99 Block",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.445456578305,
+            37.752576449683
+          ],
+          [
+            -122.445455416091,
+            37.752699506568
+          ],
+          [
+            -122.445255320323,
+            37.753129302342
+          ],
+          [
+            -122.445237473295,
+            37.753210869137
+          ],
+          [
+            -122.445232310927,
+            37.753395303065
+          ],
+          [
+            -122.445171441453,
+            37.753550923041
+          ],
+          [
+            -122.445046381823,
+            37.753735353811
+          ],
+          [
+            -122.444879187274,
+            37.75393237294
+          ],
+          [
+            -122.444760942606,
+            37.754090921874
+          ],
+          [
+            -122.444646275545,
+            37.754386186275
+          ],
+          [
+            -122.444622849122,
+            37.754636335769
+          ],
+          [
+            -122.444639326403,
+            37.754788696751
+          ],
+          [
+            -122.444743444852,
+            37.755044670746
+          ],
+          [
+            -122.444742416412,
+            37.755208699327
+          ],
+          [
+            -122.444611800281,
+            37.755354548506
+          ],
+          [
+            -122.444414626426,
+            37.75547319188
+          ],
+          [
+            -122.444218906597,
+            37.755583860004
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Gardenside Dr",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Vista Ln  -  Burnett Ave",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.446648368162,
+            37.746760186288
+          ],
+          [
+            -122.446841298716,
+            37.746722291346
+          ],
+          [
+            -122.447659038125,
+            37.746536680318
+          ],
+          [
+            -122.447786105058,
+            37.746438159355
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Portola Dr",
+        "weekday": "Tues",
+        "fullname": "Tue 1st, 3rd, 5th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Portola Dr  -  Glenview Dr",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.450852983615,
+            37.745825831374
+          ],
+          [
+            -122.450969537209,
+            37.74586985955
+          ],
+          [
+            -122.451570002265,
+            37.745654455636
+          ],
+          [
+            -122.451623986882,
+            37.745534237596
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Portola Dr",
+        "weekday": "Tues",
+        "fullname": "Tue 1st, 3rd, 5th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Twin Peaks Blvd  -  Woodside Ave",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444964327426,
+            37.757272876992
+          ],
+          [
+            -122.444812172835,
+            37.757253442937
+          ],
+          [
+            -122.44469570419,
+            37.757224108917
+          ],
+          [
+            -122.443933292458,
+            37.756707199425
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Graystone Ter",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Iron Aly  -  Copper Aly",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444947565277,
+            37.749658236992
+          ],
+          [
+            -122.444856899397,
+            37.749498672619
+          ],
+          [
+            -122.444811344557,
+            37.749380489603
+          ],
+          [
+            -122.444808025248,
+            37.749253680425
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Fenton Ln  -  Crestline Dr",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.445778648041,
+            37.750503684931
+          ],
+          [
+            -122.44587399696,
+            37.750663301741
+          ],
+          [
+            -122.445896720722,
+            37.750767985817
+          ],
+          [
+            -122.445878667388,
+            37.75084162704
+          ],
+          [
+            -122.445661789364,
+            37.751334822719
+          ],
+          [
+            -122.445608724119,
+            37.751502207686
+          ],
+          [
+            -122.445612978857,
+            37.751664681569
+          ],
+          [
+            -122.445688198298,
+            37.751852674798
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Parkridge Dr",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Burnett Ave  -  Vista Ln",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.441319853907,
+            37.756201805538
+          ],
+          [
+            -122.441518065136,
+            37.756145950399
+          ],
+          [
+            -122.441783200352,
+            37.75604894976
+          ],
+          [
+            -122.44240891064,
+            37.755774424663
+          ],
+          [
+            -122.442930584142,
+            37.755478990977
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Romain St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Start: 200-299 Block  -  Corbett Ave",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.443933292458,
+            37.756707199425
+          ],
+          [
+            -122.443382569521,
+            37.756337403237
+          ],
+          [
+            -122.443276133056,
+            37.756233772854
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Graystone Ter",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Copper Aly  -  Corbett Ave",
+        "blockside": "SouthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.442930584142,
+            37.755478990977
+          ],
+          [
+            -122.442781038675,
+            37.755404061324
+          ],
+          [
+            -122.442546180277,
+            37.755324964007
+          ],
+          [
+            -122.442408671762,
+            37.755214125104
+          ],
+          [
+            -122.442352748158,
+            37.755072573388
+          ],
+          [
+            -122.44238712519,
+            37.754815836654
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Corbett Ave",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Romain St  -  Morgan Aly",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.441311382986,
+            37.756885015448
+          ],
+          [
+            -122.441150070386,
+            37.757730413533
+          ],
+          [
+            -122.441249062773,
+            37.757861027389
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Grand View Ter",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Grand View Ave  -  End: 01-99 Block",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.445778648041,
+            37.750503684931
+          ],
+          [
+            -122.44566762785,
+            37.750317833768
+          ],
+          [
+            -122.445579732055,
+            37.750204314479
+          ],
+          [
+            -122.444947565277,
+            37.749658236992
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Parkridge Dr  -  Fenton Ln",
+        "blockside": "SouthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444847225273,
+            37.746945372649
+          ],
+          [
+            -122.445049935353,
+            37.747014593384
+          ],
+          [
+            -122.446186005924,
+            37.746842571546
+          ],
+          [
+            -122.446648368162,
+            37.746760186288
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Portola Dr",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Diamond Heights Blvd  -  Portola Dr",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.446648368162,
+            37.746760186288
+          ],
+          [
+            -122.446841298716,
+            37.746722291346
+          ],
+          [
+            -122.447659038125,
+            37.746536680318
+          ],
+          [
+            -122.447786105058,
+            37.746438159355
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Portola Dr",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Portola Dr  -  Glenview Dr",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44361010462,
+            37.752311860662
+          ],
+          [
+            -122.443498643193,
+            37.752131093819
+          ],
+          [
+            -122.443462206823,
+            37.751996709741
+          ],
+          [
+            -122.443489582034,
+            37.751889576752
+          ],
+          [
+            -122.443547577178,
+            37.751799356054
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Corbett Ave",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "23rd St  -  Golding Ln",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.445262857895,
+            37.750936813345
+          ],
+          [
+            -122.445142115392,
+            37.751190551483
+          ],
+          [
+            -122.445083173408,
+            37.751324335024
+          ],
+          [
+            -122.445037641984,
+            37.751588725497
+          ],
+          [
+            -122.445060617151,
+            37.751798464105
+          ],
+          [
+            -122.445135504995,
+            37.751987523938
+          ],
+          [
+            -122.445456578305,
+            37.752576449683
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Gardenside Dr",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Burnett Ave  -  Vista Ln",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.441311382986,
+            37.756885015448
+          ],
+          [
+            -122.440975000018,
+            37.756855169633
+          ],
+          [
+            -122.440694854593,
+            37.756771351143
+          ],
+          [
+            -122.440296910171,
+            37.75665228676
+          ],
+          [
+            -122.440133893325,
+            37.756422684858
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Grand View Ave",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Grand View Ter  -  Romain St",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444808025248,
+            37.749253680425
+          ],
+          [
+            -122.445128215659,
+            37.749272182849
+          ],
+          [
+            -122.445279828847,
+            37.749339058977
+          ],
+          [
+            -122.446641740335,
+            37.750317604765
+          ],
+          [
+            -122.446671539959,
+            37.750406313569
+          ],
+          [
+            -122.446658325076,
+            37.750473928596
+          ],
+          [
+            -122.446481348288,
+            37.750964484429
+          ],
+          [
+            -122.446372158808,
+            37.751182352869
+          ],
+          [
+            -122.446293141692,
+            37.751312504223
+          ],
+          [
+            -122.44623237995,
+            37.751472087476
+          ],
+          [
+            -122.446244790171,
+            37.751669412797
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Crestline Dr",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Burnett Ave  -  Vista Ln",
+        "blockside": "SouthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.437959115627,
+            37.757490718769
+          ],
+          [
+            -122.43903342989,
+            37.757415488685
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "20th St",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Eureka St  -  Douglass St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.438864311824,
+            37.755433637904
+          ],
+          [
+            -122.438905992295,
+            37.755520996579
+          ],
+          [
+            -122.438989817209,
+            37.756416340014
+          ],
+          [
+            -122.439045519613,
+            37.756468113771
+          ],
+          [
+            -122.439652748304,
+            37.756434626153
+          ],
+          [
+            -122.440133893325,
+            37.756422684858
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Romain St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "21st St  -  Grand View Ave",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.443246730572,
+            37.751426368319
+          ],
+          [
+            -122.443353347693,
+            37.751376438785
+          ],
+          [
+            -122.443622081906,
+            37.751077627248
+          ],
+          [
+            -122.4437712744,
+            37.750850367367
+          ],
+          [
+            -122.443866248105,
+            37.750613296898
+          ],
+          [
+            -122.443968726532,
+            37.750458967197
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Cuesta Ct",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Start: 01-99 Block  -  Portola Dr",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.441038640006,
+            37.758198250959
+          ],
+          [
+            -122.44079782454,
+            37.757949962687
+          ],
+          [
+            -122.44064542065,
+            37.757651296512
+          ],
+          [
+            -122.440474442116,
+            37.757418688415
+          ],
+          [
+            -122.44019959142,
+            37.757254494346
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Corwin St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Start: 100-199 Block  -  Acme Aly",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.441840452423,
+            37.754665558735
+          ],
+          [
+            -122.441841093458,
+            37.75466389034
+          ],
+          [
+            -122.441915287003,
+            37.754521004186
+          ],
+          [
+            -122.4423183211,
+            37.753947655053
+          ],
+          [
+            -122.44247641116,
+            37.753718973049
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Market St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Morgan Aly  -  Dixie Aly",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.445688198298,
+            37.751852674798
+          ],
+          [
+            -122.445984424676,
+            37.752351715944
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Parkridge Dr",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Vista Ln  -  Vista Ln",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444719127325,
+            37.75096291521
+          ],
+          [
+            -122.444907992868,
+            37.750902109243
+          ],
+          [
+            -122.445152592319,
+            37.750900561227
+          ],
+          [
+            -122.445262857895,
+            37.750936813345
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Perego Ter  -  Gardenside Dr",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444808025248,
+            37.749253680425
+          ],
+          [
+            -122.444854275307,
+            37.749112177641
+          ],
+          [
+            -122.44497620882,
+            37.748904011367
+          ],
+          [
+            -122.445045290687,
+            37.748776007545
+          ],
+          [
+            -122.445062099451,
+            37.748654812892
+          ],
+          [
+            -122.445021664653,
+            37.748369272455
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Crestline Dr  -  Glenview Dr",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.438112354335,
+            37.759092655188
+          ],
+          [
+            -122.439167308588,
+            37.759027747992
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "19th St",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Eureka St  -  Douglass St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.443188018977,
+            37.756038806801
+          ],
+          [
+            -122.443033852228,
+            37.755577492245
+          ],
+          [
+            -122.442930584142,
+            37.755478990977
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Corbett Ave",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Glendale St  -  Romain St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444808025248,
+            37.749253680425
+          ],
+          [
+            -122.445128215659,
+            37.749272182849
+          ],
+          [
+            -122.445279828847,
+            37.749339058977
+          ],
+          [
+            -122.446641740335,
+            37.750317604765
+          ],
+          [
+            -122.446671539959,
+            37.750406313569
+          ],
+          [
+            -122.446658325076,
+            37.750473928596
+          ],
+          [
+            -122.446481348288,
+            37.750964484429
+          ],
+          [
+            -122.446372158808,
+            37.751182352869
+          ],
+          [
+            -122.446293141692,
+            37.751312504223
+          ],
+          [
+            -122.44623237995,
+            37.751472087476
+          ],
+          [
+            -122.446244790171,
+            37.751669412797
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Crestline Dr",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Burnett Ave  -  Vista Ln",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439167308588,
+            37.759027747992
+          ],
+          [
+            -122.439114419695,
+            37.758462871452
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Douglass St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "19th St  -  Carson St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439002910611,
+            37.7570898021
+          ],
+          [
+            -122.43897664215,
+            37.75702192636
+          ],
+          [
+            -122.438839348086,
+            37.755524841141
+          ],
+          [
+            -122.438864311824,
+            37.755433637904
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Douglass St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Corwin St  -  21st St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.443013012294,
+            37.75401359487
+          ],
+          [
+            -122.443116170723,
+            37.753848157784
+          ],
+          [
+            -122.443266395074,
+            37.753498677446
+          ],
+          [
+            -122.443726293899,
+            37.752866130267
+          ],
+          [
+            -122.443761672468,
+            37.7527472516
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Corbett Ave",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Dixie Aly  -  Hopkins Ave",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.443246730572,
+            37.751426368319
+          ],
+          [
+            -122.443353347693,
+            37.751376438785
+          ],
+          [
+            -122.443622081906,
+            37.751077627248
+          ],
+          [
+            -122.4437712744,
+            37.750850367367
+          ],
+          [
+            -122.443866248105,
+            37.750613296898
+          ],
+          [
+            -122.443968726532,
+            37.750458967197
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Cuesta Ct",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Start: 01-99 Block  -  Portola Dr",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.445456578305,
+            37.752576449683
+          ],
+          [
+            -122.445455416091,
+            37.752699506568
+          ],
+          [
+            -122.445255320323,
+            37.753129302342
+          ],
+          [
+            -122.445237473295,
+            37.753210869137
+          ],
+          [
+            -122.445232310927,
+            37.753395303065
+          ],
+          [
+            -122.445171441453,
+            37.753550923041
+          ],
+          [
+            -122.445046381823,
+            37.753735353811
+          ],
+          [
+            -122.444879187274,
+            37.75393237294
+          ],
+          [
+            -122.444760942606,
+            37.754090921874
+          ],
+          [
+            -122.444646275545,
+            37.754386186275
+          ],
+          [
+            -122.444622849122,
+            37.754636335769
+          ],
+          [
+            -122.444639326403,
+            37.754788696751
+          ],
+          [
+            -122.444743444852,
+            37.755044670746
+          ],
+          [
+            -122.444742416412,
+            37.755208699327
+          ],
+          [
+            -122.444611800281,
+            37.755354548506
+          ],
+          [
+            -122.444414626426,
+            37.75547319188
+          ],
+          [
+            -122.444218906597,
+            37.755583860004
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Gardenside Dr",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Vista Ln  -  Burnett Ave",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.448534508805,
+            37.759045234821
+          ],
+          [
+            -122.450928518395,
+            37.758725004524
+          ],
+          [
+            -122.451366941309,
+            37.758575669828
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Fri",
+        "fullname": "Fri 1st & 3rd",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "Twin Peaks Blvd  -  Stanyan St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447870407252,
+            37.746914922341
+          ],
+          [
+            -122.448629486405,
+            37.746525964637
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Portola Dr (spur)",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Glenview Dr  -  End: 00-0 Block",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444808025248,
+            37.749253680425
+          ],
+          [
+            -122.444854275307,
+            37.749112177641
+          ],
+          [
+            -122.44497620882,
+            37.748904011367
+          ],
+          [
+            -122.445045290687,
+            37.748776007545
+          ],
+          [
+            -122.445062099451,
+            37.748654812892
+          ],
+          [
+            -122.445021664653,
+            37.748369272455
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Crestline Dr  -  Glenview Dr",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444719127325,
+            37.75096291521
+          ],
+          [
+            -122.4447784789,
+            37.750866910364
+          ],
+          [
+            -122.444807103146,
+            37.75064242001
+          ],
+          [
+            -122.444766821489,
+            37.750421556176
+          ],
+          [
+            -122.444451456884,
+            37.749971989429
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Perego Ter",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Burnett Ave  -  End: 01-99 Block",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.445021664653,
+            37.748369272455
+          ],
+          [
+            -122.444986737796,
+            37.74800752621
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Glenview Dr  -  Dawnview Way",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444064170825,
+            37.754170736688
+          ],
+          [
+            -122.444091369749,
+            37.75412867516
+          ],
+          [
+            -122.4442612967,
+            37.753912508528
+          ],
+          [
+            -122.444300398176,
+            37.75362447592
+          ],
+          [
+            -122.444373546314,
+            37.753379425459
+          ],
+          [
+            -122.44461031115,
+            37.753201344378
+          ],
+          [
+            -122.444639735362,
+            37.753136316541
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Dixie Aly  -  Hopkins Ave",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44089731085,
+            37.754492600632
+          ],
+          [
+            -122.4410758311,
+            37.754178484427
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Grand View Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Morgan Aly  -  Hoffman Ave",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.447870407252,
+            37.746914922341
+          ],
+          [
+            -122.447855537937,
+            37.747049895255
+          ],
+          [
+            -122.447780771466,
+            37.747323279364
+          ],
+          [
+            -122.447775773392,
+            37.747479907845
+          ],
+          [
+            -122.447796110945,
+            37.747792662711
+          ],
+          [
+            -122.447805206696,
+            37.747908115105
+          ],
+          [
+            -122.447732087727,
+            37.748012884491
+          ],
+          [
+            -122.447641491134,
+            37.748069993411
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Glenview Dr",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Portola Dr  -  Dawnview Way",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.450852983615,
+            37.745825831374
+          ],
+          [
+            -122.450969537209,
+            37.74586985955
+          ],
+          [
+            -122.451570002265,
+            37.745654455636
+          ],
+          [
+            -122.451623986882,
+            37.745534237596
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Portola Dr",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Twin Peaks Blvd  -  Woodside Ave",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.440095796176,
+            37.758979360731
+          ],
+          [
+            -122.440381374134,
+            37.759032207124
+          ],
+          [
+            -122.440590573646,
+            37.759041671719
+          ],
+          [
+            -122.44079780544,
+            37.759024874056
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "19th St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Lamson Ln  -  Seward St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.443513115337,
+            37.757015898286
+          ],
+          [
+            -122.443276133056,
+            37.756233772854
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Corbett Ave",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Copper Aly  -  Graystone Ter",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.443547577178,
+            37.751799356054
+          ],
+          [
+            -122.44369278468,
+            37.75156602437
+          ],
+          [
+            -122.443897973466,
+            37.751152246306
+          ],
+          [
+            -122.4440174108,
+            37.750838584586
+          ],
+          [
+            -122.444070511796,
+            37.750658671963
+          ],
+          [
+            -122.443968726532,
+            37.750458967197
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Corbett Ave",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Golding Ln  -  Portola Dr",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.456030475541,
+            37.752853672797
+          ],
+          [
+            -122.45601362846,
+            37.752359100804
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Clarendon Ave",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Ashwood Ln  -  Galewood Cir",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444847225273,
+            37.746945372649
+          ],
+          [
+            -122.44503041578,
+            37.746902921096
+          ],
+          [
+            -122.446178294858,
+            37.746746612943
+          ],
+          [
+            -122.446919265693,
+            37.746600954035
+          ],
+          [
+            -122.447621386408,
+            37.746418009372
+          ],
+          [
+            -122.447786105058,
+            37.746438159355
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Portola Dr",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "13",
+        "tohour": "15",
+        "limits": "Diamond Heights Blvd  -  Glenview Dr",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "1 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.445262857895,
+            37.750936813345
+          ],
+          [
+            -122.445778648041,
+            37.750503684931
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Gardenside Dr  -  Parkridge Dr",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444218906597,
+            37.755583860004
+          ],
+          [
+            -122.444208974775,
+            37.755163071295
+          ],
+          [
+            -122.444185905744,
+            37.755015403991
+          ],
+          [
+            -122.444002431531,
+            37.754609121147
+          ],
+          [
+            -122.44396553749,
+            37.754457327523
+          ],
+          [
+            -122.444001718414,
+            37.754267316107
+          ],
+          [
+            -122.444064170825,
+            37.754170736688
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Gardenside Dr  -  Dixie Aly",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.441034041781,
+            37.759009549074
+          ],
+          [
+            -122.442175282343,
+            37.758939437583
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "19th St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Clover Ln  -  Yukon St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.444218906597,
+            37.755583860004
+          ],
+          [
+            -122.444208974775,
+            37.755163071295
+          ],
+          [
+            -122.444185905744,
+            37.755015403991
+          ],
+          [
+            -122.444002431531,
+            37.754609121147
+          ],
+          [
+            -122.44396553749,
+            37.754457327523
+          ],
+          [
+            -122.444001718414,
+            37.754267316107
+          ],
+          [
+            -122.444064170825,
+            37.754170736688
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burnett Ave",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Gardenside Dr  -  Dixie Aly",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.442243502463,
+            37.756754583378
+          ],
+          [
+            -122.441933121683,
+            37.756631994268
+          ],
+          [
+            -122.441561149274,
+            37.756601305152
+          ],
+          [
+            -122.441193472634,
+            37.756443235628
+          ],
+          [
+            -122.440998757821,
+            37.756218485263
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Market St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Grand View Ave  -  Romain St",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44079780544,
+            37.759024874056
+          ],
+          [
+            -122.441034041781,
+            37.759009549074
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "19th St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Seward St  -  Clover Ln",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Twin Peaks",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    }
+  ]
+}

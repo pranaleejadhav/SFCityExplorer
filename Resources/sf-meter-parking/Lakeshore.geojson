@@ -1,0 +1,1188 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480570001,
+          37.721793798
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.478133298,
+          37.720933999
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.478606999,
+          37.720949902
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.475807398,
+          37.720732
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.476610798,
+          37.720882702
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.481916699,
+          37.721963202
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.476462098,
+          37.7208777
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.481341298,
+          37.721953898
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.481081001,
+          37.721945203
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480578998,
+          37.721612402
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.476537898,
+          37.720880198
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.477532841,
+          37.720913737
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4814758,
+          37.721958301
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480580602,
+          37.721580897
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480576701,
+          37.721658402
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480224399,
+          37.721004301
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480287403,
+          37.721006402
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.478334302,
+          37.720940699
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480409002,
+          37.721010498
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.478405202,
+          37.720943102
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480577601,
+          37.721640303
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.478467999,
+          37.720945203
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.478033202,
+          37.720930601
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.477283798,
+          37.7209054
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480430599,
+          37.721011302
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.477898901,
+          37.720926097
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.481847901,
+          37.7219706
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480452599,
+          37.721012001
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.481975797,
+          37.721945499
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480597002,
+          37.7212506
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.479941303,
+          37.720994801
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.478268599,
+          37.720938503
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.479426799,
+          37.720977501
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480808399,
+          37.721936201
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.475680798,
+          37.720758297
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480365399,
+          37.721009101
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.479556159,
+          37.720981839
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4805295,
+          37.721014599
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480473598,
+          37.721012699
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480576299,
+          37.721667499
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480578098,
+          37.721630898
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.475614598,
+          37.720776
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.476753497,
+          37.720887502
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480586598,
+          37.721459002
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480577098,
+          37.721650098
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.476022903,
+          37.720646399
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4760234,
+          37.720599002
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480496101,
+          37.721013498
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480398401,
+          37.721010201
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480945002,
+          37.721940699
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.476389801,
+          37.720875297
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.478676401,
+          37.720952199
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.478534702,
+          37.720947499
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4804624,
+          37.721012302
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.477350099,
+          37.720907601
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.476824799,
+          37.720889899
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480572801,
+          37.721736801
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4787491,
+          37.720954702
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4801537,
+          37.721001998
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480583401,
+          37.721523699
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.481015298,
+          37.721943102
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.478814359,
+          37.720956871
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480387103,
+          37.721009799
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.475747199,
+          37.7207425
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.475874498,
+          37.720722602
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.479494402,
+          37.720979798
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.479833066,
+          37.720991159
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480876002,
+          37.721938402
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.479633461,
+          37.720984441
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.477419702,
+          37.720909898
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480593599,
+          37.721318801
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.475932803,
+          37.720716002
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.476889698,
+          37.7208921
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.477966001,
+          37.720928299
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.479349898,
+          37.720974902
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480484702,
+          37.721013102
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480738399,
+          37.721933898
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.479698173,
+          37.720986619
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4782027,
+          37.720936301
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.476677702,
+          37.720884998
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480419798,
+          37.7210109
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4805785,
+          37.721622002
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480015103,
+          37.720997299
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480442401,
+          37.721011699
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4805171,
+          37.721014202
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480507198,
+          37.7210138
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.481407102,
+          37.721955999
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4800847,
+          37.720999601
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.479756391,
+          37.720988578
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480579601,
+          37.721601299
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.477480599,
+          37.720911999
+        ]
+      },
+      "properties": {
+        "nhood": "Lakeshore"
+      }
+    }
+  ]
+}

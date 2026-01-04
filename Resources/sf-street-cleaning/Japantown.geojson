@@ -1,0 +1,4220 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428335612874,
+            37.786712655892
+          ],
+          [
+            -122.429978934001,
+            37.78650385883
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Sutter St",
+        "weekday": "Tues",
+        "fullname": "Tue 1st & 3rd",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Laguna St  -  Buchanan St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439684678466,
+            37.784318673891
+          ],
+          [
+            -122.439747702937,
+            37.784394058965
+          ],
+          [
+            -122.439903661925,
+            37.785165663357
+          ],
+          [
+            -122.439872612567,
+            37.785247526751
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Divisadero St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Post St  -  Sutter St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.431366396624,
+            37.785372647445
+          ],
+          [
+            -122.4314667439,
+            37.785455538359
+          ],
+          [
+            -122.431622969982,
+            37.786232638475
+          ],
+          [
+            -122.431552024724,
+            37.786303962568
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Webster St",
+        "weekday": "Mon",
+        "fullname": "Mon 1st & 3rd",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "Post St  -  Sutter St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.43472999171,
+            37.784944006552
+          ],
+          [
+            -122.43636835882,
+            37.784736066744
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Steiner St  -  Pierce St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439684678466,
+            37.784318673891
+          ],
+          [
+            -122.439747702937,
+            37.784394058965
+          ],
+          [
+            -122.439903661925,
+            37.785165663357
+          ],
+          [
+            -122.439872612567,
+            37.785247526751
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Divisadero St",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Post St  -  Sutter St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.43472999171,
+            37.784944006552
+          ],
+          [
+            -122.43636835882,
+            37.784736066744
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Steiner St  -  Pierce St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.43948038104,
+            37.783308488002
+          ],
+          [
+            -122.439450452905,
+            37.783398293238
+          ],
+          [
+            -122.439619935426,
+            37.784243280842
+          ],
+          [
+            -122.439684678466,
+            37.784318673891
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Divisadero St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Geary Blvd  -  Post St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.431366396624,
+            37.785372647445
+          ],
+          [
+            -122.431300412264,
+            37.7854766
+          ],
+          [
+            -122.431456651412,
+            37.786253773929
+          ],
+          [
+            -122.431552024724,
+            37.786303962568
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Webster St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Post St  -  Sutter St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433905015014,
+            37.78504768772
+          ],
+          [
+            -122.43472999171,
+            37.784944006552
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Avery St  -  Steiner St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433083398237,
+            37.785150940561
+          ],
+          [
+            -122.433905015014,
+            37.78504768772
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Fillmore St  -  Avery St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433905015014,
+            37.78504768772
+          ],
+          [
+            -122.43472999171,
+            37.784944006552
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Fri",
+        "fullname": "Fri 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Avery St  -  Steiner St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.440151135538,
+            37.784259208325
+          ],
+          [
+            -122.441348538798,
+            37.784106550315
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Erkson Ct  -  Broderick St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.426666807122,
+            37.786924666209
+          ],
+          [
+            -122.428335612874,
+            37.786712655892
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Sutter St",
+        "weekday": "Tues",
+        "fullname": "Tue 1st & 3rd",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Octavia St  -  Laguna St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433905015014,
+            37.78504768772
+          ],
+          [
+            -122.43472999171,
+            37.784944006552
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Avery St  -  Steiner St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428148186725,
+            37.785784488429
+          ],
+          [
+            -122.428241496526,
+            37.786246577114
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Laguna St",
+        "weekday": "Fri",
+        "fullname": "Fri 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Post St  -  Hemlock St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433775445241,
+            37.784412505765
+          ],
+          [
+            -122.433905015014,
+            37.78504768772
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Avery St",
+        "weekday": "Fri",
+        "fullname": "Fri 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Geary Blvd  -  Post St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.424858422523,
+            37.786196427833
+          ],
+          [
+            -122.428148186725,
+            37.785784488429
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Gough St  -  Laguna St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.431366396624,
+            37.785372647445
+          ],
+          [
+            -122.433083398237,
+            37.785150940561
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Webster St  -  Fillmore St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.429782592291,
+            37.785563847691
+          ],
+          [
+            -122.431366396624,
+            37.785372647445
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Buchanan St  -  Webster St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439684678466,
+            37.784318673891
+          ],
+          [
+            -122.440151135538,
+            37.784259208325
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Divisadero St  -  Erkson Ct",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428148186725,
+            37.785784488429
+          ],
+          [
+            -122.428241496526,
+            37.786246577114
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Laguna St",
+        "weekday": "Fri",
+        "fullname": "Fri 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Post St  -  Hemlock St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428148186725,
+            37.785784488429
+          ],
+          [
+            -122.428241496526,
+            37.786246577114
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Laguna St",
+        "weekday": "Mon",
+        "fullname": "Mon 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Post St  -  Hemlock St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428148186725,
+            37.785784488429
+          ],
+          [
+            -122.429782592291,
+            37.785563847691
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Laguna St  -  Buchanan St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433083398237,
+            37.785150940561
+          ],
+          [
+            -122.433905015014,
+            37.78504768772
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Fillmore St  -  Avery St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428148186725,
+            37.785784488429
+          ],
+          [
+            -122.429782592291,
+            37.785563847691
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Tues",
+        "fullname": "Tue 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Laguna St  -  Buchanan St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.431366396624,
+            37.785372647445
+          ],
+          [
+            -122.433083398237,
+            37.785150940561
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Webster St  -  Fillmore St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428241496526,
+            37.786246577114
+          ],
+          [
+            -122.428335612874,
+            37.786712655892
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Laguna St",
+        "weekday": "Fri",
+        "fullname": "Fri 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Hemlock St  -  Sutter St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428148186725,
+            37.785784488429
+          ],
+          [
+            -122.429782592291,
+            37.785563847691
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Laguna St  -  Buchanan St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433775445241,
+            37.784412505765
+          ],
+          [
+            -122.433905015014,
+            37.78504768772
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Avery St",
+        "weekday": "Fri",
+        "fullname": "Fri 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Geary Blvd  -  Post St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.429782592291,
+            37.785563847691
+          ],
+          [
+            -122.431366396624,
+            37.785372647445
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Buchanan St  -  Webster St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.424858422523,
+            37.786196427833
+          ],
+          [
+            -122.428148186725,
+            37.785784488429
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Gough St  -  Laguna St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4312049461,
+            37.784568241392
+          ],
+          [
+            -122.431166704435,
+            37.784817717293
+          ],
+          [
+            -122.431261372697,
+            37.785279133346
+          ],
+          [
+            -122.431366396624,
+            37.785372647445
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Webster St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Geary Blvd  -  Post St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.429782592291,
+            37.785563847691
+          ],
+          [
+            -122.431366396624,
+            37.785372647445
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Tues",
+        "fullname": "Tue 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Buchanan St  -  Webster St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.429782592291,
+            37.785563847691
+          ],
+          [
+            -122.431366396624,
+            37.785372647445
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Mon",
+        "fullname": "Mon 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Buchanan St  -  Webster St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428148186725,
+            37.785784488429
+          ],
+          [
+            -122.429782592291,
+            37.785563847691
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Fri",
+        "fullname": "Fri 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Laguna St  -  Buchanan St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433083398237,
+            37.785150940561
+          ],
+          [
+            -122.433905015014,
+            37.78504768772
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Fri",
+        "fullname": "Fri 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Fillmore St  -  Avery St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428241496526,
+            37.786246577114
+          ],
+          [
+            -122.428335612874,
+            37.786712655892
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Laguna St",
+        "weekday": "Mon",
+        "fullname": "Mon 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Hemlock St  -  Sutter St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433083398237,
+            37.785150940561
+          ],
+          [
+            -122.433905015014,
+            37.78504768772
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Fillmore St  -  Avery St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428148186725,
+            37.785784488429
+          ],
+          [
+            -122.429782592291,
+            37.785563847691
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Laguna St  -  Buchanan St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.438019672055,
+            37.784530918539
+          ],
+          [
+            -122.439684678466,
+            37.784318673891
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Scott St  -  Divisadero St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433905015014,
+            37.78504768772
+          ],
+          [
+            -122.43472999171,
+            37.784944006552
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Avery St  -  Steiner St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.440151135538,
+            37.784259208325
+          ],
+          [
+            -122.441348538798,
+            37.784106550315
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Erkson Ct  -  Broderick St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433083398237,
+            37.785150940561
+          ],
+          [
+            -122.433905015014,
+            37.78504768772
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Fillmore St  -  Avery St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433905015014,
+            37.78504768772
+          ],
+          [
+            -122.43472999171,
+            37.784944006552
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Avery St  -  Steiner St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.431366396624,
+            37.785372647445
+          ],
+          [
+            -122.433083398237,
+            37.785150940561
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Webster St  -  Fillmore St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439638735532,
+            37.783846585463
+          ],
+          [
+            -122.439712711239,
+            37.784230676109
+          ],
+          [
+            -122.439684678466,
+            37.784318673891
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Divisadero St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Garden St  -  Post St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.441255226835,
+            37.78364169428
+          ],
+          [
+            -122.441348538798,
+            37.784106550315
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Broderick St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Garden St  -  Post St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.43636835882,
+            37.784736066744
+          ],
+          [
+            -122.438019672055,
+            37.784530918539
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Pierce St  -  Scott St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428148186725,
+            37.785784488429
+          ],
+          [
+            -122.429782592291,
+            37.785563847691
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Sun",
+        "fullname": "Sunday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Laguna St  -  Buchanan St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428148186725,
+            37.785784488429
+          ],
+          [
+            -122.429782592291,
+            37.785563847691
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Laguna St  -  Buchanan St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.429782592291,
+            37.785563847691
+          ],
+          [
+            -122.431366396624,
+            37.785372647445
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Buchanan St  -  Webster St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.441537172966,
+            37.785035899193
+          ],
+          [
+            -122.443182552712,
+            37.784826685341
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Sutter St",
+        "weekday": "Tues",
+        "fullname": "Tue 1st & 3rd",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Broderick St  -  Baker St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439684678466,
+            37.784318673891
+          ],
+          [
+            -122.439654946645,
+            37.784407401773
+          ],
+          [
+            -122.439810444483,
+            37.785176041731
+          ],
+          [
+            -122.439872612567,
+            37.785247526751
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Divisadero St",
+        "weekday": "Sun",
+        "fullname": "Sunday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Post St  -  Sutter St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433083398237,
+            37.785150940561
+          ],
+          [
+            -122.433905015014,
+            37.78504768772
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Fillmore St  -  Avery St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439684678466,
+            37.784318673891
+          ],
+          [
+            -122.439747702937,
+            37.784394058965
+          ],
+          [
+            -122.439903661925,
+            37.785165663357
+          ],
+          [
+            -122.439872612567,
+            37.785247526751
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Divisadero St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Post St  -  Sutter St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428241496526,
+            37.786246577114
+          ],
+          [
+            -122.428828786873,
+            37.786171960134
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Hemlock St",
+        "weekday": "Mon",
+        "fullname": "Mon 1st & 3rd",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "Laguna St  -  End: 600-699 Block",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.43472999171,
+            37.784944006552
+          ],
+          [
+            -122.43636835882,
+            37.784736066744
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Steiner St  -  Pierce St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.429782592291,
+            37.785563847691
+          ],
+          [
+            -122.431366396624,
+            37.785372647445
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Buchanan St  -  Webster St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.424858422523,
+            37.786196427833
+          ],
+          [
+            -122.428148186725,
+            37.785784488429
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Gough St  -  Laguna St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4312049461,
+            37.784568241392
+          ],
+          [
+            -122.431327810222,
+            37.784798350014
+          ],
+          [
+            -122.431436438897,
+            37.785267568634
+          ],
+          [
+            -122.431366396624,
+            37.785372647445
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Webster St",
+        "weekday": "Mon",
+        "fullname": "Mon 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Geary Blvd  -  Post St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.440151135538,
+            37.784259208325
+          ],
+          [
+            -122.441348538798,
+            37.784106550315
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Erkson Ct  -  Broderick St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4312049461,
+            37.784568241392
+          ],
+          [
+            -122.431327810222,
+            37.784798350014
+          ],
+          [
+            -122.431436438897,
+            37.785267568634
+          ],
+          [
+            -122.431366396624,
+            37.785372647445
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Webster St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Geary Blvd  -  Post St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439684678466,
+            37.784318673891
+          ],
+          [
+            -122.439654946645,
+            37.784407401773
+          ],
+          [
+            -122.439810444483,
+            37.785176041731
+          ],
+          [
+            -122.439872612567,
+            37.785247526751
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Divisadero St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Post St  -  Sutter St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4312049461,
+            37.784568241392
+          ],
+          [
+            -122.431327810222,
+            37.784798350014
+          ],
+          [
+            -122.431436438897,
+            37.785267568634
+          ],
+          [
+            -122.431366396624,
+            37.785372647445
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Webster St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Geary Blvd  -  Post St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439684678466,
+            37.784318673891
+          ],
+          [
+            -122.440151135538,
+            37.784259208325
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Divisadero St  -  Erkson Ct",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433083398237,
+            37.785150940561
+          ],
+          [
+            -122.433905015014,
+            37.78504768772
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Sun",
+        "fullname": "Sunday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Fillmore St  -  Avery St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.440151135538,
+            37.784259208325
+          ],
+          [
+            -122.441348538798,
+            37.784106550315
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Erkson Ct  -  Broderick St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439872612567,
+            37.785247526751
+          ],
+          [
+            -122.441537172966,
+            37.785035899193
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Sutter St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Divisadero St  -  Broderick St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.429782592291,
+            37.785563847691
+          ],
+          [
+            -122.431366396624,
+            37.785372647445
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Tues",
+        "fullname": "Tue 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Buchanan St  -  Webster St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439684678466,
+            37.784318673891
+          ],
+          [
+            -122.439747702937,
+            37.784394058965
+          ],
+          [
+            -122.439903661925,
+            37.785165663357
+          ],
+          [
+            -122.439872612567,
+            37.785247526751
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Divisadero St",
+        "weekday": "Sat",
+        "fullname": "Saturday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Post St  -  Sutter St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428148186725,
+            37.785784488429
+          ],
+          [
+            -122.428241496526,
+            37.786246577114
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Laguna St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Post St  -  Hemlock St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.429782592291,
+            37.785563847691
+          ],
+          [
+            -122.431366396624,
+            37.785372647445
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Fri",
+        "fullname": "Fri 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Buchanan St  -  Webster St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.429782592291,
+            37.785563847691
+          ],
+          [
+            -122.431366396624,
+            37.785372647445
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Sun",
+        "fullname": "Sunday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Buchanan St  -  Webster St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439638735532,
+            37.783846585463
+          ],
+          [
+            -122.439712711239,
+            37.784230676109
+          ],
+          [
+            -122.439684678466,
+            37.784318673891
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Divisadero St",
+        "weekday": "Sat",
+        "fullname": "Saturday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Garden St  -  Post St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433905015014,
+            37.78504768772
+          ],
+          [
+            -122.43472999171,
+            37.784944006552
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Tues",
+        "fullname": "Tue 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Avery St  -  Steiner St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439872612567,
+            37.785247526751
+          ],
+          [
+            -122.441537172966,
+            37.785035899193
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Sutter St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Divisadero St  -  Broderick St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.43948038104,
+            37.783308488002
+          ],
+          [
+            -122.439544517087,
+            37.783382626383
+          ],
+          [
+            -122.439638735532,
+            37.783846585463
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Divisadero St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Geary Blvd  -  Garden St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.426666807122,
+            37.786924666209
+          ],
+          [
+            -122.428335612874,
+            37.786712655892
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Sutter St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "7",
+        "tohour": "9",
+        "limits": "Octavia St  -  Laguna St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 9 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433905015014,
+            37.78504768772
+          ],
+          [
+            -122.43472999171,
+            37.784944006552
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Fri",
+        "fullname": "Fri 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Avery St  -  Steiner St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433775445241,
+            37.784412505765
+          ],
+          [
+            -122.433905015014,
+            37.78504768772
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Avery St",
+        "weekday": "Fri",
+        "fullname": "Fri 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Geary Blvd  -  Post St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.43636835882,
+            37.784736066744
+          ],
+          [
+            -122.438019672055,
+            37.784530918539
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Pierce St  -  Scott St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.43948038104,
+            37.783308488002
+          ],
+          [
+            -122.439450452905,
+            37.783398293238
+          ],
+          [
+            -122.439619935426,
+            37.784243280842
+          ],
+          [
+            -122.439684678466,
+            37.784318673891
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Divisadero St",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Geary Blvd  -  Post St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.43636835882,
+            37.784736066744
+          ],
+          [
+            -122.438019672055,
+            37.784530918539
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Pierce St  -  Scott St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.438019672055,
+            37.784530918539
+          ],
+          [
+            -122.439684678466,
+            37.784318673891
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Scott St  -  Divisadero St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.429782592291,
+            37.785563847691
+          ],
+          [
+            -122.431366396624,
+            37.785372647445
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Buchanan St  -  Webster St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433083398237,
+            37.785150940561
+          ],
+          [
+            -122.433905015014,
+            37.78504768772
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Mon",
+        "fullname": "Mon 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Fillmore St  -  Avery St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433905015014,
+            37.78504768772
+          ],
+          [
+            -122.43472999171,
+            37.784944006552
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Avery St  -  Steiner St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.43472999171,
+            37.784944006552
+          ],
+          [
+            -122.43636835882,
+            37.784736066744
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Steiner St  -  Pierce St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439638735532,
+            37.783846585463
+          ],
+          [
+            -122.439712711239,
+            37.784230676109
+          ],
+          [
+            -122.439684678466,
+            37.784318673891
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Divisadero St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Garden St  -  Post St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.429978934001,
+            37.78650385883
+          ],
+          [
+            -122.431552024724,
+            37.786303962568
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Sutter St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "7",
+        "tohour": "9",
+        "limits": "Buchanan St  -  Webster St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 9 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.431366396624,
+            37.785372647445
+          ],
+          [
+            -122.433083398237,
+            37.785150940561
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Webster St  -  Fillmore St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.43636835882,
+            37.784736066744
+          ],
+          [
+            -122.438019672055,
+            37.784530918539
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Pierce St  -  Scott St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.431366396624,
+            37.785372647445
+          ],
+          [
+            -122.433083398237,
+            37.785150940561
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Fri",
+        "fullname": "Fri 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Webster St  -  Fillmore St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.431366396624,
+            37.785372647445
+          ],
+          [
+            -122.433083398237,
+            37.785150940561
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Sun",
+        "fullname": "Sunday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Webster St  -  Fillmore St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439684678466,
+            37.784318673891
+          ],
+          [
+            -122.440151135538,
+            37.784259208325
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Divisadero St  -  Erkson Ct",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428148186725,
+            37.785784488429
+          ],
+          [
+            -122.429782592291,
+            37.785563847691
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Laguna St  -  Buchanan St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433905015014,
+            37.78504768772
+          ],
+          [
+            -122.43472999171,
+            37.784944006552
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Mon",
+        "fullname": "Mon 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Avery St  -  Steiner St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.43948038104,
+            37.783308488002
+          ],
+          [
+            -122.439544517087,
+            37.783382626383
+          ],
+          [
+            -122.439638735532,
+            37.783846585463
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Divisadero St",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Geary Blvd  -  Garden St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.429978934001,
+            37.78650385883
+          ],
+          [
+            -122.431552024724,
+            37.786303962568
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Sutter St",
+        "weekday": "Tues",
+        "fullname": "Tue 1st & 3rd",
+        "fromhour": "8",
+        "tohour": "10",
+        "limits": "Buchanan St  -  Webster St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "8 AM - 10 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.43948038104,
+            37.783308488002
+          ],
+          [
+            -122.439450452905,
+            37.783398293238
+          ],
+          [
+            -122.439619935426,
+            37.784243280842
+          ],
+          [
+            -122.439684678466,
+            37.784318673891
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Divisadero St",
+        "weekday": "Sun",
+        "fullname": "Sunday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Geary Blvd  -  Post St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.43948038104,
+            37.783308488002
+          ],
+          [
+            -122.439544517087,
+            37.783382626383
+          ],
+          [
+            -122.439638735532,
+            37.783846585463
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Divisadero St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Geary Blvd  -  Garden St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.431366396624,
+            37.785372647445
+          ],
+          [
+            -122.433083398237,
+            37.785150940561
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Tues",
+        "fullname": "Tue 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Webster St  -  Fillmore St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433905015014,
+            37.78504768772
+          ],
+          [
+            -122.43472999171,
+            37.784944006552
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Avery St  -  Steiner St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433775445241,
+            37.784412505765
+          ],
+          [
+            -122.433905015014,
+            37.78504768772
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Avery St",
+        "weekday": "Fri",
+        "fullname": "Fri 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Geary Blvd  -  Post St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439872612567,
+            37.785247526751
+          ],
+          [
+            -122.441537172966,
+            37.785035899193
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Sutter St",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Divisadero St  -  Broderick St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.441348538798,
+            37.784106550315
+          ],
+          [
+            -122.441537172966,
+            37.785035899193
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Broderick St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Post St  -  Sutter St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439684678466,
+            37.784318673891
+          ],
+          [
+            -122.439654946645,
+            37.784407401773
+          ],
+          [
+            -122.439810444483,
+            37.785176041731
+          ],
+          [
+            -122.439872612567,
+            37.785247526751
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Divisadero St",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Post St  -  Sutter St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.431366396624,
+            37.785372647445
+          ],
+          [
+            -122.431300412264,
+            37.7854766
+          ],
+          [
+            -122.431456651412,
+            37.786253773929
+          ],
+          [
+            -122.431552024724,
+            37.786303962568
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Webster St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Post St  -  Sutter St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428148186725,
+            37.785784488429
+          ],
+          [
+            -122.428241496526,
+            37.786246577114
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Laguna St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Post St  -  Hemlock St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433083398237,
+            37.785150940561
+          ],
+          [
+            -122.433905015014,
+            37.78504768772
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Fri",
+        "fullname": "Fri 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Fillmore St  -  Avery St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.441537172966,
+            37.785035899193
+          ],
+          [
+            -122.443182552712,
+            37.784826685341
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Sutter St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Broderick St  -  Baker St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428241496526,
+            37.786246577114
+          ],
+          [
+            -122.428335612874,
+            37.786712655892
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Laguna St",
+        "weekday": "Fri",
+        "fullname": "Fri 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Hemlock St  -  Sutter St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.424858422523,
+            37.786196427833
+          ],
+          [
+            -122.428148186725,
+            37.785784488429
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Gough St  -  Laguna St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428148186725,
+            37.785784488429
+          ],
+          [
+            -122.429782592291,
+            37.785563847691
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Mon",
+        "fullname": "Mon 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Laguna St  -  Buchanan St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.431366396624,
+            37.785372647445
+          ],
+          [
+            -122.433083398237,
+            37.785150940561
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Mon",
+        "fullname": "Mon 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Webster St  -  Fillmore St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4312049461,
+            37.784568241392
+          ],
+          [
+            -122.431327810222,
+            37.784798350014
+          ],
+          [
+            -122.431436438897,
+            37.785267568634
+          ],
+          [
+            -122.431366396624,
+            37.785372647445
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Webster St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Geary Blvd  -  Post St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428241496526,
+            37.786246577114
+          ],
+          [
+            -122.428828786873,
+            37.786171960134
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Hemlock St",
+        "weekday": "Mon",
+        "fullname": "Mon 1st & 3rd",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "Laguna St  -  End: 600-699 Block",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.43948038104,
+            37.783308488002
+          ],
+          [
+            -122.439544517087,
+            37.783382626383
+          ],
+          [
+            -122.439638735532,
+            37.783846585463
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Divisadero St",
+        "weekday": "Sat",
+        "fullname": "Saturday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Geary Blvd  -  Garden St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428148186725,
+            37.785784488429
+          ],
+          [
+            -122.429782592291,
+            37.785563847691
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Laguna St  -  Buchanan St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.441348538798,
+            37.784106550315
+          ],
+          [
+            -122.441537172966,
+            37.785035899193
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Broderick St",
+        "weekday": "Mon",
+        "fullname": "Mon 1st & 3rd",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Post St  -  Sutter St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439684678466,
+            37.784318673891
+          ],
+          [
+            -122.440151135538,
+            37.784259208325
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Divisadero St  -  Erkson Ct",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.431366396624,
+            37.785372647445
+          ],
+          [
+            -122.433083398237,
+            37.785150940561
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Webster St  -  Fillmore St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428241496526,
+            37.786246577114
+          ],
+          [
+            -122.428335612874,
+            37.786712655892
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Laguna St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Hemlock St  -  Sutter St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.439638735532,
+            37.783846585463
+          ],
+          [
+            -122.439712711239,
+            37.784230676109
+          ],
+          [
+            -122.439684678466,
+            37.784318673891
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Divisadero St",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Garden St  -  Post St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.431366396624,
+            37.785372647445
+          ],
+          [
+            -122.433083398237,
+            37.785150940561
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Thu",
+        "fullname": "Thu 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Webster St  -  Fillmore St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433083398237,
+            37.785150940561
+          ],
+          [
+            -122.433905015014,
+            37.78504768772
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Fillmore St  -  Avery St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.43636835882,
+            37.784736066744
+          ],
+          [
+            -122.436557296865,
+            37.785667784153
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Pierce St",
+        "weekday": "Mon",
+        "fullname": "Mon 1st & 3rd",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Post St  -  Sutter St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.438019672055,
+            37.784530918539
+          ],
+          [
+            -122.439684678466,
+            37.784318673891
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Thu",
+        "fullname": "Thu 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Scott St  -  Divisadero St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433083398237,
+            37.785150940561
+          ],
+          [
+            -122.433905015014,
+            37.78504768772
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Tues",
+        "fullname": "Tue 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Fillmore St  -  Avery St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.429782592291,
+            37.785563847691
+          ],
+          [
+            -122.431366396624,
+            37.785372647445
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Fri",
+        "fullname": "Fri 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Buchanan St  -  Webster St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4312049461,
+            37.784568241392
+          ],
+          [
+            -122.431166704435,
+            37.784817717293
+          ],
+          [
+            -122.431261372697,
+            37.785279133346
+          ],
+          [
+            -122.431366396624,
+            37.785372647445
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Webster St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Geary Blvd  -  Post St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.433905015014,
+            37.78504768772
+          ],
+          [
+            -122.43472999171,
+            37.784944006552
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Sun",
+        "fullname": "Sunday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Avery St  -  Steiner St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428241496526,
+            37.786246577114
+          ],
+          [
+            -122.428335612874,
+            37.786712655892
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Laguna St",
+        "weekday": "Mon",
+        "fullname": "Mon 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Hemlock St  -  Sutter St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428148186725,
+            37.785784488429
+          ],
+          [
+            -122.429782592291,
+            37.785563847691
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Fri",
+        "fullname": "Fri 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Laguna St  -  Buchanan St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.431366396624,
+            37.785372647445
+          ],
+          [
+            -122.433083398237,
+            37.785150940561
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Fri",
+        "fullname": "Fri 1st & 3rd",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Webster St  -  Fillmore St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.441255226835,
+            37.78364169428
+          ],
+          [
+            -122.441348538798,
+            37.784106550315
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Broderick St",
+        "weekday": "Mon",
+        "fullname": "Mon 1st & 3rd",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Garden St  -  Post St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.428335612874,
+            37.786712655892
+          ],
+          [
+            -122.429978934001,
+            37.78650385883
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Sutter St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "7",
+        "tohour": "9",
+        "limits": "Laguna St  -  Buchanan St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 9 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.438019672055,
+            37.784530918539
+          ],
+          [
+            -122.439684678466,
+            37.784318673891
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Post St",
+        "weekday": "Wed",
+        "fullname": "Wed 2nd & 4th",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Scott St  -  Divisadero St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.43636835882,
+            37.784736066744
+          ],
+          [
+            -122.436557296865,
+            37.785667784153
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Pierce St",
+        "weekday": "Wed",
+        "fullname": "Wed 1st & 3rd",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Post St  -  Sutter St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "Japantown",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    }
+  ]
+}

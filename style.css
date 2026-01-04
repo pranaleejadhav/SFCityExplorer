@@ -1,0 +1,236 @@
+body {
+ margin: 0;
+ padding: 0;
+ font-family: Arial, sans-serif;
+}
+
+#map {
+ height: 100vh;
+ width: 100%;
+}
+
+#controls {
+ position: absolute;
+ top: 10px;
+ right: 10px;
+ background: white;
+ padding: 15px;
+ border-radius: 5px;
+ box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+ z-index: 1000;
+ max-width: 200px;
+}
+
+#controls h3 {
+ margin: 0 0 10px 0;
+ font-size: 16px;
+}
+
+#controls label {
+ display: block;
+ margin: 8px 0;
+ cursor: pointer;
+ font-size: 14px;
+}
+
+#controls input[type="checkbox"] {
+ margin-right: 8px;
+ cursor: pointer;
+}
+
+#search-panel {
+ position: absolute;
+ top: 10px;
+ left: 10px;
+ background: white;
+ padding: 15px;
+ border-radius: 5px;
+ box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+ z-index: 1000;
+ width: 300px;
+}
+
+.search-section  h3 {
+ margin: 0 0 15px 0;
+ font-size: 16px;
+ border-bottom: 2px solid #2196F3;
+ padding-bottom: 8px;
+}
+
+.search-section h4 {
+ margin: 0 0 8px 0;
+ font-size: 14px;
+ color: #555;
+}
+
+.search-section input[type="text"] {
+ width: 100%;
+ padding: 8px;
+ margin: 5px 0;
+ border: 1px solid #ccc;
+ border-radius: 4px;
+ font-size: 13px;
+ box-sizing: border-box;
+}
+
+.search-section button {
+ width: 100%;
+ padding: 10px;
+ margin-top: 10px;
+ margin-bottom: 10px;
+ background-color: #2196F3;
+ color: white;
+ border: none;
+ border-radius: 4px;
+ cursor: pointer;
+ font-size: 14px;
+ font-weight: bold;
+}
+
+#search-panel button:hover {
+ background-color: #1976D2;
+}
+
+#toggleBtn {
+ width: 100%;
+ padding: 10px;
+ margin-top: 10px;
+ margin-bottom: 10px;
+ background-color: #2196F3;
+ color: white;
+ border: none;
+ border-radius: 4px;
+ cursor: pointer;
+ font-size: 14px;
+ font-weight: bold;
+}
+
+#toggleBtn:hover {
+ background-color: #1976D2;
+}
+
+.search-section {
+ border-bottom: 1px solid #ccc;
+ margin: 4px 0 0;
+}
+
+.search-section:last-child {
+ border-bottom: none;
+}
+
+#suggestions:not(:empty) {
+border: 1px solid #ccc;
+}
+
+#suggestions {
+ list-style: none;
+ padding: 0;
+ margin: 4px 0 0;
+ max-height: 200px;
+ overflow-y: auto;
+ position: absolute;
+ background: white;
+ width: 100%;
+}
+
+#suggestions li {
+ padding: 8px;
+ cursor: pointer;
+}
+
+#suggestions li:hover {
+ background: #f0f0f0;
+}
+
+#results {
+ margin-top: 10px;
+ padding: 10px;
+ background-color: #f9f9f9;
+ /* light background for readability */
+ border: 1px solid #ccc;
+ /* subtle border */
+ border-radius: 6px;
+ /* rounded corners */
+ max-height: 200px;
+ /* prevent panel from growing too large */
+ overflow-y: auto;
+ /* scroll if content exceeds max-height */
+ font-family: Arial, sans-serif;
+ font-size: 14px;
+ color: #333;
+ box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Placeholder text style */
+#results:empty::before {
+ content: "Click on any highlighted item to see info here";
+ display: block;
+ color: #888;
+ font-style: italic;
+}
+
+.main-checkbox {
+ display: block;
+ font-weight: bold;
+ margin-bottom: 0.5em;
+}
+
+.sub-labels {
+ margin-left: 20px;
+ margin-top: 0;
+ margin-bottom: 0;
+ display: flex;
+ flex-direction: column;
+ gap: 0.3em;
+ font-size: 0.95em;
+}
+
+#controls label.meter-parking-label {
+ margin-top: 0;
+ margin-bottom: 0;
+}
+
+.show-street-cleaning {
+ font-style: italic;
+ color: #333;
+}
+
+.attribution {
+ text-align: center;
+ font-size: 0.9em;          /* slightly smaller text */
+ color: #555;               /* subtle gray */
+ margin-top: 10px;          /* spacing from map */
+}
+
+.attribution a {
+ color: #0077cc;            /* blue links */
+ text-decoration: none;
+}
+
+.attribution a:hover {
+ text-decoration: underline;
+}
+
+.leaflet-control-attribution {
+ background: transparent !important;
+ color: #555;               /* optional: gray text */
+ font-size: 0.85em;
+}
+.leaflet-popup.custom-popup .leaflet-popup-content-wrapper {
+   background: rgba(255,255,255,0.9); /* white transparent */
+   color: #222;
+   border-radius: 4px;
+   box-shadow: none; /* remove default shadow */
+}
+
+.leaflet-popup-tip {
+   background: rgba(255,255,255,0.9); /* removes default blue tip */
+}
+
+.modal {
+ display: none;
+}
+
+.modal.show {
+ display: block;
+}

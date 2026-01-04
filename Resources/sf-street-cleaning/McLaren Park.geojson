@@ -1,0 +1,2659 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.407976926952,
+            37.719736001668
+          ],
+          [
+            -122.407763850414,
+            37.719193842398
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Bowdoin St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Mansell St  -  End: 1300-1399 Block",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.418512370109,
+            37.718766090648
+          ],
+          [
+            -122.418676308055,
+            37.718850267459
+          ],
+          [
+            -122.41914556634,
+            37.718943934946
+          ],
+          [
+            -122.419581267084,
+            37.718999344264
+          ],
+          [
+            -122.41982040677,
+            37.719010534567
+          ],
+          [
+            -122.420226641534,
+            37.718975891665
+          ],
+          [
+            -122.420588574539,
+            37.718907482494
+          ],
+          [
+            -122.421029616616,
+            37.71874940737
+          ],
+          [
+            -122.421367229127,
+            37.718580085132
+          ],
+          [
+            -122.422417578156,
+            37.717961213568
+          ],
+          [
+            -122.422472988304,
+            37.717887378898
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "John F Shelley Dr  -  Brazil Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.416917250136,
+            37.722824847711
+          ],
+          [
+            -122.416484417964,
+            37.721809310628
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Cambridge St",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Wayland St  -  John F Shelley Dr",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.427571650296,
+            37.716997378372
+          ],
+          [
+            -122.426847573155,
+            37.716651402144
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Russia Ave",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "14",
+        "limits": "Dublin St  -  La Grande Ave",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 2 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.418512370109,
+            37.718766090648
+          ],
+          [
+            -122.418706584711,
+            37.718761399264
+          ],
+          [
+            -122.419265987359,
+            37.71887730618
+          ],
+          [
+            -122.419510997017,
+            37.718905645755
+          ],
+          [
+            -122.419736681861,
+            37.7189213676
+          ],
+          [
+            -122.420121546382,
+            37.718900006896
+          ],
+          [
+            -122.42049726764,
+            37.718839995744
+          ],
+          [
+            -122.420868881385,
+            37.718726160708
+          ],
+          [
+            -122.421150801862,
+            37.718607323016
+          ],
+          [
+            -122.421404974623,
+            37.718465227912
+          ],
+          [
+            -122.422348577472,
+            37.71790449683
+          ],
+          [
+            -122.422472988304,
+            37.717887378898
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "John F Shelley Dr  -  Brazil Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40892105697,
+            37.719367322363
+          ],
+          [
+            -122.411596304348,
+            37.718670054396
+          ],
+          [
+            -122.411673324472,
+            37.718754100708
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Dartmouth St  -  Visitacion Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.424847773045,
+            37.722053145187
+          ],
+          [
+            -122.426022742333,
+            37.720493849407
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Prague St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "Excelsior Ave  -  Brazil Ave",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.411673324472,
+            37.718754100708
+          ],
+          [
+            -122.411669903295,
+            37.718654517913
+          ],
+          [
+            -122.413843087332,
+            37.718077851398
+          ],
+          [
+            -122.414076394896,
+            37.718037873737
+          ],
+          [
+            -122.414176323195,
+            37.718126715908
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Visitacion Ave  -  John F Shelley Dr",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.414176323195,
+            37.718126715908
+          ],
+          [
+            -122.414254433072,
+            37.718295161536
+          ],
+          [
+            -122.414380842158,
+            37.718819840202
+          ],
+          [
+            -122.414374987776,
+            37.719140459238
+          ],
+          [
+            -122.414323187099,
+            37.719430442509
+          ],
+          [
+            -122.414343467608,
+            37.719669946239
+          ],
+          [
+            -122.414425873654,
+            37.719910680064
+          ],
+          [
+            -122.414604089791,
+            37.720145373284
+          ],
+          [
+            -122.41482548354,
+            37.720303157553
+          ],
+          [
+            -122.415109178208,
+            37.720468893879
+          ],
+          [
+            -122.415302477042,
+            37.720631615975
+          ],
+          [
+            -122.415425358606,
+            37.720799965079
+          ],
+          [
+            -122.415681109852,
+            37.721414438631
+          ],
+          [
+            -122.415800710866,
+            37.721564909043
+          ],
+          [
+            -122.416027177875,
+            37.721700193953
+          ],
+          [
+            -122.416286345133,
+            37.721790117869
+          ],
+          [
+            -122.416484417964,
+            37.721809310628
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "John F Shelley Dr",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Mansell St  -  Cambridge St",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.426847573155,
+            37.716651402144
+          ],
+          [
+            -122.427189487972,
+            37.715748238628
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "La Grande Ave",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "Russia Ave  -  End: 600-699 Block",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.425830006313,
+            37.719302107277
+          ],
+          [
+            -122.426390270155,
+            37.718560725279
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Dublin St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "9",
+        "tohour": "11",
+        "limits": "End: North  -  Persia Ave",
+        "blockside": null,
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "9 AM - 11 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.422472988304,
+            37.717887378898
+          ],
+          [
+            -122.422574659738,
+            37.717868658748
+          ],
+          [
+            -122.423620918833,
+            37.71725217433
+          ],
+          [
+            -122.423781576122,
+            37.717167642587
+          ],
+          [
+            -122.424021415446,
+            37.717101216965
+          ],
+          [
+            -122.424259821937,
+            37.717084388666
+          ],
+          [
+            -122.424656181827,
+            37.717131894558
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Brazil Ave  -  Mansell St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.418512370109,
+            37.718766090648
+          ],
+          [
+            -122.418676308055,
+            37.718850267459
+          ],
+          [
+            -122.41914556634,
+            37.718943934946
+          ],
+          [
+            -122.419581267084,
+            37.718999344264
+          ],
+          [
+            -122.41982040677,
+            37.719010534567
+          ],
+          [
+            -122.420226641534,
+            37.718975891665
+          ],
+          [
+            -122.420588574539,
+            37.718907482494
+          ],
+          [
+            -122.421029616616,
+            37.71874940737
+          ],
+          [
+            -122.421367229127,
+            37.718580085132
+          ],
+          [
+            -122.422417578156,
+            37.717961213568
+          ],
+          [
+            -122.422472988304,
+            37.717887378898
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "John F Shelley Dr  -  Brazil Ave",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.411673324472,
+            37.718754100708
+          ],
+          [
+            -122.411760671682,
+            37.718847245996
+          ],
+          [
+            -122.413932663332,
+            37.718270250944
+          ],
+          [
+            -122.414149772029,
+            37.718233121722
+          ],
+          [
+            -122.414176323195,
+            37.718126715908
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Visitacion Ave  -  John F Shelley Dr",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.419875242155,
+            37.724709585068
+          ],
+          [
+            -122.420861150602,
+            37.724454214524
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burrows St",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Harvard St  -  Gambier St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.418512370109,
+            37.718766090648
+          ],
+          [
+            -122.418706584711,
+            37.718761399264
+          ],
+          [
+            -122.419265987359,
+            37.71887730618
+          ],
+          [
+            -122.419510997017,
+            37.718905645755
+          ],
+          [
+            -122.419736681861,
+            37.7189213676
+          ],
+          [
+            -122.420121546382,
+            37.718900006896
+          ],
+          [
+            -122.42049726764,
+            37.718839995744
+          ],
+          [
+            -122.420868881385,
+            37.718726160708
+          ],
+          [
+            -122.421150801862,
+            37.718607323016
+          ],
+          [
+            -122.421404974623,
+            37.718465227912
+          ],
+          [
+            -122.422348577472,
+            37.71790449683
+          ],
+          [
+            -122.422472988304,
+            37.717887378898
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "John F Shelley Dr  -  Brazil Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.426670153845,
+            37.717078041889
+          ],
+          [
+            -122.426698043746,
+            37.717046375465
+          ],
+          [
+            -122.426847573155,
+            37.716651402144
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "La Grande Ave",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "Start: 400-499 Block  -  Russia Ave",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.414176323195,
+            37.718126715908
+          ],
+          [
+            -122.414195295202,
+            37.718011407466
+          ],
+          [
+            -122.414352428498,
+            37.718000231761
+          ],
+          [
+            -122.414745982643,
+            37.718000302333
+          ],
+          [
+            -122.41512985165,
+            37.718045792993
+          ],
+          [
+            -122.418409138118,
+            37.718699425209
+          ],
+          [
+            -122.418512370109,
+            37.718766090648
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "John F Shelley Dr  -  John F Shelley Dr",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.414176323195,
+            37.718126715908
+          ],
+          [
+            -122.414257095432,
+            37.718197931655
+          ],
+          [
+            -122.414643726428,
+            37.71813991514
+          ],
+          [
+            -122.415067347427,
+            37.718148118075
+          ],
+          [
+            -122.415833650278,
+            37.718288695851
+          ],
+          [
+            -122.418362471418,
+            37.718784248118
+          ],
+          [
+            -122.418512370109,
+            37.718766090648
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "John F Shelley Dr  -  John F Shelley Dr",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.418512370109,
+            37.718766090648
+          ],
+          [
+            -122.418676308055,
+            37.718850267459
+          ],
+          [
+            -122.41914556634,
+            37.718943934946
+          ],
+          [
+            -122.419581267084,
+            37.718999344264
+          ],
+          [
+            -122.41982040677,
+            37.719010534567
+          ],
+          [
+            -122.420226641534,
+            37.718975891665
+          ],
+          [
+            -122.420588574539,
+            37.718907482494
+          ],
+          [
+            -122.421029616616,
+            37.71874940737
+          ],
+          [
+            -122.421367229127,
+            37.718580085132
+          ],
+          [
+            -122.422417578156,
+            37.717961213568
+          ],
+          [
+            -122.422472988304,
+            37.717887378898
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "John F Shelley Dr  -  Brazil Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.414176323195,
+            37.718126715908
+          ],
+          [
+            -122.414257095432,
+            37.718197931655
+          ],
+          [
+            -122.414643726428,
+            37.71813991514
+          ],
+          [
+            -122.415067347427,
+            37.718148118075
+          ],
+          [
+            -122.415833650278,
+            37.718288695851
+          ],
+          [
+            -122.418362471418,
+            37.718784248118
+          ],
+          [
+            -122.418512370109,
+            37.718766090648
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "John F Shelley Dr  -  John F Shelley Dr",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.416484417964,
+            37.721809310628
+          ],
+          [
+            -122.41668167936,
+            37.721797135579
+          ],
+          [
+            -122.417165806883,
+            37.721854258656
+          ],
+          [
+            -122.4178603899,
+            37.721972954727
+          ],
+          [
+            -122.418331624935,
+            37.722077353095
+          ],
+          [
+            -122.418552730108,
+            37.722114098293
+          ],
+          [
+            -122.41919445104,
+            37.722152956888
+          ],
+          [
+            -122.420519866346,
+            37.722216530311
+          ],
+          [
+            -122.420857753737,
+            37.722293953707
+          ],
+          [
+            -122.421109798229,
+            37.722435536815
+          ],
+          [
+            -122.421289124788,
+            37.722602959147
+          ],
+          [
+            -122.421421762324,
+            37.722820456193
+          ],
+          [
+            -122.421467285359,
+            37.723052821664
+          ],
+          [
+            -122.421504114218,
+            37.723276361504
+          ],
+          [
+            -122.421636927352,
+            37.723500579258
+          ],
+          [
+            -122.421838771284,
+            37.723665393377
+          ],
+          [
+            -122.422030355435,
+            37.723760889687
+          ],
+          [
+            -122.422208915557,
+            37.723789356598
+          ],
+          [
+            -122.422470264671,
+            37.723744745833
+          ],
+          [
+            -122.422653522702,
+            37.723627443597
+          ],
+          [
+            -122.422719032967,
+            37.723541200036
+          ],
+          [
+            -122.422878365981,
+            37.723262903454
+          ],
+          [
+            -122.423102589232,
+            37.722983549078
+          ],
+          [
+            -122.42317810864,
+            37.722847830134
+          ],
+          [
+            -122.423274501241,
+            37.722536941042
+          ],
+          [
+            -122.42334205937,
+            37.722311695959
+          ],
+          [
+            -122.423471452826,
+            37.72207647516
+          ],
+          [
+            -122.423654568528,
+            37.721844858893
+          ],
+          [
+            -122.423847229257,
+            37.721545845125
+          ],
+          [
+            -122.423874205831,
+            37.721388505124
+          ],
+          [
+            -122.42384417457,
+            37.721209681443
+          ],
+          [
+            -122.423738722275,
+            37.721061227974
+          ],
+          [
+            -122.423489207787,
+            37.720908403019
+          ],
+          [
+            -122.423002649694,
+            37.720757206951
+          ],
+          [
+            -122.42281194186,
+            37.720695318803
+          ],
+          [
+            -122.422551029344,
+            37.720538195995
+          ],
+          [
+            -122.422273812789,
+            37.720296162881
+          ],
+          [
+            -122.422112169682,
+            37.720157590609
+          ],
+          [
+            -122.4218487901,
+            37.720013953817
+          ],
+          [
+            -122.420877729158,
+            37.719462714273
+          ],
+          [
+            -122.420630484167,
+            37.719397261226
+          ],
+          [
+            -122.420270797311,
+            37.719349331237
+          ],
+          [
+            -122.418973008498,
+            37.71926065063
+          ],
+          [
+            -122.418704238933,
+            37.719235890242
+          ],
+          [
+            -122.418521017296,
+            37.719135768804
+          ],
+          [
+            -122.418451040415,
+            37.71893966316
+          ],
+          [
+            -122.418512370109,
+            37.718766090648
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "John F Shelley Dr",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Cambridge St  -  Mansell St",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.422342507331,
+            37.725395089214
+          ],
+          [
+            -122.421846960804,
+            37.724198859013
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Madison St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Felton St  -  Burrows St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.425830006313,
+            37.719302107277
+          ],
+          [
+            -122.426390270155,
+            37.718560725279
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Dublin St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "End: North  -  Persia Ave",
+        "blockside": null,
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.407976926952,
+            37.719736001668
+          ],
+          [
+            -122.407763850414,
+            37.719193842398
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Bowdoin St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Mansell St  -  End: 1300-1399 Block",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.407976926952,
+            37.719736001668
+          ],
+          [
+            -122.407998188811,
+            37.719607633429
+          ],
+          [
+            -122.40892105697,
+            37.719367322363
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Bowdoin St  -  Dartmouth St",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.414176323195,
+            37.718126715908
+          ],
+          [
+            -122.414257095432,
+            37.718197931655
+          ],
+          [
+            -122.414643726428,
+            37.71813991514
+          ],
+          [
+            -122.415067347427,
+            37.718148118075
+          ],
+          [
+            -122.415833650278,
+            37.718288695851
+          ],
+          [
+            -122.418362471418,
+            37.718784248118
+          ],
+          [
+            -122.418512370109,
+            37.718766090648
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "John F Shelley Dr  -  John F Shelley Dr",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.411673324472,
+            37.718754100708
+          ],
+          [
+            -122.411669903295,
+            37.718654517913
+          ],
+          [
+            -122.413843087332,
+            37.718077851398
+          ],
+          [
+            -122.414076394896,
+            37.718037873737
+          ],
+          [
+            -122.414176323195,
+            37.718126715908
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Visitacion Ave  -  John F Shelley Dr",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.422472988304,
+            37.717887378898
+          ],
+          [
+            -122.422574659738,
+            37.717868658748
+          ],
+          [
+            -122.423620918833,
+            37.71725217433
+          ],
+          [
+            -122.423781576122,
+            37.717167642587
+          ],
+          [
+            -122.424021415446,
+            37.717101216965
+          ],
+          [
+            -122.424259821937,
+            37.717084388666
+          ],
+          [
+            -122.424656181827,
+            37.717131894558
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Brazil Ave  -  Mansell St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.422472988304,
+            37.717887378898
+          ],
+          [
+            -122.422492004533,
+            37.717815847705
+          ],
+          [
+            -122.423530052322,
+            37.717201923854
+          ],
+          [
+            -122.423774201881,
+            37.717092318984
+          ],
+          [
+            -122.424022457515,
+            37.717036533068
+          ],
+          [
+            -122.424258262805,
+            37.717024059039
+          ],
+          [
+            -122.424528018729,
+            37.717064916395
+          ],
+          [
+            -122.424656181827,
+            37.717131894558
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Brazil Ave  -  Mansell St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.412468269252,
+            37.722658455651
+          ],
+          [
+            -122.411973057754,
+            37.721457927786
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "University St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Woolsey St  -  Dwight St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.416917250136,
+            37.722824847711
+          ],
+          [
+            -122.416484417964,
+            37.721809310628
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Cambridge St",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Wayland St  -  John F Shelley Dr",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.422342507331,
+            37.725395089214
+          ],
+          [
+            -122.421846960804,
+            37.724198859013
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Madison St",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Felton St  -  Burrows St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42037123936,
+            37.725910793021
+          ],
+          [
+            -122.419875242155,
+            37.724709585068
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Harvard St",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Felton St  -  Burrows St",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.424847773045,
+            37.722053145187
+          ],
+          [
+            -122.426022742333,
+            37.720493849407
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Prague St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "10",
+        "tohour": "12",
+        "limits": "Excelsior Ave  -  Brazil Ave",
+        "blockside": "NorthWest",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "10 AM - 12 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.411673324472,
+            37.718754100708
+          ],
+          [
+            -122.411760671682,
+            37.718847245996
+          ],
+          [
+            -122.413932663332,
+            37.718270250944
+          ],
+          [
+            -122.414149772029,
+            37.718233121722
+          ],
+          [
+            -122.414176323195,
+            37.718126715908
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Visitacion Ave  -  John F Shelley Dr",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.414176323195,
+            37.718126715908
+          ],
+          [
+            -122.414195295202,
+            37.718011407466
+          ],
+          [
+            -122.414352428498,
+            37.718000231761
+          ],
+          [
+            -122.414745982643,
+            37.718000302333
+          ],
+          [
+            -122.41512985165,
+            37.718045792993
+          ],
+          [
+            -122.418409138118,
+            37.718699425209
+          ],
+          [
+            -122.418512370109,
+            37.718766090648
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "John F Shelley Dr  -  John F Shelley Dr",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.422472988304,
+            37.717887378898
+          ],
+          [
+            -122.422574659738,
+            37.717868658748
+          ],
+          [
+            -122.423620918833,
+            37.71725217433
+          ],
+          [
+            -122.423781576122,
+            37.717167642587
+          ],
+          [
+            -122.424021415446,
+            37.717101216965
+          ],
+          [
+            -122.424259821937,
+            37.717084388666
+          ],
+          [
+            -122.424656181827,
+            37.717131894558
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Brazil Ave  -  Mansell St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.416484417964,
+            37.721809310628
+          ],
+          [
+            -122.41668167936,
+            37.721797135579
+          ],
+          [
+            -122.417165806883,
+            37.721854258656
+          ],
+          [
+            -122.4178603899,
+            37.721972954727
+          ],
+          [
+            -122.418331624935,
+            37.722077353095
+          ],
+          [
+            -122.418552730108,
+            37.722114098293
+          ],
+          [
+            -122.41919445104,
+            37.722152956888
+          ],
+          [
+            -122.420519866346,
+            37.722216530311
+          ],
+          [
+            -122.420857753737,
+            37.722293953707
+          ],
+          [
+            -122.421109798229,
+            37.722435536815
+          ],
+          [
+            -122.421289124788,
+            37.722602959147
+          ],
+          [
+            -122.421421762324,
+            37.722820456193
+          ],
+          [
+            -122.421467285359,
+            37.723052821664
+          ],
+          [
+            -122.421504114218,
+            37.723276361504
+          ],
+          [
+            -122.421636927352,
+            37.723500579258
+          ],
+          [
+            -122.421838771284,
+            37.723665393377
+          ],
+          [
+            -122.422030355435,
+            37.723760889687
+          ],
+          [
+            -122.422208915557,
+            37.723789356598
+          ],
+          [
+            -122.422470264671,
+            37.723744745833
+          ],
+          [
+            -122.422653522702,
+            37.723627443597
+          ],
+          [
+            -122.422719032967,
+            37.723541200036
+          ],
+          [
+            -122.422878365981,
+            37.723262903454
+          ],
+          [
+            -122.423102589232,
+            37.722983549078
+          ],
+          [
+            -122.42317810864,
+            37.722847830134
+          ],
+          [
+            -122.423274501241,
+            37.722536941042
+          ],
+          [
+            -122.42334205937,
+            37.722311695959
+          ],
+          [
+            -122.423471452826,
+            37.72207647516
+          ],
+          [
+            -122.423654568528,
+            37.721844858893
+          ],
+          [
+            -122.423847229257,
+            37.721545845125
+          ],
+          [
+            -122.423874205831,
+            37.721388505124
+          ],
+          [
+            -122.42384417457,
+            37.721209681443
+          ],
+          [
+            -122.423738722275,
+            37.721061227974
+          ],
+          [
+            -122.423489207787,
+            37.720908403019
+          ],
+          [
+            -122.423002649694,
+            37.720757206951
+          ],
+          [
+            -122.42281194186,
+            37.720695318803
+          ],
+          [
+            -122.422551029344,
+            37.720538195995
+          ],
+          [
+            -122.422273812789,
+            37.720296162881
+          ],
+          [
+            -122.422112169682,
+            37.720157590609
+          ],
+          [
+            -122.4218487901,
+            37.720013953817
+          ],
+          [
+            -122.420877729158,
+            37.719462714273
+          ],
+          [
+            -122.420630484167,
+            37.719397261226
+          ],
+          [
+            -122.420270797311,
+            37.719349331237
+          ],
+          [
+            -122.418973008498,
+            37.71926065063
+          ],
+          [
+            -122.418704238933,
+            37.719235890242
+          ],
+          [
+            -122.418521017296,
+            37.719135768804
+          ],
+          [
+            -122.418451040415,
+            37.71893966316
+          ],
+          [
+            -122.418512370109,
+            37.718766090648
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "John F Shelley Dr",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Cambridge St  -  Mansell St",
+        "blockside": "SouthEast",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.411673324472,
+            37.718754100708
+          ],
+          [
+            -122.411669903295,
+            37.718654517913
+          ],
+          [
+            -122.413843087332,
+            37.718077851398
+          ],
+          [
+            -122.414076394896,
+            37.718037873737
+          ],
+          [
+            -122.414176323195,
+            37.718126715908
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Visitacion Ave  -  John F Shelley Dr",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.409021907052,
+            37.719586725164
+          ],
+          [
+            -122.410001745178,
+            37.719331569179
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Fri",
+        "fullname": "Friday",
+        "fromhour": "7",
+        "tohour": "8",
+        "limits": "Dartmouth St  -  Colby St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "7 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.426847573155,
+            37.716651402144
+          ],
+          [
+            -122.427189487972,
+            37.715748238628
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "La Grande Ave",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "Russia Ave  -  End: 600-699 Block",
+        "blockside": "East",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42037123936,
+            37.725910793021
+          ],
+          [
+            -122.419875242155,
+            37.724709585068
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Harvard St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Felton St  -  Burrows St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.414176323195,
+            37.718126715908
+          ],
+          [
+            -122.414254433072,
+            37.718295161536
+          ],
+          [
+            -122.414380842158,
+            37.718819840202
+          ],
+          [
+            -122.414374987776,
+            37.719140459238
+          ],
+          [
+            -122.414323187099,
+            37.719430442509
+          ],
+          [
+            -122.414343467608,
+            37.719669946239
+          ],
+          [
+            -122.414425873654,
+            37.719910680064
+          ],
+          [
+            -122.414604089791,
+            37.720145373284
+          ],
+          [
+            -122.41482548354,
+            37.720303157553
+          ],
+          [
+            -122.415109178208,
+            37.720468893879
+          ],
+          [
+            -122.415302477042,
+            37.720631615975
+          ],
+          [
+            -122.415425358606,
+            37.720799965079
+          ],
+          [
+            -122.415681109852,
+            37.721414438631
+          ],
+          [
+            -122.415800710866,
+            37.721564909043
+          ],
+          [
+            -122.416027177875,
+            37.721700193953
+          ],
+          [
+            -122.416286345133,
+            37.721790117869
+          ],
+          [
+            -122.416484417964,
+            37.721809310628
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "John F Shelley Dr",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Mansell St  -  Cambridge St",
+        "blockside": "SouthWest",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.418512370109,
+            37.718766090648
+          ],
+          [
+            -122.418706584711,
+            37.718761399264
+          ],
+          [
+            -122.419265987359,
+            37.71887730618
+          ],
+          [
+            -122.419510997017,
+            37.718905645755
+          ],
+          [
+            -122.419736681861,
+            37.7189213676
+          ],
+          [
+            -122.420121546382,
+            37.718900006896
+          ],
+          [
+            -122.42049726764,
+            37.718839995744
+          ],
+          [
+            -122.420868881385,
+            37.718726160708
+          ],
+          [
+            -122.421150801862,
+            37.718607323016
+          ],
+          [
+            -122.421404974623,
+            37.718465227912
+          ],
+          [
+            -122.422348577472,
+            37.71790449683
+          ],
+          [
+            -122.422472988304,
+            37.717887378898
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "John F Shelley Dr  -  Brazil Ave",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.412468269252,
+            37.722658455651
+          ],
+          [
+            -122.411973057754,
+            37.721457927786
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "University St",
+        "weekday": "Wed",
+        "fullname": "Wednesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Woolsey St  -  Dwight St",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.427571650296,
+            37.716997378372
+          ],
+          [
+            -122.426847573155,
+            37.716651402144
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Russia Ave",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "Dublin St  -  La Grande Ave",
+        "blockside": "SouthWest",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.411673324472,
+            37.718754100708
+          ],
+          [
+            -122.411760671682,
+            37.718847245996
+          ],
+          [
+            -122.413932663332,
+            37.718270250944
+          ],
+          [
+            -122.414149772029,
+            37.718233121722
+          ],
+          [
+            -122.414176323195,
+            37.718126715908
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Visitacion Ave  -  John F Shelley Dr",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.422472988304,
+            37.717887378898
+          ],
+          [
+            -122.422492004533,
+            37.717815847705
+          ],
+          [
+            -122.423530052322,
+            37.717201923854
+          ],
+          [
+            -122.423774201881,
+            37.717092318984
+          ],
+          [
+            -122.424022457515,
+            37.717036533068
+          ],
+          [
+            -122.424258262805,
+            37.717024059039
+          ],
+          [
+            -122.424528018729,
+            37.717064916395
+          ],
+          [
+            -122.424656181827,
+            37.717131894558
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Brazil Ave  -  Mansell St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.422472988304,
+            37.717887378898
+          ],
+          [
+            -122.422492004533,
+            37.717815847705
+          ],
+          [
+            -122.423530052322,
+            37.717201923854
+          ],
+          [
+            -122.423774201881,
+            37.717092318984
+          ],
+          [
+            -122.424022457515,
+            37.717036533068
+          ],
+          [
+            -122.424258262805,
+            37.717024059039
+          ],
+          [
+            -122.424528018729,
+            37.717064916395
+          ],
+          [
+            -122.424656181827,
+            37.717131894558
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Brazil Ave  -  Mansell St",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.431927236229,
+            37.712766596539
+          ],
+          [
+            -122.431813936092,
+            37.712792684626
+          ],
+          [
+            -122.429678833051,
+            37.712355166936
+          ],
+          [
+            -122.429356167723,
+            37.712288418458
+          ],
+          [
+            -122.428807805749,
+            37.712125752131
+          ],
+          [
+            -122.428250148122,
+            37.711887169293
+          ],
+          [
+            -122.426957140719,
+            37.711307263716
+          ],
+          [
+            -122.426437743755,
+            37.711112539177
+          ],
+          [
+            -122.425511501372,
+            37.710789426811
+          ],
+          [
+            -122.425040462691,
+            37.710543335061
+          ],
+          [
+            -122.424555338248,
+            37.710172285662
+          ],
+          [
+            -122.424550388159,
+            37.710101860063
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Geneva Ave",
+        "weekday": "Tues",
+        "fullname": "Tuesday",
+        "fromhour": "6",
+        "tohour": "8",
+        "limits": "Prague St  -  Brookdale Ave",
+        "blockside": "NorthEast",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "6 AM - 8 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.426670153845,
+            37.717078041889
+          ],
+          [
+            -122.426698043746,
+            37.717046375465
+          ],
+          [
+            -122.426847573155,
+            37.716651402144
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "La Grande Ave",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "11",
+        "tohour": "13",
+        "limits": "Start: 400-499 Block  -  Russia Ave",
+        "blockside": "West",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "11 AM - 1 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.414176323195,
+            37.718126715908
+          ],
+          [
+            -122.414195295202,
+            37.718011407466
+          ],
+          [
+            -122.414352428498,
+            37.718000231761
+          ],
+          [
+            -122.414745982643,
+            37.718000302333
+          ],
+          [
+            -122.41512985165,
+            37.718045792993
+          ],
+          [
+            -122.418409138118,
+            37.718699425209
+          ],
+          [
+            -122.418512370109,
+            37.718766090648
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Mansell St",
+        "weekday": "Mon",
+        "fullname": "Monday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "John F Shelley Dr  -  John F Shelley Dr",
+        "blockside": "South",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.419875242155,
+            37.724709585068
+          ],
+          [
+            -122.420861150602,
+            37.724454214524
+          ]
+        ]
+      },
+      "properties": {
+        "corridor": "Burrows St",
+        "weekday": "Thu",
+        "fullname": "Thursday",
+        "fromhour": "12",
+        "tohour": "15",
+        "limits": "Harvard St  -  Gambier St",
+        "blockside": "North",
+        "holidays": "0",
+        "nhood": "McLaren Park",
+        "week_info": "week1, week2, week3, week4, week5",
+        "hoursRange": "12 PM - 3 PM"
+      }
+    }
+  ]
+}

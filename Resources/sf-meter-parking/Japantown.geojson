@@ -1,0 +1,6817 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434864544,
+          37.784859382
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439691398,
+          37.784909702
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431425802,
+          37.784860997
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4321666,
+          37.784661502
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432255901,
+          37.785193401
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436861201,
+          37.784744738
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430378963,
+          37.784843306
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436351177,
+          37.784673098
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43594755,
+          37.784121114
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434450602,
+          37.784911199
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432439303,
+          37.785305998
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437639279,
+          37.78451169
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.440632602,
+          37.785096998
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424883302,
+          37.785897498
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436787797,
+          37.784753937
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430523722,
+          37.784834043
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438189906,
+          37.784959127
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439873101,
+          37.784725099
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431186499,
+          37.7852718
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438260955,
+          37.785310125
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430114303,
+          37.7854617
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429738,
+          37.784912501
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430979399,
+          37.7853533
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437170782,
+          37.783965168
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436929787,
+          37.784736144
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431121098,
+          37.784948499
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439906997,
+          37.784892698
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435102949,
+          37.784247579
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432285702,
+          37.785325299
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433044001,
+          37.784624102
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434706283,
+          37.784505933
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431859297,
+          37.784700601
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437642511,
+          37.784646836
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434388598,
+          37.784919
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434565648,
+          37.784482084
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428042201,
+          37.785585199
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437241576,
+          37.783956142
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429973799,
+          37.785481398
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434480598,
+          37.785043002
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431496803,
+          37.785211998
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4321866,
+          37.785202102
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438492099,
+          37.784538501
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438418003,
+          37.7845479
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.440345801,
+          37.785133499
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433530302,
+          37.785162098
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428179402,
+          37.7856227
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43516395,
+          37.784821865
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431297598,
+          37.785839998
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433636602,
+          37.7859851
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435230813,
+          37.784813486
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434439298,
+          37.785883098
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433104899,
+          37.784925298
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4305741,
+          37.785539702
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428369101,
+          37.786542402
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432551497,
+          37.785156398
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436652578,
+          37.78463533
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437900357,
+          37.784312571
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438203596,
+          37.785026755
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4340131,
+          37.785937301
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431350002,
+          37.786100999
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430491002,
+          37.785414499
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429425802,
+          37.784952299
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428722398,
+          37.785771602
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438663,
+          37.7843811
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432412497,
+          37.785173799
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4299854,
+          37.785478
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433965899,
+          37.784972002
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428197602,
+          37.7851088
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429156,
+          37.784986698
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433118902,
+          37.784994398
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439829303,
+          37.784509103
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437975937,
+          37.784015016
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429458402,
+          37.785679401
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431336999,
+          37.786036101
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430679701,
+          37.7848241
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428475501,
+          37.7850734
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431486901,
+          37.785162802
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438028878,
+          37.784276563
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430702299,
+          37.785388102
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439743802,
+          37.783417198
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439866898,
+          37.783401501
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436028987,
+          37.784110738
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436589017,
+          37.784643295
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428650202,
+          37.785780598
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433713598,
+          37.785975399
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438581198,
+          37.785357798
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435430897,
+          37.784191262
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438845603,
+          37.785324198
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434091801,
+          37.784956199
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.440040901,
+          37.785172201
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4393188,
+          37.784297499
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433448501,
+          37.785172301
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43587583,
+          37.784732662
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.440871,
+          37.7850667
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437213079,
+          37.784700643
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437890333,
+          37.784263048
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438689498,
+          37.784513299
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436856197,
+          37.784609815
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431450099,
+          37.784980998
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427997403,
+          37.785364102
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434108302,
+          37.7850897
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431886002,
+          37.785239798
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430196602,
+          37.786414002
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432425601,
+          37.785172201
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435715309,
+          37.784150721
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435045099,
+          37.784257513
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428058702,
+          37.7856668
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4333794,
+          37.785181002
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434682314,
+          37.784387492
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435162804,
+          37.7842373
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437105555,
+          37.783973483
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4307812,
+          37.785513702
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428420398,
+          37.785809399
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433280298,
+          37.785057899
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439693183,
+          37.78384942
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438553001,
+          37.7845307
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430716201,
+          37.785521899
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439701501,
+          37.784959703
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430040799,
+          37.785470898
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4319346,
+          37.784691001
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4295991,
+          37.785661799
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438159081,
+          37.784806838
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429013602,
+          37.785735101
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429071398,
+          37.784997499
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.440410498,
+          37.785125301
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432032401,
+          37.785221402
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433702299,
+          37.7851405
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427967401,
+          37.785215401
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436966033,
+          37.78399127
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431108698,
+          37.784887501
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428137498,
+          37.7853984
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432760799,
+          37.785130202
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436015618,
+          37.784715145
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434694304,
+          37.784446737
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437568492,
+          37.78452056
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431699197,
+          37.784720997
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432609243,
+          37.785149192
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433643101,
+          37.785012402
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432790801,
+          37.785261999
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433778899,
+          37.7851309
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430601755,
+          37.78482905
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4402708,
+          37.785142998
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437033074,
+          37.783982724
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434914606,
+          37.784853109
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428117499,
+          37.785289899
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43594724,
+          37.784723714
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431046001,
+          37.785480599
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43713839,
+          37.784574455
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434578102,
+          37.785865501
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432774702,
+          37.784583998
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433764877,
+          37.784531747
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431362502,
+          37.786162997
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433066202,
+          37.7847339
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431686898,
+          37.7854003
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4324369,
+          37.785170798
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430091202,
+          37.786427402
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438974399,
+          37.7835249
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428265897,
+          37.7851001
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433788659,
+          37.784649271
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430308997,
+          37.784847799
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439840803,
+          37.784565602
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429046303,
+          37.785595498
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433561003,
+          37.7859947
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433931902,
+          37.785947599
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439672038,
+          37.783731942
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.440553399,
+          37.785107101
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437382407,
+          37.783938188
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436531727,
+          37.784650474
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438916798,
+          37.785315101
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432874402,
+          37.785251499
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437777759,
+          37.784494338
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438837902,
+          37.784494401
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431565802,
+          37.784738001
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4328367,
+          37.785120702
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435514586,
+          37.784777928
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438007842,
+          37.784172638
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429112497,
+          37.7855872
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43731275,
+          37.783947069
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428333802,
+          37.7850915
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436831275,
+          37.78400845
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437856955,
+          37.784098149
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429305399,
+          37.785698601
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437071984,
+          37.784718324
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439468199,
+          37.783807102
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4324608,
+          37.785167797
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4311752,
+          37.785464601
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436470642,
+          37.784054426
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4341598,
+          37.785918598
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433208102,
+          37.785433101
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431142399,
+          37.785053697
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428341798,
+          37.7858211
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436760776,
+          37.784017438
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4292271,
+          37.784977601
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439652808,
+          37.783636946
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434140499,
+          37.7844099
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424860699,
+          37.785786002
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439894,
+          37.784828598
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433063101,
+          37.785387202
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438137701,
+          37.783841601
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432327499,
+          37.7851845
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434156598,
+          37.784948102
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432760799,
+          37.785130202
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431635299,
+          37.7847292
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433775701,
+          37.784585238
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438776502,
+          37.783592698
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430198898,
+          37.7854511
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433845375,
+          37.784929544
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438232187,
+          37.785168006
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437778565,
+          37.78462978
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4314628,
+          37.785044002
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428569199,
+          37.785790802
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430344302,
+          37.7854329
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434884034,
+          37.784285179
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439173899,
+          37.784316
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4387637,
+          37.7845039
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43382309,
+          37.784819419
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434515802,
+          37.784903102
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428157402,
+          37.785505297
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431832101,
+          37.7853821
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431263299,
+          37.7856696
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438364699,
+          37.783772602
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4329087,
+          37.784713303
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433917301,
+          37.7851136
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434023298,
+          37.784964799
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428270798,
+          37.786055502
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434218999,
+          37.784399898
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429332701,
+          37.785559601
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439726898,
+          37.7840033
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431660501,
+          37.785268
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437431735,
+          37.784537697
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4320947,
+          37.7846706
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439747601,
+          37.784105302
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438427301,
+          37.7837513
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438227067,
+          37.785142707
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428321402,
+          37.786305803
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428621899,
+          37.785054698
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438049914,
+          37.784380487
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429877799,
+          37.784894698
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428284298,
+          37.785690901
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439979266,
+          37.784348908
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439528102,
+          37.784103201
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432129698,
+          37.785344801
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428358299,
+          37.786488903
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428402098,
+          37.785082799
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436156571,
+          37.784697483
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429264299,
+          37.785568201
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434228699,
+          37.785909898
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439119702,
+          37.784458498
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428108502,
+          37.785234199
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437224209,
+          37.784563708
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4293527,
+          37.784961603
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428289897,
+          37.78615
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439020002,
+          37.784335597
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438984697,
+          37.784475698
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429483402,
+          37.785540703
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435662862,
+          37.784759355
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4306393,
+          37.785531499
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435038552,
+          37.784837578
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4331291,
+          37.785715298
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4291034,
+          37.785723897
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431438498,
+          37.784923498
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434829041,
+          37.78429463
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.440050065,
+          37.784339906
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435731639,
+          37.78475073
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433196798,
+          37.785376797
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428280499,
+          37.786103598
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428768901,
+          37.785036
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4391894,
+          37.784449602
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439733598,
+          37.7851184
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436253833,
+          37.784082067
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434718001,
+          37.785847698
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432475999,
+          37.785165897
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4329384,
+          37.784860003
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434769598,
+          37.784304823
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428095203,
+          37.785176101
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434740164,
+          37.784673353
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4332998,
+          37.785190998
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.440012302,
+          37.783383
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.440112002,
+          37.785163198
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439737297,
+          37.784054602
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434554957,
+          37.784429254
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430628599,
+          37.785397299
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439328802,
+          37.784431799
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4386525,
+          37.7836515
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428795499,
+          37.785762398
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435641732,
+          37.784160101
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434374802,
+          37.785891301
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438214607,
+          37.785081156
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439798698,
+          37.783410202
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428128401,
+          37.785344102
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434514003,
+          37.785873598
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439376702,
+          37.7842901
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430450135,
+          37.784838757
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439760001,
+          37.784166601
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434299297,
+          37.784389599
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438251203,
+          37.784433599
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438124289,
+          37.784634955
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428941099,
+          37.785744198
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439505001,
+          37.783989201
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4380743,
+          37.783854599
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433730898,
+          37.7850014
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438137836,
+          37.784701881
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434652198,
+          37.785856102
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434728779,
+          37.784617092
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433271302,
+          37.785746601
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431903302,
+          37.785373199
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429949799,
+          37.784885501
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435369979,
+          37.784796048
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432924101,
+          37.784789299
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434393801,
+          37.784377602
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437353282,
+          37.784683074
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437965594,
+          37.783963921
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4321109,
+          37.785211601
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429282801,
+          37.784970498
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432695001,
+          37.784594101
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437209178,
+          37.784565585
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4291897,
+          37.785577499
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433891898,
+          37.784441601
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437867231,
+          37.784148913
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433054601,
+          37.784676897
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439054502,
+          37.784466802
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436898316,
+          37.783999903
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433087498,
+          37.785508701
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428549301,
+          37.785064001
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433413397,
+          37.786013498
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.440187998,
+          37.785153498
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438039656,
+          37.784329728
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4388998,
+          37.783546698
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435567944,
+          37.784169508
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436105583,
+          37.784100967
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434323398,
+          37.785062699
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438209671,
+          37.785056767
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433980299,
+          37.784430302
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430423701,
+          37.7855585
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439456001,
+          37.783747098
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424872199,
+          37.785842798
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437846613,
+          37.784047055
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439679797,
+          37.784852303
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428332997,
+          37.786363599
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434629788,
+          37.784799024
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429495618,
+          37.784943407
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433078702,
+          37.784795602
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437421245,
+          37.784674557
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438449898,
+          37.784408302
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43823802,
+          37.785196819
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439810103,
+          37.784414197
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428259499,
+          37.7859995
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436086406,
+          37.784706275
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431754898,
+          37.7853917
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43471715,
+          37.784559632
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437986597,
+          37.784067681
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435300293,
+          37.78480478
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428692503,
+          37.785045701
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436560278,
+          37.784782448
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439713202,
+          37.785017499
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437003334,
+          37.784726927
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433834509,
+          37.784875846
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4397157,
+          37.7839478
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431131799,
+          37.7850015
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430553101,
+          37.785406698
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433114102,
+          37.785640699
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430418202,
+          37.785423602
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433812399,
+          37.784766589
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434608196,
+          37.78469233
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435294985,
+          37.784214602
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437835577,
+          37.78399253
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424849998,
+          37.785733
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433184599,
+          37.785316202
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438130907,
+          37.784667653
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434974514,
+          37.784845602
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430984702,
+          37.785488198
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439517401,
+          37.784049998
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430007998,
+          37.785475
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4302289,
+          37.785582903
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438803699,
+          37.784363202
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437997148,
+          37.784119808
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431963199,
+          37.785230097
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433258097,
+          37.785681301
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436924369,
+          37.784601273
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433608198,
+          37.784477698
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434597404,
+          37.784639004
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433846999,
+          37.785122401
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435588612,
+          37.784768652
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438650902,
+          37.785348902
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438196626,
+          37.784992321
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4382104,
+          37.783822798
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428345,
+          37.786422702
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439723897,
+          37.7850704
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433987602,
+          37.785104799
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431415397,
+          37.7848096
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434940756,
+          37.784275431
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428170198,
+          37.785562401
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436719233,
+          37.784626978
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438909098,
+          37.784485298
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439477799,
+          37.783854599
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438579198,
+          37.783686302
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431039013,
+          37.78534589
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435797167,
+          37.784140292
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434171797,
+          37.785081698
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424872199,
+          37.785842798
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439543899,
+          37.784404402
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439644314,
+          37.783594988
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431759799,
+          37.784713303
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439883997,
+          37.784779
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431172803,
+          37.785204398
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433792298,
+          37.785965403
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429532397,
+          37.785670102
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43785851,
+          37.784619761
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428148299,
+          37.785449502
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428871602,
+          37.785752899
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431811101,
+          37.785249202
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430075802,
+          37.785602097
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4323563,
+          37.785316397
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432647202,
+          37.785279998
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436398794,
+          37.784063586
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438737599,
+          37.7843716
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435228449,
+          37.784226027
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430848401,
+          37.785505297
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428493103,
+          37.785800301
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438714599,
+          37.7836209
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436694367,
+          37.784025904
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433171898,
+          37.785253002
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434753173,
+          37.784737712
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432448199,
+          37.785169401
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4319796,
+          37.785363599
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433352399,
+          37.785048802
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4282367,
+          37.785886501
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433099802,
+          37.785569302
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431327002,
+          37.785986301
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438621202,
+          37.784522
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439624103,
+          37.784577102
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439466702,
+          37.784414298
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434397299,
+          37.785053502
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435875087,
+          37.784130359
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436619289,
+          37.784035483
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4296028,
+          37.784929802
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432459498,
+          37.784624102
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434575327,
+          37.784529912
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438221008,
+          37.785112779
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4369953,
+          37.784592385
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439851101,
+          37.784616598
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.440484103,
+          37.785115902
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429805301,
+          37.784904002
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433244401,
+          37.785613201
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439257199,
+          37.7843054
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430148199,
+          37.785593
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436180677,
+          37.784091393
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4399381,
+          37.783392398
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4330736,
+          37.7854395
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435442697,
+          37.784786936
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430347901,
+          37.785568
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.440181499,
+          37.783361402
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429996201,
+          37.785476497
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433690699,
+          37.784467199
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434088498,
+          37.785927701
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437707882,
+          37.7845031
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430917199,
+          37.785496698
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429676801,
+          37.784920302
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431372398,
+          37.786212199
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437712803,
+          37.784638021
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432719202,
+          37.785271001
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431600403,
+          37.7852756
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439401401,
+          37.784422601
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439861998,
+          37.7846706
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433548402,
+          37.785024299
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4304984,
+          37.785549101
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439996002,
+          37.783385101
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43970376,
+          37.783866415
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43461892,
+          37.784745326
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438152253,
+          37.784773106
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430270698,
+          37.785442098
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431730797,
+          37.785259199
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4400301,
+          37.783380697
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432948699,
+          37.785242201
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431250302,
+          37.785604902
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435500105,
+          37.784179378
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433801332,
+          37.784711899
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437850703,
+          37.784485204
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432058602,
+          37.785353702
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434058301,
+          37.784420299
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4381788,
+          37.784442802
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4334887,
+          37.786003898
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437450966,
+          37.783929448
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439662046,
+          37.783682584
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439702187,
+          37.783880884
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437069326,
+          37.784583109
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434302198,
+          37.785900499
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428248502,
+          37.7859448
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431285802,
+          37.785781302
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439137701,
+          37.7852871
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4330936,
+          37.784869301
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4283545,
+          37.7856821
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436328042,
+          37.784072606
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438833102,
+          37.783569899
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429376801,
+          37.785689599
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431115499,
+          37.785471798
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429166002,
+          37.785716002
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438145182,
+          37.784738176
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432207599,
+          37.785335
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432009797,
+          37.784681401
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430021202,
+          37.785473402
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4371436,
+          37.78470935
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439263602,
+          37.784440198
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433049902,
+          37.7853216
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436710532,
+          37.784763619
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439818602,
+          37.784456101
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4383601,
+          37.784555298
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4332096,
+          37.7850667
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437879079,
+          37.784207448
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431473998,
+          37.7850993
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43580332,
+          37.784741748
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43654658,
+          37.784044745
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4309182,
+          37.785361
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436785617,
+          37.78461866
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437496874,
+          37.784529534
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439091298,
+          37.7843265
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439705999,
+          37.783899599
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438989498,
+          37.785305898
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4300228,
+          37.784876202
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435357233,
+          37.784203912
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439060598,
+          37.785296901
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435100805,
+          37.784829777
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434555599,
+          37.785033598
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429412799,
+          37.785549599
+        ]
+      },
+      "properties": {
+        "nhood": "Japantown"
+      }
+    }
+  ]
+}
