@@ -32,31 +32,19 @@ function showFeatureInfo(layer, properties, keys, label, geoAddress = null) {
             results.innerHTML = html; // update sidebar or results div dynamically
         });
     } else {
-        const center = layer.getBounds().getCenter(); //
-        // Desktop: tooltip on hover
-        layer.bindTooltip(infoParts(), { direction: 'center', permanent: false})
-        layer.openTooltip(center);
-
-        // if (layer instanceof L.Polygon) {
-        //     layer.on('click', () => {
-        //         layer.closeTooltip();
-        //     });
-        // }
-    //     layer.on('click', () => {
-    //             layer.closeTooltip();
-    //             layer.setStyle({
-    //     color: layer.options.color,       // outline
-    //     fillColor: layer.options.fillColor, // fill
-    //     weight: layer.options.weight,
-    //     opacity: layer.options.opacity,
-    //     fillOpacity: layer.options.fillOpacity
-    // });
-    //         });
-
+        if (layer instanceof L.Polygon) {
+            const center = layer.getBounds().getCenter(); //
+            // Desktop: tooltip on hover
+            layer.bindTooltip(infoParts(), { direction: 'center', permanent: false})
+            layer.openTooltip(center);
+        } else {
+            layer.bindTooltip(infoParts(), { direction: 'top', permanent: false });
+        }
 
         // on click
         if (!(layer instanceof L.Polygon)) {
             layer.on('click', () => {
+                layer.closeTooltip();
                 const html = htmlTemplate();
                 layer.bindPopup(html).openPopup();
                 results.innerHTML = html;
