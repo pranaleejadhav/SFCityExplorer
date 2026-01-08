@@ -1,0 +1,150 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferry Plaza Farmers Market",
+        "days": "Tuesday, Thursday, Saturday",
+        "hours": "Tue & Thu 10:00–14:00; Sat 08:00–14:00",
+        "year_round": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.3923704, 37.7952753]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alemany Farmers Market",
+        "days": "Saturday",
+        "hours": "06:00–15:00",
+        "year_round": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4100436, 37.7359725]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clement Street Farmers Market",
+        "days": "Sunday",
+        "hours": "09:00–14:00",
+        "year_round": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4612258, 37.7830983]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Mason Farmers Market",
+        "days": "Sunday",
+        "hours": "09:30–13:30",
+        "year_round": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4315658, 37.8061667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Noe Valley Farmers Market",
+        "days": "Saturday",
+        "hours": "08:00–13:00",
+        "year_round": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4339, 37.7517]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heart of the City Farmers Market",
+        "days": "Sunday",
+        "hours": "07:00–16:00",
+        "year_round": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4192, 37.7785]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inner Sunset Farmers Market",
+        "days": "Sunday",
+        "hours": "09:00–13:00",
+        "year_round": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4660, 37.7621]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Divisadero Farmers Market",
+        "days": "Sunday",
+        "hours": "09:00–13:00",
+        "year_round": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4447, 37.7745]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castro Farmers Market",
+        "days": "Wednesday",
+        "hours": "15:00–19:00",
+        "year_round": false,
+        "seasonal": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4350, 37.7629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mission Community Market",
+        "days": "Thursday",
+        "hours": "15:00–19:00",
+        "year_round": false,
+        "seasonal": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4190, 37.7593]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stonestown Farmers Market",
+        "days": "Sunday",
+        "hours": "09:00–13:00",
+        "year_round": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4848, 37.7277]
+      }
+    }
+  ]
+}

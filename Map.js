@@ -33,7 +33,7 @@ togglePanelBtn.addEventListener('click', () => {
 });
 
 
-function addLayerToMap(layerName) {
+async function addLayerToMap(layerName) {
  const config = LayerConfig[layerName];
  if (!config) return console.warn('Layer not found:', layerName);
 
@@ -46,14 +46,25 @@ function addLayerToMap(layerName) {
  const finalUrl = config.baseUrl && selectedNeighborhood ? `${config.baseUrl}/${selectedNeighborhood.replace(/\//g, '_')}.geojson` : config.url
 
  if (finalUrl) {
+
+ // Show loading indicator
+        results.innerHTML = "Loading Data...";
+
+        // Fetch the data
+        const res = await fetch(finalUrl);
+        if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
+
+        const data = await res.json();
+
    fetch(finalUrl)
-     .then(res => res.json())
+     .then(res => data)
      .then(data => {
        L.geoJSON(data, {
          style: config.style,
          pointToLayer: config.pointToLayer,
          onEachFeature: config.onEachFeature
        }).addTo(layerGroup);
+       results.innerHTML = "";
      })
      .catch(err => console.error('Failed to load layer:', err));
  }

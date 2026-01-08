@@ -6,6 +6,7 @@
    <title>SF City Explorer</title>
    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
    <link rel="stylesheet" href="style.css" />
+   <link rel="icon" href="Resources/golden-gate.png" type="image/png">
    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 </head>
 
@@ -41,12 +42,12 @@
                Show Time Limited Street Parking Map (Does not include non metered color curb or curb cuts.)
            </label>
            <label>
-               <input type="checkbox" id="show-bicycle-parking">
-               Show Bicycle Parking
-           </label>
-           <label>
                <input type="checkbox" id="show-garages-lots">
                Show SFMTA Garages/Lots
+           </label>
+           <label>
+               <input type="checkbox" id="show-farmers-markets">
+               Show Farmers Markets
            </label>
            <label>
                <input type="checkbox" id="show-public-restrooms">
@@ -55,6 +56,10 @@
            <label>
                <input type="checkbox" id="show-film-locations">
                Show Film Locations
+           </label>
+           <label>
+               <input type="checkbox" id="show-bicycle-parking">
+               Show Bicycle Parking
            </label>
            <div id="results">Click on any highlighted item to see info here</div>
        </div>
@@ -76,7 +81,8 @@
            Map powered by
            <a href="https://leafletjs.com/" target="_blank">Leaflet</a> &amp;
            <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> &amp;
-           <a href="https://data.sfgov.org/" target="_blank">SF Open Data: City and County of San Francisco</a>
+           <a href="https://data.sfgov.org/" target="_blank">SF Open Data: City and County of San Francisco</a><br/>
+           <a href="https://www.flaticon.com/free-icons/golden-gate-bridge" title="golden gate bridge icons">Golden gate bridge icons created by Dighital - Flaticon</a>
        </p>
 </footer>
 

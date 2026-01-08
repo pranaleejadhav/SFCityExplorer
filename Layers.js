@@ -40,7 +40,12 @@ const LayerTypes = Object.freeze({
        name: 'filmlocations',
        controlId: 'show-film-locations',
        resource: 'Resources/sf-film_locations.geojson'
-   }
+   },
+    FARMERSMARKETS: {
+        name: 'farmersmarkets',
+        controlId: 'show-farmers-markets',
+        resource: 'Resources/sf-farmers-market.geojson'
+    }
 });
 
 const timeLimitedParkingCheckbox = document.getElementById(LayerTypes.TIMELIMITEDPARKING.controlId);
@@ -79,7 +84,6 @@ const LayerConfig = {
            interactive: true
        }),
        onEachFeature: (feature, layer) => {
-        console.log(Object.keys(feature.properties));
            showFeatureInfo(layer, feature.properties, ['name'], 'Neighborhood Info');
 
            layer.on('mouseover', () => {
@@ -321,7 +325,25 @@ const LayerConfig = {
                results.innerHTML = `Film Location: ${info}<br/>${address}`
            });
        }
-   }
+   },
+
+    [LayerTypes.FARMERSMARKETS.name]: {
+        url: LayerTypes.FARMERSMARKETS.resource,
+
+        pointToLayer: (feature, latlng) => {
+            return L.marker(latlng, {
+                icon: L.divIcon({
+                    className: 'garage-icon',
+                    html: `<div style="font-size: 24px; line-height: 1;">🧺</div>`,
+                    iconSize: [24, 24]
+                })
+            });
+        },
+
+        onEachFeature: (feature, layer) => {
+            showFeatureInfo(layer, feature.properties, ['name', 'days', 'hours', 'seasonal', 'year_round'], 'Farmers Market Info');
+        }
+    }
 };
 
 addLayerToMap(LayerTypes.NEIGHBORHOOD.name);
