@@ -4,146 +4,97 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ferry Plaza Farmers Market",
-        "days": "Tuesday, Thursday, Saturday",
-        "hours": "Tue & Thu 10:00–14:00; Sat 08:00–14:00",
-        "year_round": true
+        "name": "Main Library",
+        "address": "100 Larkin St, San Francisco, CA 94102",
+        "hours": "Mon 09:00–18:00; Tue–Thu 09:00–20:00; Fri 12:00–18:00; Sat 10:00–18:00; Sun 12:00–18:00"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.3923704, 37.7952753]
+        "coordinates": [-122.4163, 37.7791]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Alemany Farmers Market",
-        "days": "Saturday",
-        "hours": "06:00–15:00",
-        "year_round": true
+        "name": "Anza Branch",
+        "address": "550 37th Ave, San Francisco, CA 94121",
+        "hours": "Mon & Thu 10:00–18:00; Tue 10:00–20:00; Wed 13:00–20:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.4100436, 37.7359725]
+        "coordinates": [-122.4971, 37.7809]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Clement Street Farmers Market",
-        "days": "Sunday",
-        "hours": "09:00–14:00",
-        "year_round": true
+        "name": "Bayview / Linda Brooks-Burton Branch",
+        "address": "5075 3rd St, San Francisco, CA 94124",
+        "hours": "Mon 10:00–18:00; Tue–Thu 10:00–20:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.4612258, 37.7830983]
+        "coordinates": [-122.3928, 37.7294]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Fort Mason Farmers Market",
-        "days": "Sunday",
-        "hours": "09:30–13:30",
-        "year_round": true
+        "name": "Bernal Heights Branch",
+        "address": "500 Cortland Ave, San Francisco, CA 94110",
+        "hours": "Mon & Thu 10:00–18:00; Tue 10:00–19:00; Wed 12:00–20:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.4315658, 37.8061667]
+        "coordinates": [-122.4146, 37.7428]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Noe Valley Farmers Market",
-        "days": "Saturday",
-        "hours": "08:00–13:00",
-        "year_round": true
+        "name": "Chinatown / Lai Branch",
+        "address": "1135 Powell St, San Francisco, CA 94108",
+        "hours": "Mon 13:00–18:00; Tue–Thu 10:00–20:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.4339, 37.7517]
+        "coordinates": [-122.4089, 37.7957]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Heart of the City Farmers Market",
-        "days": "Sunday",
-        "hours": "07:00–16:00",
-        "year_round": true
+        "name": "Excelsior Branch",
+        "address": "4400 Mission St, San Francisco, CA 94112",
+        "hours": "Mon 13:00–18:00; Tue–Thu 10:00–21:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.4192, 37.7785]
+        "coordinates": [-122.4258, 37.7215]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Inner Sunset Farmers Market",
-        "days": "Sunday",
-        "hours": "09:00–13:00",
-        "year_round": true
+        "name": "Marina Branch",
+        "address": "1890 Chestnut St, San Francisco, CA 94123",
+        "hours": "Mon–Tue 10:00–18:00; Wed–Thu 13:00–20:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.4660, 37.7621]
+        "coordinates": [-122.4424, 37.8020]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Divisadero Farmers Market",
-        "days": "Sunday",
-        "hours": "09:00–13:00",
-        "year_round": true
+        "name": "Richmond / Sen. Milton Marks Branch",
+        "address": "351 9th Ave, San Francisco, CA 94118",
+        "hours": "Mon 13:00–18:00; Tue–Thu 10:00–20:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.4447, 37.7745]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Castro Farmers Market",
-        "days": "Wednesday",
-        "hours": "15:00–19:00",
-        "year_round": false,
-        "seasonal": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.4350, 37.7629]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Mission Community Market",
-        "days": "Thursday",
-        "hours": "15:00–19:00",
-        "year_round": false,
-        "seasonal": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.4190, 37.7593]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Stonestown Farmers Market",
-        "days": "Sunday",
-        "hours": "09:00–13:00",
-        "year_round": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.4848, 37.7277]
+        "coordinates": [-122.4677, 37.7817]
       }
     }
   ]

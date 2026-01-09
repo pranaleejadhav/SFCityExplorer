@@ -47,25 +47,27 @@ async function addLayerToMap(layerName) {
 
  if (finalUrl) {
 
- // Show loading indicator
-        results.innerHTML = "Loading Data...";
+   // Show loading indicator
+   results.innerHTML = "Loading Data...";
 
-        // Fetch the data
-        const res = await fetch(finalUrl);
-        if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
+   try {
+     const res = await fetch(finalUrl);
+     if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
+     const data = await res.json();
 
-        const data = await res.json();
+     // Clear previous features so re-adding the same layer doesn't duplicate
+     layerGroup.clearLayers();
 
-   fetch(finalUrl)
-     .then(res => data)
-     .then(data => {
-       L.geoJSON(data, {
-         style: config.style,
-         pointToLayer: config.pointToLayer,
-         onEachFeature: config.onEachFeature
-       }).addTo(layerGroup);
-       results.innerHTML = "";
-     })
-     .catch(err => console.error('Failed to load layer:', err));
+     L.geoJSON(data, {
+       style: config.style,
+       pointToLayer: config.pointToLayer,
+       onEachFeature: config.onEachFeature
+     }).addTo(layerGroup);
+
+     results.innerHTML = "";
+   } catch (err) {
+     console.error('Failed to load layer:', err);
+     results.innerHTML = "Failed to load data.";
+   }
  }
 }
