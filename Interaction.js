@@ -67,8 +67,15 @@ function showFeatureInfo(layer, properties, keys, label, options = {}) {
         layer.on('click', async () => {
             let html = htmlTemplate();
 
-            // show initial popup (link only)
-            layer.bindPopup(html).openPopup();
+            if (layer instanceof L.Polygon) {
+                let info = infoParts();
+                if (info) {
+                    infohtml = `<div>${info}<br/>`;
+                    layer.bindPopup(infohtml).openPopup();
+                }
+            } else {
+                layer.bindPopup(html).openPopup();
+            }
             results.innerHTML = html; // update sidebar or results div dynamically
   
             if (!(layer instanceof L.Polygon) && !skipHumanAddress) {
@@ -77,7 +84,7 @@ function showFeatureInfo(layer, properties, keys, label, options = {}) {
                     if (latlng) {
                         const humanAddr = await reverseGeocode(latlng.lat, latlng.lng);
                         if (humanAddr) {
-                            const htmlWithAddr = html ? `${html}<br/>${humanAddr}` : `${humanAddr}`;
+                            const htmlWithAddr = html ? `${html}<br/>${humanAddr}<br/><button onclick="copyToClipboard('${humanAddr}')">Copy Address</button>` : `${humanAddr}<br/><button onclick="copyToClipboard('${humanAddr}')">Copy Address</button>`;
                             layer.bindPopup(htmlWithAddr).openPopup();
                             results.innerHTML = htmlWithAddr;
                         }
