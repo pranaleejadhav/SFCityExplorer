@@ -45,6 +45,11 @@ const LayerTypes = Object.freeze({
         name: 'farmersmarkets',
         controlId: 'show-farmers-markets',
         resource: 'Resources/sf-farmers-market.geojson'
+    },
+    LIBRARIES: {
+        name: 'libraries',
+        controlId: 'show-libraries',
+        resource: 'Resources/sf-libraries.geojson'
     }
 });
 
@@ -66,9 +71,12 @@ Object.values(LayerTypes).forEach(layer => {
                map.removeLayer(layers[LayerTypes.STREETCLEANINGMAP.name]);
            }
            addLayerToMap(layerName);
-           map.addLayer(layers[layerName]);
+           if (!map.hasLayer(layers[layerName])) {
+               map.addLayer(layers[layerName]);
+           }
        } else {
            map.removeLayer(layers[layerName]);
+           layers[layerName].clearLayers();
        }
    });
 });
@@ -84,7 +92,7 @@ const LayerConfig = {
            interactive: true
        }),
        onEachFeature: (feature, layer) => {
-           showFeatureInfo(layer, feature.properties, ['name'], 'Neighborhood Info');
+           showFeatureInfo(layer, feature.properties, [{key: 'nhood', label: ''}], 'Neighborhood Info');
 
            layer.on('mouseover', () => {
                layer.setStyle({ weight: 3 })
@@ -92,7 +100,7 @@ const LayerConfig = {
            layer.on('mouseout', () => layer.setStyle({ weight: 1 }));
 
            layer.on('click', () => {
-               selectedNeighborhood = feature.properties.name;
+               selectedNeighborhood = feature.properties.nhood;
 
                subCheckboxes.forEach(cb => cb.disabled = false);
                map.removeLayer(layers[LayerTypes.TIMELIMITEDPARKING.name]);
@@ -101,8 +109,24 @@ const LayerConfig = {
 
                map.removeLayer(layers[LayerTypes.STREETCLEANINGMAP.name]);
 
+               // Zoom to the selected neighborhood bounds (with a max zoom)
+               if (typeof layer.getBounds === 'function') {
+                   try {
+                       const bounds = layer.getBounds();
+                       if (bounds && bounds.isValid && bounds.isValid()) {
+                           map.fitBounds(bounds.pad ? bounds.pad(0.1) : bounds, { padding: [20, 20], maxZoom: 15 });
+                       } else {
+                           map.fitBounds(bounds, { padding: [20, 20], maxZoom: 15 });
+                       }
+                   } catch (e) {
+                       console.warn('Could not fit bounds for selected neighborhood', e);
+                   }
+               }
+
                addLayerToMap(LayerTypes.STREETCLEANINGMAP.name);
-               map.addLayer(layers[LayerTypes.STREETCLEANINGMAP.name]);
+               if (!map.hasLayer(layers[LayerTypes.STREETCLEANINGMAP.name])) {
+                   map.addLayer(layers[LayerTypes.STREETCLEANINGMAP.name]);
+               }
            });
        }
    },
@@ -115,42 +139,7 @@ const LayerConfig = {
            fillOpacity: 0.3
        }),
        onEachFeature: (feature, layer) => {
-           const props = feature.properties;
-
-           // Build info dynamically, only include fields that exist
-           let infoParts = [];
-
-           // Weekdays / schedule
-           if (props.weekday && props.fullname) {
-               infoParts.push(`<strong>Cleaning Schedule:</strong> ${props.fullname} (${props.weekday})`);
-           }
-
-           // Time
-           if (props.hoursRange) {
-               infoParts.push(`<strong>Time:</strong> ${props.hoursRange}`);
-           }
-
-           // Limits / range of the block
-           if (props.limits) infoParts.push(`<strong>Street Limits:</strong> ${props.limits}`);
-
-           // Holidays note
-           if (props.holidays && props.holidays !== "0") infoParts.push(`<strong>Holidays:</strong> Yes`);
-
-           if (props.week_info.length) infoParts.push(`<strong>Weeks:</strong> ${props.week_info}`);
-
-           if (infoParts.length > 0) {
-               infoParts.unshift('🧹 Street Cleaning Info:');
-
-               // Join all parts with <br>
-               const info = infoParts.join('<br>');
-               // console.log(info)
-
-               layer.bindTooltip(info, { permanent: false, direction: "top" });
-
-               layer.on('click', () => {
-                   results.innerHTML = `${info}`
-               });
-           }
+           showFeatureInfo(layer, feature.properties, [{key: ['weekday', 'fullname'], label: 'Cleaning Schedule'}, {key: 'hoursRange', label: 'Time'}, {key: 'limits', label: 'Street Limits'}, {key: 'week_info', label: 'Weeks'}], '🧹 Street Cleaning Info');
        }
    },
    [LayerTypes.METERPARKINGMAP.name]: {
@@ -166,14 +155,7 @@ const LayerConfig = {
            });
        },
        onEachFeature: (feature, layer) => {
-
-           layer.on('click', async () => {
-               const { lat, lng } = layer.getLatLng();
-               const address = await reverseGeocode(lat, lng);
-               layer.bindPopup(address).openPopup();
-
-               results.innerHTML = `Parking Meter: <br/>${address}`
-           });
+            showFeatureInfo(layer, feature.properties, [], 'Parking Meter Info', { skipTooltip: true });
        }
    },
    [LayerTypes.TIMELIMITEDPARKING.name]: {
@@ -185,34 +167,7 @@ const LayerConfig = {
            fillOpacity: 0.3
        }),
        onEachFeature: (feature, layer) => {
-           const props = feature.properties;
-           const rpparea1 = props.rpparea1;
-           const regulation = props.regulation;
-           const hrlimit = props.hrlimit;
-           const days = props.days;
-           const from_time = props.from_time || props.hrs_begin;
-           const to_time = props.to_time || props.hrs_end;
-           const exceptions = props.exceptions;
-
-           // Build info dynamically, only include fields that exist
-           let infoParts = [];
-
-           if (rpparea1) infoParts.push(`<strong>Parking Zone:</strong> ${rpparea1}`);
-           if (regulation) infoParts.push(`<strong>Regulation:</strong> ${regulation}`);
-           if (hrlimit) infoParts.push(`<strong>Hour Limit:</strong> ${hrlimit}`);
-           if (days) infoParts.push(`<strong>Days:</strong> ${days}`);
-           if (from_time || to_time) {
-               const timeStr = [from_time, to_time].filter(Boolean).join(' - ');
-               infoParts.push(`<strong>Time:</strong> ${timeStr}`);
-           }
-           if (exceptions) infoParts.push(`<strong>Exceptions:</strong> ${exceptions}`);
-
-           // Join all parts with <br>
-           const info = infoParts.join('<br>');
-           layer.bindTooltip(info, { permanent: false, direction: "top" });
-           layer.on('click', () => {
-               results.innerHTML = `Street Info: ${info}`
-           });
+           showFeatureInfo(layer, feature.properties, [{key: 'rpparea1', label: 'Parking Zone'}, 'regulation', {key: 'hrlimit', label: 'Hour Limit'}, 'days', {key: ['from_time', 'to_time'], label: 'Time'}, 'exceptions'], 'Street Info');
        }
    },
    [LayerTypes.BICYCLEPARKING.name]: {
@@ -230,11 +185,7 @@ const LayerConfig = {
        },
 
        onEachFeature: (feature, layer) => {
-           const info = feature.properties.address || feature.properties.location || '';
-           layer.bindTooltip(info, { permanent: false, direction: "top" });
-           layer.on('click', () => {
-               results.innerHTML = `Bicycle Parking: ${info}`;
-           });
+           showFeatureInfo(layer, feature.properties, [], 'Bicycle Parking Info', { skipTooltip: true });
        }
    },
 
@@ -264,6 +215,7 @@ const LayerConfig = {
            layer.on('click', () => {
                results.innerHTML = `Garages/Lots: ${info}`
            });
+            showFeatureInfo(layer, feature.properties, ['facility_name', 'street_address', 'location', 'SERVICES', 'owner', 'phone'], 'Garages/Lots');
        }
    },
 
@@ -289,14 +241,7 @@ const LayerConfig = {
        },
 
        onEachFeature: (feature, layer) => {
-           const info = feature.properties.name || '';
-           layer.bindTooltip(info, { permanent: false, direction: "top" });
-           const resource_type = feature.properties.resource_type == 'drinking_water' ? 'Drinking water' : 'Restroom'
-           layer.on('click', async () => {
-               const { lat, lng } = layer.getLatLng();
-               const address = await reverseGeocode(lat, lng);
-               results.innerHTML = `${resource_type}: ${info}<br/>${address}`
-           });
+            showFeatureInfo(layer, feature.properties, ['name'], 'Public Restroom/Water Fountain Info');
        }
    },
 
@@ -314,16 +259,7 @@ const LayerConfig = {
        },
 
        onEachFeature: (feature, layer) => {
-           const props = feature.properties;
-           const address = props.locations || '';
-           const title = props.title || '';
-           const info = `${title}<br>${address}`;
-           layer.bindTooltip(info, { permanent: false, direction: "top" });
-           layer.on('click', async () => {
-               const { lat, lng } = layer.getLatLng();
-               const address = await reverseGeocode(lat, lng);
-               results.innerHTML = `Film Location: ${info}<br/>${address}`
-           });
+           showFeatureInfo(layer, feature.properties, ['locations', 'title'], 'Film Location Info');
        }
    },
 
@@ -342,6 +278,23 @@ const LayerConfig = {
 
         onEachFeature: (feature, layer) => {
             showFeatureInfo(layer, feature.properties, ['name', 'days', 'hours', 'seasonal', 'year_round'], 'Farmers Market Info');
+        }
+    },
+    [LayerTypes.LIBRARIES.name]: {
+        url: LayerTypes.LIBRARIES.resource,
+
+        pointToLayer: (feature, latlng) => {
+            return L.marker(latlng, {
+                icon: L.divIcon({
+                    className: 'library-icon',
+                    html: `<div style="font-size: 24px; line-height: 1;">📚</div>`,
+                    iconSize: [24, 24]
+                })
+            });
+        },
+
+        onEachFeature: (feature, layer) => {
+            showFeatureInfo(layer, feature.properties, ['name', 'address', 'phone', 'hours'], 'Library Info', { skipHumanAddress: true });
         }
     }
 };

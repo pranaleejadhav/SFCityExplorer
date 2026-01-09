@@ -1,0 +1,194 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Main Library",
+        "address": "100 Larkin St, San Francisco, CA 94102",
+        "hours": "Mon 09:00–18:00; Tue–Thu 09:00–20:00; Fri 12:00–18:00; Sat 10:00–18:00; Sun 12:00–18:00"
+      },
+      "geometry": { "type": "Point", "coordinates": [-122.4163, 37.7791] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anza Branch",
+        "address": "550 37th Ave, San Francisco, CA 94121",
+        "hours": "Mon & Thu 10:00–18:00; Tue 10:00–20:00; Wed 13:00–20:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
+      },
+      "geometry": { "type": "Point", "coordinates": [-122.4971, 37.7809] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayview / Linda Brooks-Burton Branch",
+        "address": "5075 3rd St, San Francisco, CA 94124",
+        "hours": "Mon 10:00–18:00; Tue–Thu 10:00–20:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
+      },
+      "geometry": { "type": "Point", "coordinates": [-122.3928, 37.7294] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bernal Heights Branch",
+        "address": "500 Cortland Ave, San Francisco, CA 94110",
+        "hours": "Mon & Thu 10:00–18:00; Tue 10:00–19:00; Wed 12:00–20:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
+      },
+      "geometry": { "type": "Point", "coordinates": [-122.4146, 37.7428] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinatown / Lai Branch",
+        "address": "1135 Powell St, San Francisco, CA 94108",
+        "hours": "Mon 13:00–18:00; Tue–Thu 10:00–20:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
+      },
+      "geometry": { "type": "Point", "coordinates": [-122.4089, 37.7957] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eureka Valley / Harvey Milk Branch",
+        "address": "1 José Sarria Ct, San Francisco, CA 94114",
+        "hours": "Mon 13:00–18:00; Tue & Wed 10:00–20:00; Thu 10:00–18:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
+      },
+      "geometry": { "type": "Point", "coordinates": [-122.4336, 37.7589] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Excelsior Branch",
+        "address": "4400 Mission St, San Francisco, CA 94112",
+        "hours": "Mon 13:00–18:00; Tue–Thu 10:00–21:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
+      },
+      "geometry": { "type": "Point", "coordinates": [-122.4258, 37.7215] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glen Park Branch",
+        "address": "2825 Diamond St, San Francisco, CA 94131",
+        "hours": "Mon 13:00–18:00; Tue & Wed 10:00–20:00; Thu 10:00–18:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
+      },
+      "geometry": { "type": "Point", "coordinates": [-122.4376, 37.7335] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golden Gate Valley Branch",
+        "address": "1801 Green St, San Francisco, CA 94123",
+        "hours": "Mon 13:00–18:00; Tue & Thu 10:00–20:00; Wed 10:00–18:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
+      },
+      "geometry": { "type": "Point", "coordinates": [-122.4317, 37.7961] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ingleside Branch",
+        "address": "1298 Ocean Ave, San Francisco, CA 94112",
+        "hours": "Mon 13:00–18:00; Tue–Thu 10:00–20:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
+      },
+      "geometry": { "type": "Point", "coordinates": [-122.4536, 37.7231] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marina Branch",
+        "address": "1890 Chestnut St, San Francisco, CA 94123",
+        "hours": "Mon–Tue 10:00–18:00; Wed–Thu 13:00–20:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
+      },
+      "geometry": { "type": "Point", "coordinates": [-122.4424, 37.8020] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merced Branch",
+        "address": "155 Winston Dr, San Francisco, CA 94132",
+        "hours": "Mon 13:00–18:00; Tue & Wed 10:00–20:00; Thu 10:00–18:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
+      },
+      "geometry": { "type": "Point", "coordinates": [-122.4782, 37.7276] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mission Bay Branch",
+        "address": "960 4th St, San Francisco, CA 94158",
+        "hours": "Mon 13:00–18:00; Tue–Thu 10:00–20:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
+      },
+      "geometry": { "type": "Point", "coordinates": [-122.3914, 37.7725] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Noe Valley Branch",
+        "address": "451 Jersey St, San Francisco, CA 94114",
+        "hours": "Mon 13:00–18:00; Tue & Wed 10:00–20:00; Thu 10:00–18:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
+      },
+      "geometry": { "type": "Point", "coordinates": [-122.4312, 37.7507] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Beach Branch",
+        "address": "850 Columbus Ave, San Francisco, CA 94133",
+        "hours": "Mon 13:00–18:00; Tue–Thu 10:00–20:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
+      },
+      "geometry": { "type": "Point", "coordinates": [-122.4107, 37.8029] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ocean View Branch",
+        "address": "345 Randolph St, San Francisco, CA 94132",
+        "hours": "Mon 13:00–18:00; Tue & Wed 10:00–20:00; Thu 10:00–18:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
+      },
+      "geometry": { "type": "Point", "coordinates": [-122.4667, 37.7134] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ortega Branch",
+        "address": "3223 Ortega St, San Francisco, CA 94122",
+        "hours": "Mon 13:00–18:00; Tue & Wed 10:00–20:00; Thu 10:00–18:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
+      },
+      "geometry": { "type": "Point", "coordinates": [-122.4954, 37.7527] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park Branch (Haight-Ashbury)",
+        "address": "1833 Page St, San Francisco, CA 94117",
+        "hours": "Mon 13:00–18:00; Tue & Wed 10:00–20:00; Thu 10:00–18:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
+      },
+      "geometry": { "type": "Point", "coordinates": [-122.4484, 37.7694] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Presidio Branch",
+        "address": "3150 Sacramento St, San Francisco, CA 94115",
+        "hours": "Mon 13:00–18:00; Tue & Wed 10:00–20:00; Thu 10:00–18:00; Fri 13:00–18:00; Sat 10:00–18:00; Sun 13:00–17:00"
+      },
+      "geometry": { "type": "Point", "coordinates": [-122.4447, 37.7886] }
+    }
+  ]
+}
