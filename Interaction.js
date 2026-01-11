@@ -40,7 +40,7 @@ function buildInfoParts(properties, keys) {
             if (displayLabel == '') {
                 infoParts.push(`<strong>${displayValue}</strong>`);
             } else {
-            infoParts.push(`<strong>${displayLabel}:</strong> ${displayValue}`);
+                infoParts.push(`<strong>${displayLabel}:</strong> ${displayValue}`);
             }
         }
     });
@@ -61,7 +61,7 @@ function showFeatureInfo(layer, properties, keys, label, options = {}) {
                 <button onclick="copyToClipboard('${parts}')">Copy</button>
             </div>
         ` : '';
-    }; 
+    };
 
     if (isMobile) {
         layer.on('click', async () => {
@@ -73,28 +73,30 @@ function showFeatureInfo(layer, properties, keys, label, options = {}) {
                     infohtml = `<div>${info}<br/>`;
                     layer.bindPopup(infohtml).openPopup();
                 }
+                results.innerHTML = html;
             } else {
-                layer.bindPopup(html).openPopup();
-            }
-            results.innerHTML = html; // update sidebar or results div dynamically
-  
-            if (!(layer instanceof L.Polygon) && !skipHumanAddress) {
-                try {
-                    const latlng = layer.getLatLng ? layer.getLatLng() : (layer.getCenter ? layer.getCenter() : null);
-                    if (latlng) {
-                        const humanAddr = await reverseGeocode(latlng.lat, latlng.lng);
-                        if (humanAddr) {
-                            const htmlWithAddr = html ? `${html}<br/>${humanAddr}<br/><button onclick="copyToClipboard('${humanAddr}')">Copy Address</button>` : `${humanAddr}<br/><button onclick="copyToClipboard('${humanAddr}')">Copy Address</button>`;
-                            layer.bindPopup(htmlWithAddr).openPopup();
-                            results.innerHTML = htmlWithAddr;
+                if (!(skipHumanAddress)) {
+                    try {
+                        const latlng = layer.getLatLng ? layer.getLatLng() : (layer.getCenter ? layer.getCenter() : null);
+                        if (latlng) {
+                            const humanAddr = await reverseGeocode(latlng.lat, latlng.lng);
+                            if (humanAddr) {
+                                const htmlWithAddr = html ? `${html}<br/>${humanAddr}<br/><button onclick="copyToClipboard('${humanAddr}')">Copy Address</button>` : `${humanAddr}<br/><button onclick="copyToClipboard('${humanAddr}')">Copy Address</button>`;
+                                layer.bindPopup(htmlWithAddr).openPopup();
+                                results.innerHTML = htmlWithAddr;
+                            }
                         }
+                    } catch (e) {
+                        console.warn('Reverse geocode failed', e);
+                        results.innerHTML = html;
                     }
-                } catch (e) {
-                    console.warn('Reverse geocode failed', e);
+                } else {
+                    layer.bindPopup(html).openPopup();
+                    results.innerHTML = html;
                 }
             }
         });
-    } else { 
+    } else {
         if (layer instanceof L.Polygon) {
             const center = layer.getBounds().getCenter(); //
             // Desktop: tooltip on hover
