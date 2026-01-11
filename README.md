@@ -1,4 +1,4 @@
-# SFCityExplorer
+# SFCityExplorer [Medium blog link](https://medium.com/@pranaleej12/building-an-interactive-visualization-of-san-franciscos-public-data-248012588252?postPublishedType=repub)
 SF City Explorer is a personal, educational project built to learn data visualization and interactive mapping using real-world urban data from San Francisco.
 
 The project brings together multiple public datasets into a single interactive map to help users explore neighborhoods and access useful city information such as parking rules, street cleaning schedules, and public facilities.
